@@ -1,0 +1,288 @@
+[
+  {
+    "qas": [
+      {
+        "answers": [
+          {
+            "text": "FIRST AMENDMENT TO SAGEBRUSH MANAGEMENT AND MAINTENANCE AGREEMENT",
+            "answer_start": 224
+          }
+        ],
+        "id": "ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT__Document Name",
+        "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "Sagebrush",
+            "answer_start": 365
+          },
+          {
+            "text": "Sagebrush partners",
+            "answer_start": 488
+          },
+          {
+            "text": "Partners",
+            "answer_start": 411
+          },
+          {
+            "text": "ToyoWest Management Inc.",
+            "answer_start": 525
+          },
+          {
+            "text": "Partnership",
+            "answer_start": 411
+          },
+          {
+            "text": "Manager",
+            "answer_start": 578
+          }
+        ],
+        "id": "ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT__Parties",
+        "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "December 1, 1990",
+            "answer_start": 335
+          }
+        ],
+        "id": "ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT__Agreement Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT__Effective Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Effective Date\" that should be reviewed by a lawyer. Details: The date when the contract is effective\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT__Expiration Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT__Renewal Term",
+        "question": "Highlight the parts (if any) of this contract related to \"Renewal Term\" that should be reviewed by a lawyer. Details: What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT__Notice Period To Terminate Renewal",
+        "question": "Highlight the parts (if any) of this contract related to \"Notice Period To Terminate Renewal\" that should be reviewed by a lawyer. Details: What is the notice period required to terminate renewal?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT__Governing Law",
+        "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT__Most Favored Nation",
+        "question": "Highlight the parts (if any) of this contract related to \"Most Favored Nation\" that should be reviewed by a lawyer. Details: Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT__Non-Compete",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Compete\" that should be reviewed by a lawyer. Details: Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT__Exclusivity",
+        "question": "Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing\u00a0 commitment with the counterparty? This includes a commitment to procure all \u201crequirements\u201d from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on\u00a0 collaborating or working with other parties), whether during the contract or\u00a0 after the contract ends (or both).",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT__No-Solicit Of Customers",
+        "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Customers\" that should be reviewed by a lawyer. Details: Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT__Competitive Restriction Exception",
+        "question": "Highlight the parts (if any) of this contract related to \"Competitive Restriction Exception\" that should be reviewed by a lawyer. Details: This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT__No-Solicit Of Employees",
+        "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Employees\" that should be reviewed by a lawyer. Details: Is there a restriction on a party\u2019s soliciting or hiring employees and/or contractors from the\u00a0 counterparty, whether during the contract or after the contract ends (or both)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT__Non-Disparagement",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Disparagement\" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT__Termination For Convenience",
+        "question": "Highlight the parts (if any) of this contract related to \"Termination For Convenience\" that should be reviewed by a lawyer. Details: Can a party terminate this\u00a0 contract without cause (solely by giving a notice and allowing a waiting\u00a0 period to expire)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT__Rofr/Rofo/Rofn",
+        "question": "Highlight the parts (if any) of this contract related to \"Rofr/Rofo/Rofn\" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT__Change Of Control",
+        "question": "Highlight the parts (if any) of this contract related to \"Change Of Control\" that should be reviewed by a lawyer. Details: Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT__Anti-Assignment",
+        "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT__Revenue/Profit Sharing",
+        "question": "Highlight the parts (if any) of this contract related to \"Revenue/Profit Sharing\" that should be reviewed by a lawyer. Details: Is one party required to share revenue or profit with the counterparty for any technology, goods, or\u00a0services?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT__Price Restrictions",
+        "question": "Highlight the parts (if any) of this contract related to \"Price Restrictions\" that should be reviewed by a lawyer. Details: Is there a restriction on the\u00a0 ability of a party to raise or reduce prices of technology, goods, or\u00a0 services provided?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT__Minimum Commitment",
+        "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT__Volume Restriction",
+        "question": "Highlight the parts (if any) of this contract related to \"Volume Restriction\" that should be reviewed by a lawyer. Details: Is there a fee increase or consent requirement, etc. if one party\u2019s use of the product/services exceeds certain threshold?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT__Ip Ownership Assignment",
+        "question": "Highlight the parts (if any) of this contract related to \"Ip Ownership Assignment\" that should be reviewed by a lawyer. Details: Does intellectual property created\u00a0 by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT__Joint Ip Ownership",
+        "question": "Highlight the parts (if any) of this contract related to \"Joint Ip Ownership\" that should be reviewed by a lawyer. Details: Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT__License Grant",
+        "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT__Non-Transferable License",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Transferable License\" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT__Affiliate License-Licensor",
+        "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensor\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT__Affiliate License-Licensee",
+        "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensee\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT__Unlimited/All-You-Can-Eat-License",
+        "question": "Highlight the parts (if any) of this contract related to \"Unlimited/All-You-Can-Eat-License\" that should be reviewed by a lawyer. Details: Is there a clause granting one party an \u201centerprise,\u201d \u201call you can eat\u201d or unlimited usage license?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT__Irrevocable Or Perpetual License",
+        "question": "Highlight the parts (if any) of this contract related to \"Irrevocable Or Perpetual License\" that should be reviewed by a lawyer. Details: Does the contract contain a\u00a0 license grant that is irrevocable or perpetual?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT__Source Code Escrow",
+        "question": "Highlight the parts (if any) of this contract related to \"Source Code Escrow\" that should be reviewed by a lawyer. Details: Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,\u00a0 insolvency, etc.)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT__Post-Termination Services",
+        "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT__Audit Rights",
+        "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT__Uncapped Liability",
+        "question": "Highlight the parts (if any) of this contract related to \"Uncapped Liability\" that should be reviewed by a lawyer. Details: Is a party\u2019s liability uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT__Cap On Liability",
+        "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party\u2019s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT__Liquidated Damages",
+        "question": "Highlight the parts (if any) of this contract related to \"Liquidated Damages\" that should be reviewed by a lawyer. Details: Does the contract contain a clause that would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT__Warranty Duration",
+        "question": "Highlight the parts (if any) of this contract related to \"Warranty Duration\" that should be reviewed by a lawyer. Details: What is the duration of any\u00a0 warranty against defects or errors in technology, products, or services\u00a0 provided under the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT__Insurance",
+        "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT__Covenant Not To Sue",
+        "question": "Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty\u2019s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZONDWINDSYSTEMPARTNERSLTDSERIES85-B_04_03_2006-EX-10-MANAGEMENT AND MAINTENANCE AGREEMENT__Third Party Beneficiary",
+        "question": "Highlight the parts (if any) of this contract related to \"Third Party Beneficiary\" that should be reviewed by a lawyer. Details: Is there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?",
+        "is_impossible": true
+      }
+    ],
+    "context": "Exhibit 10.17(b)                                                                 ----------------\n\n                          FIRST AMENDMENT TO SAGEBRUSH                       MANAGEMENT AND MAINTENANCE AGREEMENT\n\n     THIS FIRST AMENDMENT TO SAGEBRUSH MANAGEMENT AND MAINTENANCE AGREEMENT (\"Amendment\") is made and entered into as of December 1, 1990 by and among Sagebrush, a California general partnership (\"Partnership\"), the undersigned partners of the Partnership, being all of the Sagebrush partners (\"Partners\"), and ToyoWest Management Inc., a California corporation (\"Manager\"), with respect to the following facts and circumstances:\n\n                                 R E C I T A L S                                  ---------------\n\n     A.  The Partnership, all of the Partners except Alpha Mariah (Prime), Inc. and Beta Mariah (Prime) Inc., and Manager entered into that certain Sagebrush Management and Maintenance Agreement, dated as of September 1, 1989 (the \"Agreement\").\n\n     B.  Concurrently herewith, all of the Partners are entering into a First Amendment to Second Amended and Restated Sagebrush General Co-Ownership Partnership Agreement, by which the Partners agree, among other things, that Alpha Mariah (Prime), Inc. and Beta Mariah (Prime), Inc. are admitted to the Partnership.\n\n     C.  The Partnership, the Partners and Manager desire to amend the Agreement to extend the term of the Agreement and to add a new section concerning curtailment of the LIFO Partners (as defined below), all as set forth in this Amendment.\n\n     NOW, THEREFORE, IN CONSIDERATION of the foregoing premises, the parties hereby agree as follows:\n\n     1.   Amendment.           ---------\n\n          (a)  Section 6.1 of the Agreement shall be, and hereby is, amended by deleting the date \"September 30, 2003\" where it appears therein, and inserting in its place the date \"July 20, 2006\".\n\n          (b)  A new Section 7.4 is hereby added to the Agreement, as follows:\n\n               \"7.4 Disconnection of LIFO Partners. In addition to the other rights provided to Manager hereunder to disconnect the Projects of the Partners (or their Partner Affiliates), Manager shall disconnect the Projects of Alpha Willow, SP11, SP12, SP13, SP14 and SP21 (together with their Partner Affiliates, the \"LIFO Partners\") in the following circumstances.\n\nIf at any time, and for any reason other than force majeure affecting the Transmission Line, (i) the Transmission Line is incapable of delivering power at its designed capacity, availability or voltage and curtailment of the Projects of the LIFO Partners would improve the capability of the transmission Line to deliver power at its designed capacity, availability and voltage, or (ii) the Transmission Line line losses exceed 1.14%, the excess line losses have an adverse effect on the Projects of Alpha Mariah, Alpha Mariah (Prime), Beta Mariah, Beta Mariah (Prime), or Gamma Mariah or their Partner Affiliates, and curtailment of the Projects of the LIFO Partners would reduce or eliminate such excess line losses, or (iii) the Transmission Line line losses for either of the power purchase contracts commonly known as Desert Winds I and Desert Winds III exceed the levels experienced immediately prior to the addition of the Projects of the LIFO Partners to the Transmission Line, the excess line losses have an adverse effect on the Projects of Alpha Joshua, Alpha Joshua (Prime), Beta Joshua, Beta Willow or Beta Willow (Prime) or their Partner Affiliates, and curtailment of the Projects of the LIFO Partners would reduce or eliminate such excess line losses, then the Manager shall curtail the Projects of the LIFO Partners. Nothing contained in the preceding sentence shall affect the rights of the Manager to curtail or disconnect the Project of a Partner under Section 4 of that Partner's Technical Use Agreement. Any curtailment under this provision shall be in an amount sufficient to cause the Transmission Line to deliver power at its designed capacity, availability and voltage, or to reduce the Transmission Line line losses, as applicable, up to and including the Projects of all of the LIFO Partners. Such curtailment shall continue until the Manager shall determine that reconnecting the Projects of the LIFO Partners shall not result in the recurrence of the event giving rise to the curtailment. If the LIFO Partners shall inform the Manager in writing of an agreement among them concerning the priority of the curtailment of their respective Projects, the Manager shall effect any curtailment under these provisions according to such priority. If the LIFO Partners fail to so inform the Manager, the Manager shall in its discretion determine which of the Projects of the LIFO Partners to curtail. The Manager shall cooperate with the LIFO Partners to attempt to eliminate the cause of any curtailment under this provision, provided that any expenses in connection with such cooperation shall be paid by the LIFO Partners. In connection with any attempt to eliminate the cause of any curtailment, no change to the Transmission Line shall be made without the prior unanimous consent of the Partners (excluding the LIFO Partners), which consent shall not be unreasonably withheld.\"\n\n          (c)  Existing Section 7.4 shall be renumbered as Section 7.5.\n\n\n\n\n\n                                       2\n\n          (d) All references in the Agreement to Manager as \"ToyoWest Management Company\" shall be interpreted as referring to \"ToyoWest Management Inc.,\" the correct name of Manager.\n\n     2.  Continuing Validity. Except as expressly modified by Section 1 of this          ------------------- Amendment, all of the terms and conditions of the Agreement shall remain in full force and effect. By execution of this Amendment, Alpha Mariah (Prime), Inc. and Beta Mariah (Prime), Inc. hereby become parties to the Agreement and agree to be bound by all of the terms of the Agreement and this Amendment.\n\n     3.   Miscellaneous. The provisions contained in Article 10 of the Agreement           ------------- are hereby incorporated herein by this cross-reference.\n\n                                       3\n\n          IN WITNESS WHEREOF, the Partnership, the Partners, and Manager have caused this Amendment to be executed on the dates set forth below the signatures of their respective representatives.\n\n                                           TOYOWEST MANAGEMENT INC.,                                            a California corporation\n\n                                           By:                                               ---------------------------------                                               Name:  Robert L. Eisen                                               Title:  Vice President                                               Date:  Dec 28, 1990\n\n                                           Partners, on behalf of themselves and                                            -------------------------------------                                            Sagebrush:                                            ---------\n\n                                           ALPHA JOSHUA, INC.,                                            a California corporation\n\n                                           By:                                               ---------------------------------                                               Name:  Geoffrey Hawkes                                               Title:  President                                               Date:  Dec 28, 1990\n\n                                           BETA WILLOW, INC.,                                            a California corporation\n\n                                           By:                                               ---------------------------------                                               Name:  Geoffrey Hawkes                                               Title:  President                                               Date:  Dec 28, 1990\n\n                                           ALPHA JOSHUA (PRIME), INC.,                                            a California corporation\n\n                                           By: /s/ Kenneth W. Oberg                                               ---------------------------------                                               Name: Kenneth W. Oberg                                               Title: President                                               Date: Dec 28, 1990\n\n                                           BETA WILLOW (PRIME), INC.,                                            a California corporation\n\n                                           By: /s/ Kenneth W. Oberg                              &sbsp;                ---------------------------------                                               Name: Kenneth W. Oberg                                               Title: President                                               Date: Dec 28, 1990\n\n                                           BETA JOSHUA, INC.,                                            a California corporation\n\n\n\n\n\n                                           By:                                               ---------------------------------                                               Name:  Peter Lofquist                                               Title:  President                                               Date:  Dec 28, 1990\n\n                                           ALPHA WILLOW, INC.,                                            a California corporation\n\n                                           By:                                               ---------------------------------                                               Name:  Robert L. Eisen                                               Title:  Vice President                                               Date:  Dec 28, 1990\n\n                                           ALPHA MARIAH, INC.,                                            a California corporation\n\n                                           By:                                               ---------------------------------                                               Name:  Robert L. Eisen                                               Title:  Vice President                                               Date:  Dec 28, 1990\n\n                                           ALPHA MARIAH (PRIME), INC.,                                            a California corporation\n\n&bbsp;                                          By:                                               ---------------------------------                                               Name:  Robert L. Eisen                                               Title:  Vice President                                               Date:  Dec 28, 1990\n\n                                           BETA MARIAH, INC.,                                            a California corporation\n\n                                           By:                                               ---------------------------------                                               Name:  Robert L. Eisen                                               Title:  Vice President                                               Date:  Dec 28, 1990\n\n                                           BETA MARIAH (PRIME), INC.,                                            a California corporation\n\n                                           By:                                               ---------------------------------                                               Name:  Robert L. Eisen                                               Title:  Vice President                                               Date:  Dec 28, 1990\n\n                                           GAMMA MARIAH, INC.,                                            a California corporation\n\n                                           By:                                               ---------------------------------                                               Name:  Robert L. Eisen                                               Title:  Vice President                                               Date:  Dec 28, 1990\n\n                                           DELTA MARIAH, INC.,                                            a California corporation\n\n                                           By:                                               ---------------------------------                                               Name:  Robert L. Eisen                                               Title:  Vice President                                               Date:  Dec 28, 1990\n\n                                           SAGEBRUSH PARTNER ELEVEN, INC.,                                            a California corporation\n\n                                           By:                                               ---------------------------------                                               Name:  Robert L. Eisen                                               Title:  Vice President                                               Date:  Dec 28, 1990\n\n\n\n\n\n                                           SAGEBRUSH PARTNER TWELVE, INC.,                                            a California corporation\n\n                                           By:                                               ---------------------------------                                               Name:  Robert L. Eisen                                               Title:  Vice President                                               Date:  Dec 28, 1990\n\n                                           SAGEBRUSH PARTNER THIRTEEN, INC.,                                            a California corporation\n\n                                           By:                                               ---------------------------------                                               Name:  Robert L. Eisen                                               Title:  Vice President                                               Date:  Dec 28, 1990\n\n                                           SAGEBRUSH PARTNER FOURTEEN, INC.,                                            a California corporation\n\n                                           By:                                               ---------------------------------                                               Name:  Robert L. Eisen                                               Title:  Vice President                                               Date:  Dec 28, 1990\n\n                                           SAGEBRUSH PARTNER FIFTEEN, INC.,                                            a California corporation\n\n                                           By:                                               ---------------------------------                                               Name:                                               Title:                                               Date:\n\n                                           SAGEBRUSH PARTNER SIXTEEN, INC.,                                            a California corporation\n\n                                           By:                                               ---------------------------------                                               Name:                                               Title:                                               Date:\n\n                                           SAGEBRUSH PARTNER SEVENTEEN, INC.,                                            a California corporation\n\n                                           By:                                               ---------------------------------                                               Name:                                               Title:                                               Date:\n\n                                           SAGEBRUSH PARTNER EIGHTEEN, INC.,                                            a California corporation\n\n                                           By:                                               ---------------------------------                                               Name:                                               Title:                                               Date:\n\n                                           SAGEBRUSH PARTNER NINETEEN, INC.,                                            a California corporation\n\n                                           By:                                               ---------------------------------                                               Name:                                               Title:                                               Date:\n\n                                           SAGEBRUSH PARTNER TWENTY, INC.,                                            a California corporation\n\n\n\n\n\n                                           By:                                               ---------------------------------                                               Name:                                               Title:                                               Date:\n\n                                           SAGEBRUSH PARTNER TWENTY-ONE, INC.,                                            a California corporation\n\n                                           By:                                               ---------------------------------         &sbsp;                                     Name:  Robert L. Eisen                                               Title:  Vice President                                               Date:  Dec 28, 1990"
+  }
+]

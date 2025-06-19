@@ -1,0 +1,339 @@
+[
+  {
+    "qas": [
+      {
+        "answers": [
+          {
+            "text": "Promotion Agreement",
+            "answer_start": 196
+          }
+        ],
+        "id": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement__Document Name",
+        "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "Go Call",
+            "answer_start": 75
+          },
+          {
+            "text": "Go Call, Inc.",
+            "answer_start": 75
+          },
+          {
+            "text": "PageMaster Corporation",
+            "answer_start": 48
+          }
+        ],
+        "id": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement__Parties",
+        "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "March 12,1999",
+            "answer_start": 243
+          }
+        ],
+        "id": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement__Agreement Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "This promotion shall begin on June 1,1999 and shall terminate June 1, 2000 (herein \"Term\")",
+            "answer_start": 2009
+          }
+        ],
+        "id": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement__Effective Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Effective Date\" that should be reviewed by a lawyer. Details: The date when the contract is effective\u00a0",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "This promotion shall begin on June 1,1999 and shall terminate June 1, 2000 (herein \"Term\")",
+            "answer_start": 2009
+          }
+        ],
+        "id": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement__Expiration Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "This term shall be extended for a 1 year period provided 3000 pagers per month are distributed to Purchase customers.",
+            "answer_start": 2100
+          }
+        ],
+        "id": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement__Renewal Term",
+        "question": "Highlight the parts (if any) of this contract related to \"Renewal Term\" that should be reviewed by a lawyer. Details: What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement__Notice Period To Terminate Renewal",
+        "question": "Highlight the parts (if any) of this contract related to \"Notice Period To Terminate Renewal\" that should be reviewed by a lawyer. Details: What is the notice period required to terminate renewal?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "This Agreement will be governed by and construed in accordance with the laws of the State of California, exclusive of conflicts of law principles, and will, to the maximum extent practicable, be deemed to call for performance in Los Angeles County, California.",
+            "answer_start": 12275
+          }
+        ],
+        "id": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement__Governing Law",
+        "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement__Most Favored Nation",
+        "question": "Highlight the parts (if any) of this contract related to \"Most Favored Nation\" that should be reviewed by a lawyer. Details: Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement__Non-Compete",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Compete\" that should be reviewed by a lawyer. Details: Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "PageMaster Corporation shall not engage in the same or similar                promotion with any other On-Line Casinos from June 1, 1999                through June 1, 2000.",
+            "answer_start": 4867
+          },
+          {
+            "text": "Go Call shall not engage in the same or similar promotions during                the Term of this Agreement with any other entity providing paging                services, equipment or other related products and services.",
+            "answer_start": 5723
+          }
+        ],
+        "id": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement__Exclusivity",
+        "question": "Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing\u00a0 commitment with the counterparty? This includes a commitment to procure all \u201crequirements\u201d from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on\u00a0 collaborating or working with other parties), whether during the contract or\u00a0 after the contract ends (or both).",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement__No-Solicit Of Customers",
+        "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Customers\" that should be reviewed by a lawyer. Details: Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement__Competitive Restriction Exception",
+        "question": "Highlight the parts (if any) of this contract related to \"Competitive Restriction Exception\" that should be reviewed by a lawyer. Details: This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement__No-Solicit Of Employees",
+        "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Employees\" that should be reviewed by a lawyer. Details: Is there a restriction on a party\u2019s soliciting or hiring employees and/or contractors from the\u00a0 counterparty, whether during the contract or after the contract ends (or both)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement__Non-Disparagement",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Disparagement\" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement__Termination For Convenience",
+        "question": "Highlight the parts (if any) of this contract related to \"Termination For Convenience\" that should be reviewed by a lawyer. Details: Can a party terminate this\u00a0 contract without cause (solely by giving a notice and allowing a waiting\u00a0 period to expire)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement__Rofr/Rofo/Rofn",
+        "question": "Highlight the parts (if any) of this contract related to \"Rofr/Rofo/Rofn\" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement__Change Of Control",
+        "question": "Highlight the parts (if any) of this contract related to \"Change Of Control\" that should be reviewed by a lawyer. Details: Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement__Anti-Assignment",
+        "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "PageMaster Corporation will pay Go Call $3.00 per pager (beginning with pager # 1) and 5% of all airtime renewal revenue for each pager redeemed for this promotion consistent with the terms of paragraph 6b of this Agreement.",
+            "answer_start": 7709
+          }
+        ],
+        "id": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement__Revenue/Profit Sharing",
+        "question": "Highlight the parts (if any) of this contract related to \"Revenue/Profit Sharing\" that should be reviewed by a lawyer. Details: Is one party required to share revenue or profit with the counterparty for any technology, goods, or\u00a0services?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement__Price Restrictions",
+        "question": "Highlight the parts (if any) of this contract related to \"Price Restrictions\" that should be reviewed by a lawyer. Details: Is there a restriction on the\u00a0 ability of a party to raise or reduce prices of technology, goods, or\u00a0 services provided?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "PageMaster Corporation shall provide a minimum of 100,000 up to                500,000 pagers for the fulfillment of this promotion to all                Purchase Customers who prepay their annual airtime.",
+            "answer_start": 2793
+          }
+        ],
+        "id": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement__Minimum Commitment",
+        "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "PageMaster Corporation shall provide a minimum of 100,000 up to                500,000 pagers for the fulfillment of this promotion to all                Purchase Customers who prepay their annual airtime.",
+            "answer_start": 2793
+          }
+        ],
+        "id": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement__Volume Restriction",
+        "question": "Highlight the parts (if any) of this contract related to \"Volume Restriction\" that should be reviewed by a lawyer. Details: Is there a fee increase or consent requirement, etc. if one party\u2019s use of the product/services exceeds certain threshold?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement__Ip Ownership Assignment",
+        "question": "Highlight the parts (if any) of this contract related to \"Ip Ownership Assignment\" that should be reviewed by a lawyer. Details: Does intellectual property created\u00a0 by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement__Joint Ip Ownership",
+        "question": "Highlight the parts (if any) of this contract related to \"Joint Ip Ownership\" that should be reviewed by a lawyer. Details: Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement__License Grant",
+        "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement__Non-Transferable License",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Transferable License\" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement__Affiliate License-Licensor",
+        "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensor\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement__Affiliate License-Licensee",
+        "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensee\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement__Unlimited/All-You-Can-Eat-License",
+        "question": "Highlight the parts (if any) of this contract related to \"Unlimited/All-You-Can-Eat-License\" that should be reviewed by a lawyer. Details: Is there a clause granting one party an \u201centerprise,\u201d \u201call you can eat\u201d or unlimited usage license?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement__Irrevocable Or Perpetual License",
+        "question": "Highlight the parts (if any) of this contract related to \"Irrevocable Or Perpetual License\" that should be reviewed by a lawyer. Details: Does the contract contain a\u00a0 license grant that is irrevocable or perpetual?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement__Source Code Escrow",
+        "question": "Highlight the parts (if any) of this contract related to \"Source Code Escrow\" that should be reviewed by a lawyer. Details: Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,\u00a0 insolvency, etc.)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement__Post-Termination Services",
+        "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "Such examination shall                be made at the regular place of business of PageMaster                Corporation where such books and records are maintained during                normal business hours and shall be conducted at Go Call's expense                by a certified public accountant or other Go Call executive so                designated by Go Call.",
+            "answer_start": 7185
+          },
+          {
+            "text": "Go                Call, upon ten (10) days written notice, shall have the right to                examine the books and records of PageMaster Corporation to verify                the sales resulting from this promotion.",
+            "answer_start": 6965
+          }
+        ],
+        "id": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement__Audit Rights",
+        "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement__Uncapped Liability",
+        "question": "Highlight the parts (if any) of this contract related to \"Uncapped Liability\" that should be reviewed by a lawyer. Details: Is a party\u2019s liability uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation.",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "PageMaster Corporations' liability shall in no event exceed an amount equivalent to the amounts received by PageMaster Corporation hereunder.",
+            "answer_start": 12079
+          }
+        ],
+        "id": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement__Cap On Liability",
+        "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party\u2019s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement__Liquidated Damages",
+        "question": "Highlight the parts (if any) of this contract related to \"Liquidated Damages\" that should be reviewed by a lawyer. Details: Does the contract contain a clause that would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement__Warranty Duration",
+        "question": "Highlight the parts (if any) of this contract related to \"Warranty Duration\" that should be reviewed by a lawyer. Details: What is the duration of any\u00a0 warranty against defects or errors in technology, products, or services\u00a0 provided under the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement__Insurance",
+        "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "The parties desire to resolve disputes arising out of this                Agreement without litigation.",
+            "answer_start": 13179
+          }
+        ],
+        "id": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement__Covenant Not To Sue",
+        "question": "Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty\u2019s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement__Third Party Beneficiary",
+        "question": "Highlight the parts (if any) of this contract related to \"Third Party Beneficiary\" that should be reviewed by a lawyer. Details: Is there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?",
+        "is_impossible": true
+      }
+    ],
+    "context": "Promotion Agreement Between                     PageMaster Corporation and Go Call, Inc.\n\n                                    AGREEMENT                                     ---------\n\n        This Promotion Agreement (herein \"Agreement\") dated March 12,1999, by and between Go Call, Inc. (herein \"Go Call\") located at 15 Queen Street East, Cambridge Ontario, Canada N3C2A7 and PageMaster Corporation located at 100 E. Thousand Oaks Blvd. Suite 297, Thousand Oaks, CA 91360, shall set forth the Terms and conditions pursuant to which Go Call and PageMaster Corporation shall create a promotion as more fully described below.\n\n        WHEREAS, Go Call seeks to increase its sales and website activity; and         WHEREAS. PageMaster Corporation seeks to promote the contracting of         paging service to clients;         NOW THEREFORE, Go Call and PageMaster Corporation in consideration of         the mutual obligations set forth herein and other good and valuable         consideration, the receipt and sufficiency of which the parties         acknowledge, hereby agree as follows:\n\n1.      Description of the Promotion         ----------------------------\n\n        PageMaster Corporation in conjunction with Go Call, shall offer free new Motorola \"Wordline Alphanumeric\" (or equal) pagers with no activation fee to all customers responding to this promotion who purchase twelve (12) months of numeric paging and airtime products and services from PageMaster Corporation (\"Purchase Customers\").\n\n2.      Consumer Cost Description         -------------------------\n\n        Each Purchase Customer will be required to purchase twelve months of local numeric airtime at a rate of $10.33 per month through a designated nationwide airtime provider, prepaid in advance. The purchased airtime shall be non-refundable to the consumer. Additionally, Purchase Customers will be required to pay for shipping and handling costs and applicable sales taxes based on their locations.\n\n3.      Term         ----\n\n        This promotion shall begin on June 1,1999 and shall terminate June 1, 2000 (herein \"Term\") This term shall be extended for a 1 year period provided 3000 pagers per month are distributed to Purchase customers.\n\n4.      Responsibilities of PageMaster Corporation         ------------------------------------------\n\n        PageMaster Corporation shall be responsible for providing the following:\n\n        a.     For Purchase Customers to participate in the promotion,                PageMaster Corporation shall establish and maintain a toll-free                telephone number for this promotion beginning June 1,1999 and                continuing until September 1, 2000 unless otherwise requested by                Go Call and agreed upon by PageMaster Corporation.\n\n        b.     PageMaster Corporation shall provide a minimum of 100,000 up to                500,000 pagers for the fulfillment of this promotion to all                Purchase Customers who prepay their annual airtime.\n\n        c.     PageMaster Corporation shall be responsible for all fulfillment                obligations of this promotion relating to paging services,                including, but not limited to, timely delivery of pagers, paging                services, defective goods handling, subcontracting, deadlines,                and handling of consumer and regulatory inquiries and complaints.\n\n        d.     PageMaster Corporation will contract with a nationwide airtime                service provider to fulfill and to ship Purchasing Customer                orders direct to the Purchase Customers to fulfill this promotion                in a timely manner. PageMaster Corporation has chosen for the                purpose of this promotion, MetroCall Inc. to provide pager and                airtime services where the nationwide airtime service provider                has the facilities and the requisite governmental authority to                provide such services. All Purchase Customers shall become                customers of the nationwide airtime service provider. The                nationwide airtime service provider shall be allowed to market                additional pagers arid enhanced services to all Purchase                Customers, and to charge for over-calls with respect to any                account with a Purchase Customer. The nationwide airtime service                provider shall be able to discontinue or terminate service to any                Purchase Customer in accordance with the terms of the contract                between the nationwide airtime service provider and the Purchase                Customer. Notwithstanding the foregoing, PageMaster Corporation                shall remain solely responsible for the fulfillment of all                services and obligations set forth in this Agreement.\n\n        e.     PageMaster Corporation shall not engage in the same or similar                promotion with any other On-Line Casinos from June 1, 1999                through June 1, 2000.\n\n\n\n\n\n        f.     PageMaster Corporation will provide at no charge programming                software that will allow Go Call to broadcast any and all                messages of 125 characters or less to all Go Call consumers who                have redeemed pagers on this promotion.\n\n5.      Responsibilities of Go Call         ---------------------------\n\n        a.     Go Call shall prepare and distribute at its own expense, all                advertising materials to be used for this promotion.\n\n        b.     Go Call, shall submit in advance, all artwork and advertising to                PageMaster Corporation for approval as provided in Paragraph 8.\n\n        c.     Go Call shall not engage in the same or similar promotions during                the Term of this Agreement with any other entity providing paging                services, equipment or other related products and services.\n\n6.      Payment Made As Deposit On Pagers         ---------------------------------\n\n        Upon the execution of this Agreement, Go Call shall forward to PageMaster Corporation a deposit in the sum of $100,000.00 to secure the availability of 100,000 pagers to all Purchase Customers who prepay their annual airtime for this promotion. The deposit is non-refundable except as follows:\n\n        a.     PageMaster Corporation shall refund to Go Call, $1.00 per pager                on all pagers delivered to Purchase Customers pursuant to this                promotion (net return) up to the maximum refund of $100,000.00.\n\n        b.     On the last day of each month, the refund of Go Call's portion of                the deposit shall be calculated by PageMaster Corporation for the           &bbsp;    prior month and will be forwarded to Go Call by check, along with                an extended accounting of all pagers and customers until                September 1, 2000, unless otherwise instructed by Go Call. Go                Call, upon ten (10) days written notice, shall have the right to                examine the books and records of PageMaster Corporation to verify                the sales resulting from this promotion. Such examination shall                be made at the regular place of business of PageMaster                Corporation where such books and records are maintained during                normal business hours and shall be conducted at Go Call's expense                by a certified public accountant or other Go Call executive so                designated by Go Call.\n\n7.      Co-Op Marketing Funds         ---------------------\n\n        PageMaster Corporation shall pay to Go Call, Co-Op Marketing funds for the promotion. PageMaster Corporation will pay Go Call $3.00 per pager (beginning with pager # 1) and 5% of all airtime renewal revenue for each pager redeemed for this promotion consistent with the terms of paragraph 6b of this Agreement.\n\n8.      Representation and Warranties         -----------------------------\n\n        PageMaster Corporation warrants and represents that it has a license to advertise and use the trademarks, logos, etc. of Motorola, Inc., PageMaster Promotions and such other third parties as may be necessary to advertise this promotion. At least sixty (60) days prior to the commencement of the promotion, PageMaster Corporation in its sole discretion shall have the unconditional right to approve the accuracy of the description of the pager promotion and use of corporate logos and photographs and descriptions of products and services provided by designated airtime carriers or any third parties participating in the promotion; in the event of disapproval, Go Call shall not proceed with the promotion until the revised artwork or presentation is subsequently approved by PageMaster Corporation in writing. Upon termination or expiration of this Agreement, Go Call agrees not to use or advertise any trademarks, logos or other property rights of PageMaster Corporation or any third parties participating in the promotion. Any advertising, artwork, presentation, or other promotional activities (collectively \"Advertising\") concerning the pager Promotion not pre-approved in writing by PageMaster Corporation shall be deemed to be unauthorized by PageMaster Corporation and shall constitute a breach of this Agreement. In addition to the duty to indemnify PageMaster Corporation as provided in Paragraph 9 hereof, Go Call shall also have the duty to indemnify Motorola, Inc. or any affiliated entity from and against any and all claims, expense, suits or demands arising from such unauthorized Advertising by Go Call, or its agent, affiliate, licensee, franchisee or any other third party.\n\n9.      Indemnity         ---------\n\n        Each party shall indemnify and hold harmless the other from any loss or damages, including reasonable attorneys' fees incurred by the other because of claims, suits or demands based on personal injury, death or property damage or third party claims, suits or demands of any kind to the extent such loss or damage is caused by or results from the negligent or willful acts or omissions of the other or its employees or agents, including but not limited to the unauthorized use of the trademark, logos, or other property of third parties without the consent and approval of PageMaster Corporation. PageMaster Corporation's participation in the promotion does not constitute an endorsement of the products or services of Go Call nor does Go Call's participation in the promotion constitute an endorsement of PageMaster Corporations or any third party's products or services.\n\n\n\n\n\n10.     Force Majeure         -------------\n\n         Neither party will be responsible for any delay or failure in performance of any part of&bbsp;this Agreement to the extent that such delay or failure is caused by any event beyond its control, which may include, but not be limited to, fire, flood, explosion, war, strike, embargo, government requirement, civil or military authority, and acts of God (\"Conditions\"). If any such Condition occurs, the party delayed or unable to perform shall promptly give notice to the other party and, if such Condition remains at the end of thirty (30) days thereafter, the party affected by the other party's delay or inability to perform may elect to terminate or suspend this Agreement or part thereof, and resume performance of this Agreement once the Condition ceases, with an option for the affected party to extend the period of this Agreement up to the length of time the Condition endured. PageMaster Corporation make no warranties, either express or implied, concerning the pagers or the transmission of pages by the airtime service provider, including warranties of merchantability or fitness for particular purpose. The parties agree that\n\nPageMaster Corporation shall not be liable for service interruptions in the telecommunications industry, capacity constraints or related problems, or for any act or omission of any other entity furnishing products or services to PageMaster Corporation. PageMaster Corporations' liability shall in no event exceed an amount equivalent to the amounts received by PageMaster Corporation hereunder.\n\n11.     Choice Of Law         -------------\n\n        This Agreement will be governed by and construed in accordance with the laws of the State of California, exclusive of conflicts of law principles, and will, to the maximum extent practicable, be deemed to call for performance in Los Angeles County, California. Los Angeles County, California shall be the sole and exclusive venue for any litigation or dispute resolution relating to or arising out of the Agreement. To seek or receive indemnification hereunder (i) the party seeking indemnification must have properly notified the other party of any claim or litigation of which it is aware to which the indemnification relates; and the party seeking indemnification must have afforded the other the opportunity to participate in any compromise, settlement, litigation or other resolution or disposition of such claim or litigation.\n\n12.     Dispute Resolution         ------------------\n\n        a.     The parties desire to resolve disputes arising out of this                Agreement without litigation. Accordingly, except for an action                seeking a temporary restraining order or injunction related to                the purposes of this Agreement, or a suit to compel compliance                with this dispute resolution process, the parties agree to use                the following alternative dispute resolution procedure as their                sole remedy with respect to any controversy or claim arising out                of or relating to this Agreement or its breach.\n\n        b.     At the written request of a party, each party shall appoint a                knowledgeable, responsible representative to meet and negotiate                in good faith to resolve any dispute arising under this                Agreement. The parties intend that these negotiations be                conducted by non-lawyer, business representatives. The                discussions shall be left to the discretion of the                representatives. Upon agreement, the representatives may utilize                other alternative dispute resolution procedures such as mediation                to assist in the negotiations. Discussions and correspondence                among the representatives for purposes of these negotiations                shall be treated as confidential information developed for                purposes of settlement, exempt from discovery and production,                which shall not be admissible in the arbitration described below                or in any lawsuit without the concurrence of all parties.                Documents identified in or provided with such communications,                which are not prepared for purposes of the negotiations, are not                so exempted and may, if otherwise admissible, be admitted in                evidence in the arbitration or lawsuit.\n\n        c.     If the negotiations do not resolve the dispute within sixty (60)                days of the initial written request, the dispute shall be                submitted to binding arbitration by a single arbitrator pursuant                to the Commercial Arbitration Rules of the American Arbitration                Association. A party may demand such arbitration in accordance                with the procedures set out in those rules. Discovery shall be                controlled by the arbitrator and shall be permitted to the extent                set out in this Section. Each party may submit in writing to a                party, and that party shall so respond, to a maximum of any                combination of thirty-five (35) (none of which may have subparts)                of the following: interrogatories, demands to produce documents                and requests for admission. Each party is also entitled to take                the oral deposition of one (1) individual of another party.                Additional discovery may be permitted upon mutual agreement of                the parties. The arbitration hearing shall be commenced within                sixty (60) days of the demand for arbitration and the arbitration                shall be held in Los Angeles, CA. The arbitrator shall control                the scheduling so as to process the matter expeditiously. The\n\n               parties may submit written briefs. The arbitrator shall rule on\n\n\n\n\n\n               the dispute by issuing a written opinion within thirty (30) days                after the close of hearings. The times specified in this                paragraph may be extended upon mutual agreement of the parties or                by the arbitrator upon a showing of good cause. Judgment upon the                award rendered by the arbitrator may be entered in any court                having jurisdiction.\n\n        d.     Each party shall bear its own cost of these procedures. A party                seeking discovery shall reimburse the responding party the cost                of production of the documents (to include search time and                reproduction time costs). The parties shall equally share the                fees of the arbitration and the arbitrator.\n\n13.     Notices         -------\n\n        Any notice or demand given to either party under the Terms of this Agreement or pursuant to statute shall be in writing and shall be given or made by telegram, facsimile transmission, certified or registered mail, express mail or other overnight delivery service or hand delivery, proper postage or other charges prepaid and addressed or directed to the respective parties as follows:\n\nPAGEMASTER CORPORATION 100 E. Thousand Oaks Blvd. Suite 297 Thousand Oaks, CA 91360 ATTN:    Marc Resnick, CEO\n\nGO CALL, INC. 15 Queen Street East Cambridge Ontario, Canada N3C2A7 ATTN:    Ian Smith, President\n\n         Such notice or demand shall be deemed to have been given or made when actually received or seventy-two (72) hours after being sent, whichever occurs first. The address for notice set out above may be changed at any time by giving thirty (30) days prior written notice in the manner above.\n\n14.     Agreement Expiration         --------------------\n\n        Unless this Agreement is signed by an authorized representative of Go Call and a signed copy delivered in person by mail or facsimile and personally received by an authorized representative of PageMaster Corporation by 12:01 p.m. PST, on or before March 26, 1999, this Agreement shall be deemed terminated and shall be of no further force or effect and the parties shall have no liability to one another. At PageMaster Corporation's option, an additional agreement(s) may be prepared to further negotiate this or similar promotions with Go Call.\n\n15.     Entire Agreement         ----------------\n\n        This Agreement represents the entire agreement and understanding of the parties hereto with respect to its subject matter hereof, and supersedes all previous representations, understandings or agreements between the parties hereto. No waiver, modification or cancellation of any term or condition of this Agreement shall be effective unless executed in writing by the party charged therewith.\n\n16.     Nonwaiver         ---------\n\n        Either parties failure to enforce any of the provisions of this Agreement shall in no way be deemed to affect the validity of this Agreement.\n\n17.     Counterparts         ------------\n\n        This Agreement may be executed in duplicate counterparts, all of which together shall constitute a single instrument, and each of which shall be deemed an original of this Agreement for all purposes.\n\n18.     Successors and Assigns         ----------------------\n\n        This Agreement shall be binding upon, and shall inure to the benefit of the successors, heirs, administrators, trustees and assigns of the parties.\n\n19.     Confidentiality         ---------------\n\n        The parties acknowledge that preparation for and execution of the promotion necessitates the exchange of confidential and proprietary information relating and belonging to the parties to this Agreement, as well as to other third parties integral to the promotion, including, without limitation, the pager manufacturer and the airtime supplier (herein \"Information\"). Each party agrees (1) to review, examine, inspect, obtain or utilize the information only for the purpose of this promotion, (2) to otherwise hold such Information strictly confidential, (3) to prevent the disclosure of such Information to nonessential third parties without a \"need to know\", and (4) to insure that each party's employees, agents and representatives and those of any integral third party understand and are bound by the confidentiality obligations of this Agreement. Each party shall indemnify the other party with respect to any loss or damage arising from the unauthorized disclosure or use of the Information by their respective employees, agents and representatives, or by those of any third\n\n\n\n\n\nparty to whom such Information was disclosed. The agreements contained in this Paragraph shall survive the expiration, or termination of this Agreement. The panics hereby agree that subsequent to the expiration or termination of this Agreement, each party consents to the other party's use of its name only in connection with advertising to their respective trade or industry.\n\n        IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed as of the date set forth below.\n\n                                                GO CALL, Inc.\n\n        Dated:  3/13/99                         By:  /s/ Michael Ruge                -------------------      &sbsp;           ----------------------------                                                      Michael Ruge\n\n                                                PAGEMASTER CORPORATION\n\n        Dated:  3/13/99                         By:  /s/ Marc B. Resnick                -------------------                  ----------------------------                                                      Marc B. Resnick                                                      CE0"
+  }
+]

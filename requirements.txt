@@ -1,0 +1,32 @@
+requests
+beautifulsoup4
+tqdm
+PyMuPDF
+python-docx
+unstructured
+langchain
+chromadb
+faiss-cpu
+streamlit
+watchdog
+pydantic
+python-dotenv
+openai  # Commented out for Anthropic
+llama-index 
+scikit-learn
+torch
+transformers
+tensorboardX
+tensorboard
+numpy
+pandas
+scipy
+scikit-image
+scikit-learn
+langchain-community
+langchain-openai
+langchain-anthropic
+langchain-huggingface
+langchain-ollama
+anthropic  # Added for Claude API
+sentence-transformers

@@ -1,0 +1,341 @@
+[
+  {
+    "qas": [
+      {
+        "answers": [
+          {
+            "text": "TRADEMARK LICENSE AGREEMENT",
+            "answer_start": 46
+          }
+        ],
+        "id": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement__Document Name",
+        "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "the \"Licensor\"",
+            "answer_start": 253
+          },
+          {
+            "text": "Palmer Square Capital BDC Inc.",
+            "answer_start": 274
+          },
+          {
+            "text": "Palmer Square Capital Management LLC",
+            "answer_start": 177
+          },
+          {
+            "text": "the \"Licensee\"",
+            "answer_start": 371
+          }
+        ],
+        "id": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement__Parties",
+        "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "[ ] day of [ ], 2020",
+            "answer_start": 121
+          }
+        ],
+        "id": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement__Agreement Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "[ ] day of [ ], 2020",
+            "answer_start": 121
+          }
+        ],
+        "id": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement__Effective Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Effective Date\" that should be reviewed by a lawyer. Details: The date when the contract is effective\u00a0",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "This Agreement shall expire if the Investment Advisor or one of its affiliates ceases to serve as investment adviser to the Licensee.",
+            "answer_start": 8013
+          }
+        ],
+        "id": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement__Expiration Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement__Renewal Term",
+        "question": "Highlight the parts (if any) of this contract related to \"Renewal Term\" that should be reviewed by a lawyer. Details: What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement__Notice Period To Terminate Renewal",
+        "question": "Highlight the parts (if any) of this contract related to \"Notice Period To Terminate Renewal\" that should be reviewed by a lawyer. Details: What is the notice period required to terminate renewal?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "This Agreement shall be governed by, and construed in accordance with, the laws of the State of New York.",
+            "answer_start": 11593
+          }
+        ],
+        "id": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement__Governing Law",
+        "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement__Most Favored Nation",
+        "question": "Highlight the parts (if any) of this contract related to \"Most Favored Nation\" that should be reviewed by a lawyer. Details: Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement__Non-Compete",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Compete\" that should be reviewed by a lawyer. Details: Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement__Exclusivity",
+        "question": "Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing\u00a0 commitment with the counterparty? This includes a commitment to procure all \u201crequirements\u201d from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on\u00a0 collaborating or working with other parties), whether during the contract or\u00a0 after the contract ends (or both).",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement__No-Solicit Of Customers",
+        "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Customers\" that should be reviewed by a lawyer. Details: Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement__Competitive Restriction Exception",
+        "question": "Highlight the parts (if any) of this contract related to \"Competitive Restriction Exception\" that should be reviewed by a lawyer. Details: This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement__No-Solicit Of Employees",
+        "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Employees\" that should be reviewed by a lawyer. Details: Is there a restriction on a party\u2019s soliciting or hiring employees and/or contractors from the\u00a0 counterparty, whether during the contract or after the contract ends (or both)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement__Non-Disparagement",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Disparagement\" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "by Licensor or Licensee upon sixty (60) days' written notice to the other party;",
+            "answer_start": 8365
+          },
+          {
+            "text": "This Agreement shall be terminable",
+            "answer_start": 8147
+          }
+        ],
+        "id": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement__Termination For Convenience",
+        "question": "Highlight the parts (if any) of this contract related to \"Termination For Convenience\" that should be reviewed by a lawyer. Details: Can a party terminate this\u00a0 contract without cause (solely by giving a notice and allowing a waiting\u00a0 period to expire)?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement__Rofr/Rofo/Rofn",
+        "question": "Highlight the parts (if any) of this contract related to \"Rofr/Rofo/Rofn\" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement__Change Of Control",
+        "question": "Highlight the parts (if any) of this contract related to \"Change Of Control\" that should be reviewed by a lawyer. Details: Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "Licensee shall not sublicense, assign, pledge, grant or otherwise encumber or transfer to any third party all or any part of its rights or duties under this Agreement, in whole or in part, without the prior written consent of the Licensor, which consent Licensor may grant or withhold in its sole and absolute discretion",
+            "answer_start": 9968
+          },
+          {
+            "text": "Licensee at any time in the event Licensee assigns or attempts to assign or sublicense this Agreement or any of Licensee's rights or duties hereunder without the prior written consent of Licensor.",
+            "answer_start": 8452
+          },
+          {
+            "text": "This Agreement shall be terminable by",
+            "answer_start": 8147
+          },
+          {
+            "text": "Any purported transfer without such consent shall be void ab initio.",
+            "answer_start": 10290
+          }
+        ],
+        "id": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement__Anti-Assignment",
+        "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement__Revenue/Profit Sharing",
+        "question": "Highlight the parts (if any) of this contract related to \"Revenue/Profit Sharing\" that should be reviewed by a lawyer. Details: Is one party required to share revenue or profit with the counterparty for any technology, goods, or\u00a0services?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement__Price Restrictions",
+        "question": "Highlight the parts (if any) of this contract related to \"Price Restrictions\" that should be reviewed by a lawyer. Details: Is there a restriction on the\u00a0 ability of a party to raise or reduce prices of technology, goods, or\u00a0 services provided?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement__Minimum Commitment",
+        "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement__Volume Restriction",
+        "question": "Highlight the parts (if any) of this contract related to \"Volume Restriction\" that should be reviewed by a lawyer. Details: Is there a fee increase or consent requirement, etc. if one party\u2019s use of the product/services exceeds certain threshold?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement__Ip Ownership Assignment",
+        "question": "Highlight the parts (if any) of this contract related to \"Ip Ownership Assignment\" that should be reviewed by a lawyer. Details: Does intellectual property created\u00a0 by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement__Joint Ip Ownership",
+        "question": "Highlight the parts (if any) of this contract related to \"Joint Ip Ownership\" that should be reviewed by a lawyer. Details: Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "Subject to the terms and conditions of this Agreement, Licensor hereby grants to Licensee, and Licensee hereby accepts from Licensor, a personal, non-exclusive, royalty-free right and license to use the Licensed Mark solely and exclusively as a component of Licensee's own corporate name and in connection with marketing the investment management, investment consultation and investment advisory services that Investment Advisor may provide to Licensee.",
+            "answer_start": 2170
+          }
+        ],
+        "id": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement__License Grant",
+        "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "Subject to the terms and conditions of this Agreement, Licensor hereby grants to Licensee, and Licensee hereby accepts from Licensor, a personal, non-exclusive, royalty-free right and license to use the Licensed Mark solely and exclusively as a component of Licensee's own corporate name and in connection with marketing the investment management, investment consultation and investment advisory services that Investment Advisor may provide to Licensee.",
+            "answer_start": 2170
+          }
+        ],
+        "id": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement__Non-Transferable License",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Transferable License\" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement__Affiliate License-Licensor",
+        "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensor\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement__Affiliate License-Licensee",
+        "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensee\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement__Unlimited/All-You-Can-Eat-License",
+        "question": "Highlight the parts (if any) of this contract related to \"Unlimited/All-You-Can-Eat-License\" that should be reviewed by a lawyer. Details: Is there a clause granting one party an \u201centerprise,\u201d \u201call you can eat\u201d or unlimited usage license?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement__Irrevocable Or Perpetual License",
+        "question": "Highlight the parts (if any) of this contract related to \"Irrevocable Or Perpetual License\" that should be reviewed by a lawyer. Details: Does the contract contain a\u00a0 license grant that is irrevocable or perpetual?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement__Source Code Escrow",
+        "question": "Highlight the parts (if any) of this contract related to \"Source Code Escrow\" that should be reviewed by a lawyer. Details: Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,\u00a0 insolvency, etc.)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "For twenty-four (24) months following termination of this Agreement, Licensee shall specify on all public-facing materials in a prominent place and in prominent typeface that Licensee is no longer operating under the Licensed Mark, is no longer associated with Licensor, or such other notice as may be deemed necessary by Licensor in its sole discretion in its prosecution, defense, and/or settlement of any Third Party Claim.",
+            "answer_start": 9039
+          }
+        ],
+        "id": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement__Post-Termination Services",
+        "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement__Audit Rights",
+        "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement__Uncapped Liability",
+        "question": "Highlight the parts (if any) of this contract related to \"Uncapped Liability\" that should be reviewed by a lawyer. Details: Is a party\u2019s liability uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement__Cap On Liability",
+        "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party\u2019s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement__Liquidated Damages",
+        "question": "Highlight the parts (if any) of this contract related to \"Liquidated Damages\" that should be reviewed by a lawyer. Details: Does the contract contain a clause that would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement__Warranty Duration",
+        "question": "Highlight the parts (if any) of this contract related to \"Warranty Duration\" that should be reviewed by a lawyer. Details: What is the duration of any\u00a0 warranty against defects or errors in technology, products, or services\u00a0 provided under the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement__Insurance",
+        "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement__Covenant Not To Sue",
+        "question": "Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty\u2019s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "The parties agree that Investment Advisor shall be a third party beneficiary of this Agreement, and shall have the rights and protections provided to Licensee under this Agreement.",
+            "answer_start": 9523
+          }
+        ],
+        "id": "PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement__Third Party Beneficiary",
+        "question": "Highlight the parts (if any) of this contract related to \"Third Party Beneficiary\" that should be reviewed by a lawyer. Details: Is there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?",
+        "is_impossible": false
+      }
+    ],
+    "context": "Exhibit 10.6 TRADEMARK LICENSE AGREEMENT This TRADEMARK LICENSE AGREEMENT (this \"Agreement\") is made and effective as of [ ] day of [ ], 2020 (\"Effective Date\"), by and between Palmer Square Capital Management LLC, a Delaware limited liability company (the \"Licensor\"), and Palmer Square Capital BDC Inc., a corporation organized under the laws of the State of Maryland (the \"Licensee\") (each a \"party,\" and collectively, the \"parties\"). RECITALS WHEREAS, Licensee is a newly organized, externally managed, closed-end, non-diversified management investment company that intends to elect to be regulated as a business development company under the Investment Company Act of 1940, as amended (the \"1940 Act\"); WHEREAS, Licensor, together with its affiliates, provides investment management, investment consultation and investment advisory services; WHEREAS, Licensor and its affiliates, including Palmer Square BDC Advisor LLC, a Delaware limited liability company (\"Investment Advisor\"), have used the marks \"Palmer Square\", \"Palmer Square Capital\" and derivations thereof (the \"Licensed Mark\") in the United States of America and certain other jurisdictions (collectively, the \"Territory\") in connection with the investment management, investment consultation and investment advisory services they provide; WHEREAS, the Licensee is entering into an investment advisory agreement with Investment Advisor (the \"Advisory Agreement\"), wherein Licensee shall engage Investment Advisor to act as the investment adviser to the Licensee; WHEREAS, it is intended that Investment Advisor be a third party beneficiary of this Agreement; and WHEREAS, the Licensee desires to use the Licensed Mark as part of its corporate name and in connection with the operation of its business, and Licensor is willing to grant Licensee a license to use the Licensed Mark, subject to the terms and conditions of this Agreement. NOW, THEREFORE, in consideration of the mutual covenants and agreements set forth herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows: ARTICLE 1. LICENSE GRANT 1.1. License. Subject to the terms and conditions of this Agreement, Licensor hereby grants to Licensee, and Licensee hereby accepts from Licensor, a personal, non-exclusive, royalty-free right and license to use the Licensed Mark solely and exclusively as a component of Licensee's own corporate name and in connection with marketing the investment management, investment consultation and investment advisory services that Investment Advisor may provide to Licensee. During the term of this Agreement, Licensee shall use the Licensed Mark only to the extent permitted under this License, and except as provided above, neither Licensee nor any affiliate, owner, director, officer, employee or agent thereof shall otherwise use the Licensed Mark or any derivative thereof in the Territory without the prior express written consent of Licensor in its sole and absolute discretion and shall not use the Licensed Mark for any purpose outside the Territory. All rights not expressly granted to Licensee hereunder shall remain the exclusive property of the Licensor. 1.2. Nothing in this Agreement shall preclude Licensor or any of its successors or assigns from using or permitting other entities to use the Licensed Mark, whether or not such entity directly or indirectly competes or conflicts with Licensee's business in any manner.\n\nSource: PALMER SQUARE CAPITAL BDC INC., 10-12G/A, 1/16/2020\n\n\n\n\n\nARTICLE 2. COMPLIANCE 2.1. Quality Control. In order to preserve the inherent value of the Licensed Mark, Licensee agrees to use reasonable efforts to ensure that it maintains the quality of the Licensee's business and the operation thereof equal to the standards prevailing in the operation of Licensee's business as of the Effective Date. The Licensee further agrees to use the Licensed Mark in accordance with such quality standards as may be reasonably established by Licensor and communicated to the Licensee from time to time in writing, or as may be agreed to by Licensor and the Licensee from time to time in writing. 2.2. Compliance With Laws. Licensee agrees that the business operated by it in connection with the Licensed Mark shall comply with all laws, rules, regulations and requirements of any governmental body in the Territory or elsewhere as may be applicable to the operation, marketing, and promotion of the business and shall notify Licensor of any action that must be taken by Licensee to comply with such law, rules, regulations or requirements. 2.3. Notification of Infringement. Each party shall immediately notify the other party and provide to the other party all relevant background facts upon becoming aware of (a) any registrations of, or applications for registration of, marks in the Territory that do or may conflict with the Licensor's rights in the Licensed Mark or the rights granted to the Licensee under this Agreement, (b) any infringements or misuse of the Licensed Mark in the Territory by any third party (\"Third Party Infringement\"), or (c) any claim that Licensee's use of the Licensed Mark infringes the intellectual property rights of any third party in the Territory (\"Third Party Claim\"). Licensor shall have the exclusive right, but not the obligation, to prosecute, defend and/or settle in its sole discretion, all actions, proceedings and claims involving any Third Party Infringement or Third Party Claim, and to take any other action that it deems necessary or proper for the protection and preservation of its rights in the Licensed Mark. Licensee shall cooperate with Licensor in the prosecution, defense or settlement of such actions, proceedings or claims.\n\n- 2 -\n\nSource: PALMER SQUARE CAPITAL BDC INC., 10-12G/A, 1/16/2020\n\n\n\n\n\nARTICLE 3. REPRESENTATIONS AND WARRANTIES 3.1. Licensee accepts this license on an \"as is\" basis. Licensee acknowledges that Licensor makes no explicit or implicit representation or warranty as to the registrability, validity, enforceability, ownership of the Licensed Mark, or as to Licensee's ability to use the Licensed Mark without infringing or otherwise violating the rights of others, and Licensor has no obligation to indemnify Licensee with respect to any claims arising from Licensee's use of the Licensed Mark, including without limitation any Third Party Claim. 3.2. Mutual Representations. Each party hereby represents and warrants to the other party as follows: (a) Due Authorization. Such party is a limited liability company duly formed or a corporation duly incorporated, as applicable, and is in good standing as of the Effective Date, and the execution, delivery and performance of this Agreement by such party have been duly authorized by all necessary action on the part of such party. (b) Due Execution. This Agreement has been duly executed and delivered by such party and, upon due authorization, execution and delivery of this Agreement by the other party, constitutes a legal, valid and binding obligation of such party, enforceable against such party in accordance with its terms. (c) No Conflict. Such party's execution, delivery and performance of this Agreement do not: (i) violate, conflict with or result in the breach of any provision of the operating agreement, charter or bylaws (or similar organizational documents) of such party; (ii) conflict with or violate any governmental order applicable to such party or any of its assets, properties or businesses; or (iii) conflict with, result in any breach of, constitute a default (or event which with the giving of notice or lapse of time, or both, would become a default) under, require any consent under, or give to others any rights of termination, amendment, acceleration, suspension, revocation or cancellation of any contract, agreement, lease, sublease, license, permit, franchise or other instrument or arrangement to which it is a party. ARTICLE 4. TERM AND TERMINATION 4.1. Term. This Agreement shall expire if the Investment Advisor or one of its affiliates ceases to serve as investment adviser to the Licensee. This Agreement shall be terminable by Licensor at any time and in its sole discretion in the event that Licensor or Licensee receives notice of any Third Party Claim arising out of Licensee's use of the Licensed Mark; by Licensor or Licensee upon sixty (60) days' written notice to the other party; or by Licensee at any time in the event Licensee assigns or attempts to assign or sublicense this Agreement or any of Licensee's rights or duties hereunder without the prior written consent of Licensor.\n\n- 3 -\n\nSource: PALMER SQUARE CAPITAL BDC INC., 10-12G/A, 1/16/2020\n\n\n\n\n\n4.2. Upon Termination. Upon expiration or termination of this Agreement, all rights granted to Licensee under this Agreement with respect to the Licensed Mark shall cease, and Licensee shall immediately delete the term \"Palmer Square\" from its corporate name and shall discontinue all other use of the Licensed Mark. For twenty-four (24) months following termination of this Agreement, Licensee shall specify on all public-facing materials in a prominent place and in prominent typeface that Licensee is no longer operating under the Licensed Mark, is no longer associated with Licensor, or such other notice as may be deemed necessary by Licensor in its sole discretion in its prosecution, defense, and/or settlement of any Third Party Claim. ARTICLE 5. MISCELLANEOUS 5.1. Third Party Beneficiaries. The parties agree that Investment Advisor shall be a third party beneficiary of this Agreement, and shall have the rights and protections provided to Licensee under this Agreement. Nothing in this Agreement, either express or implied, is intended to or shall confer upon any third party other than Investment Advisor any legal or equitable right, benefit or remedy of any nature whatsoever under or by reason of this Agreement. 5.2. Assignment. Licensee shall not sublicense, assign, pledge, grant or otherwise encumber or transfer to any third party all or any part of its rights or duties under this Agreement, in whole or in part, without the prior written consent of the Licensor, which consent Licensor may grant or withhold in its sole and absolute discretion. Any purported transfer without such consent shall be void ab initio. 5.3. Independent Contractor. Neither party shall have, or shall represent that it has, any power, right or authority to bind the other party to any obligation or liability, or to assume or create any obligation or liability on behalf of the other party. 5.4. Notices. All notices, requests, claims, demands and other communications hereunder shall be in writing and shall be given or made (and shall be deemed to have been duly given or made upon receipt) by delivery in person, by overnight courier service (with signature required), by facsimile or by registered or certified mail (postage prepaid, return receipt requested) to the respective parties at the following addresses (or such other address as the parties may provide to each other by written Notice): If to Licensor: Palmer Square Capital Management LLC 1900 Shawnee Mission Parkway, Suite 315 Mission Woods, Kansas 66205 Tel. No.: (816) 994-3200 Fax No.: (913) 647-9733 Attn: Member\n\n- 4 -\n\nSource: PALMER SQUARE CAPITAL BDC INC., 10-12G/A, 1/16/2020\n\n\n\n\n\nIf to Licensee: Palmer Square Capital BDC Inc. 1900 Shawnee Mission Parkway, Suite 315 Mission Woods, Kansas 66205 Tel. No.: (816) 994-3200 Fax No.: (913) 647-9733 Attn: Chief Executive Officer 5.5. Governing Law. This Agreement shall be governed by, and construed in accordance with, the laws of the State of New York. The parties unconditionally and irrevocably consent to the exclusive jurisdiction of the courts located in the State of New York and waive any objection with respect thereto, for the purpose of any action, suit or proceeding arising out of or relating to this Agreement or the transactions contemplated hereby. 5.6. Amendment. This Agreement may not be amended or modified except by an instrument in writing signed by each party hereto. 5.7. No Waiver. The failure of either party to enforce at any time for any period the provisions of or any rights deriving from this Agreement shall not be construed to be a waiver of such provisions or rights or the right of such party thereafter to enforce such provisions, and no waiver shall be binding unless executed in writing by all parties hereto. 5.8. Severability. If any term or other provision of this Agreement is invalid, illegal or incapable of being enforced by any law or public policy, all other terms and provisions of this Agreement shall nevertheless remain in full force and effect so long as the economic or legal substance of the transactions contemplated hereby is not affected in any manner materially adverse to any party. Upon such determination that any term or other provision is invalid, illegal or incapable of being enforced, the parties hereto shall negotiate in good faith to modify this Agreement so as to effect the original intent of the parties as closely as possible in an acceptable manner in order that the transactions contemplated hereby are consummated as originally contemplated to the greatest extent possible. 5.9. Headings. The descriptive headings contained in this Agreement are for convenience of reference only and shall not affect in any way the meaning or interpretation of this Agreement. 5.10. Counterparts. This Agreement may be executed in one or more counterparts, each of which when executed shall be deemed to be an original instrument and all of which taken together shall constitute one and the same agreement. Facsimile or portable document format (PDF) counterpart signatures to this Agreement shall be acceptable and binding. 5.11. Entire Agreement. This Agreement constitutes the entire agreement of the parties with respect to the subject matter hereof and supersedes all prior agreements and undertakings, both written and oral, between the parties with respect to such subject matter. [Remainder of Page Intentionally Left Blank]\n\n- 5 -\n\nSource: PALMER SQUARE CAPITAL BDC INC., 10-12G/A, 1/16/2020\n\n\n\n\n\nIN WITNESS WHEREOF, each party has caused this Agreement to be executed on the date first set forth above by its duly authorized officer. LICENSOR: PALMER SQUARE CAPITAL MANAGEMENT LLC By: Name: Jeffrey D. Fox Title: Managing Director LICENSEE: PALMER SQUARE CAPITAL BDC INC. By: Name: Scott A. Betz Title: Chief Compliance Officer ACKNOWLEDGED AND AGREED TO PALMER SQUARE BDC ADVISOR LLC By: Name: Jeffrey D. Fox Title: Chief Financial Officer [Signature Page to Trademark License Agreement]\n\nSource: PALMER SQUARE CAPITAL BDC INC., 10-12G/A, 1/16/2020"
+  }
+]

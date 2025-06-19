@@ -1,0 +1,354 @@
+[
+  {
+    "qas": [
+      {
+        "answers": [
+          {
+            "text": "CONTENT LICENSING AGREEMENT",
+            "answer_start": 41
+          }
+        ],
+        "id": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement__Document Name",
+        "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "plan_b",
+            "answer_start": 623
+          },
+          {
+            "text": "Licensor",
+            "answer_start": 326
+          },
+          {
+            "text": "PLAN_B MEDIA AG",
+            "answer_start": 414
+          },
+          {
+            "text": "Data Call Technologies, Inc.",
+            "answer_start": 142
+          }
+        ],
+        "id": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement__Parties",
+        "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "03/24/06",
+            "answer_start": 10945
+          }
+        ],
+        "id": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement__Agreement Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "Contract  start:  04-01-06",
+            "answer_start": 13666
+          }
+        ],
+        "id": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement__Effective Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Effective Date\" that should be reviewed by a lawyer. Details: The date when the contract is effective\u00a0",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "Unless  otherwise  stated  in  the  Appendix  the  term of this letter           Agreement  shall  continue  for  twenty-four  (24)  months  with  the           effective  date  unless  terminated sooner or extended pursuant to the           terms hereof (\"Initial Term\")",
+            "answer_start": 7285
+          },
+          {
+            "text": "Contract  end:  04-01-08",
+            "answer_start": 13704
+          }
+        ],
+        "id": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement__Expiration Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "The Initial Term shall automatically be           extended  for  an additional period of half a year unless either party           provides  the  other party with written notification of termination of           the  letter  Agreement  at  least 60 days prior to end of such period.",
+            "answer_start": 7558
+          }
+        ],
+        "id": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement__Renewal Term",
+        "question": "Highlight the parts (if any) of this contract related to \"Renewal Term\" that should be reviewed by a lawyer. Details: What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "The Initial Term shall automatically be           extended  for  an additional period of half a year unless either party           provides  the  other party with written notification of termination of           the  letter  Agreement  at  least 60 days prior to end of such period.",
+            "answer_start": 7558
+          }
+        ],
+        "id": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement__Notice Period To Terminate Renewal",
+        "question": "Highlight the parts (if any) of this contract related to \"Notice Period To Terminate Renewal\" that should be reviewed by a lawyer. Details: What is the notice period required to terminate renewal?",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "This Agreement  shall  be  governed  and  construed in accordance with           the  laws  of  the  United  States of America.",
+            "answer_start": 10384
+          }
+        ],
+        "id": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement__Governing Law",
+        "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement__Most Favored Nation",
+        "question": "Highlight the parts (if any) of this contract related to \"Most Favored Nation\" that should be reviewed by a lawyer. Details: Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement__Non-Compete",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Compete\" that should be reviewed by a lawyer. Details: Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement__Exclusivity",
+        "question": "Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing\u00a0 commitment with the counterparty? This includes a commitment to procure all \u201crequirements\u201d from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on\u00a0 collaborating or working with other parties), whether during the contract or\u00a0 after the contract ends (or both).",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement__No-Solicit Of Customers",
+        "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Customers\" that should be reviewed by a lawyer. Details: Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement__Competitive Restriction Exception",
+        "question": "Highlight the parts (if any) of this contract related to \"Competitive Restriction Exception\" that should be reviewed by a lawyer. Details: This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement__No-Solicit Of Employees",
+        "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Employees\" that should be reviewed by a lawyer. Details: Is there a restriction on a party\u2019s soliciting or hiring employees and/or contractors from the\u00a0 counterparty, whether during the contract or after the contract ends (or both)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement__Non-Disparagement",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Disparagement\" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement__Termination For Convenience",
+        "question": "Highlight the parts (if any) of this contract related to \"Termination For Convenience\" that should be reviewed by a lawyer. Details: Can a party terminate this\u00a0 contract without cause (solely by giving a notice and allowing a waiting\u00a0 period to expire)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement__Rofr/Rofo/Rofn",
+        "question": "Highlight the parts (if any) of this contract related to \"Rofr/Rofo/Rofn\" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement__Change Of Control",
+        "question": "Highlight the parts (if any) of this contract related to \"Change Of Control\" that should be reviewed by a lawyer. Details: Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "Neither  Party  shall  assign  or  transfer  to  any  third  party,           without  the  prior written consent of the other Party, this Agreement           or  any  rights  granted  herein.",
+            "answer_start": 9221
+          }
+        ],
+        "id": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement__Anti-Assignment",
+        "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "plan_b  shall  pay  LICENSOR  a  share of its revenues as set forth in           APPENDIX  2  (\"REVENUES\").",
+            "answer_start": 3482
+          }
+        ],
+        "id": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement__Revenue/Profit Sharing",
+        "question": "Highlight the parts (if any) of this contract related to \"Revenue/Profit Sharing\" that should be reviewed by a lawyer. Details: Is one party required to share revenue or profit with the counterparty for any technology, goods, or\u00a0services?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement__Price Restrictions",
+        "question": "Highlight the parts (if any) of this contract related to \"Price Restrictions\" that should be reviewed by a lawyer. Details: Is there a restriction on the\u00a0 ability of a party to raise or reduce prices of technology, goods, or\u00a0 services provided?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement__Minimum Commitment",
+        "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement__Volume Restriction",
+        "question": "Highlight the parts (if any) of this contract related to \"Volume Restriction\" that should be reviewed by a lawyer. Details: Is there a fee increase or consent requirement, etc. if one party\u2019s use of the product/services exceeds certain threshold?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement__Ip Ownership Assignment",
+        "question": "Highlight the parts (if any) of this contract related to \"Ip Ownership Assignment\" that should be reviewed by a lawyer. Details: Does intellectual property created\u00a0 by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement__Joint Ip Ownership",
+        "question": "Highlight the parts (if any) of this contract related to \"Joint Ip Ownership\" that should be reviewed by a lawyer. Details: Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "In the  alternative,  if  LICENSOR  is  not  the  sole  and  exclusive           owner  of  all  of  the  foregoing intellectual property rights to the           Content,  LICENSOR  has  been  granted  by  the  owner  or  rightful           sub-licensee  of the intellectual property of the Content the right to           grant  the rights provided by LICENSOR to plan_b under this Agreement.",
+            "answer_start": 4204
+          },
+          {
+            "text": "LICENSOR  grants  to  plan_b  a  license  to produce, use, distribute,           promote  and  publicly  display  the  Content  in any possible way for           distribution and marketing purposes.",
+            "answer_start": 4608
+          },
+          {
+            "text": "LICENSOR  grants  plan_b  for  the  term  of  this Agreement the right           to  produce,  market  and  distribute  Content  to  End  Users (in the           territory  specified  in appendix 2) through its own and its partner's           platform.",
+            "answer_start": 1784
+          },
+          {
+            "text": "Additionally, Licensee shall have           the  right  to  use  the trademarks, trade names, or logos relating to           Content  (the  \"TRADEMARKS\").",
+            "answer_start": 4807
+          }
+        ],
+        "id": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement__License Grant",
+        "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement__Non-Transferable License",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Transferable License\" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement__Affiliate License-Licensor",
+        "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensor\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement__Affiliate License-Licensee",
+        "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensee\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement__Unlimited/All-You-Can-Eat-License",
+        "question": "Highlight the parts (if any) of this contract related to \"Unlimited/All-You-Can-Eat-License\" that should be reviewed by a lawyer. Details: Is there a clause granting one party an \u201centerprise,\u201d \u201call you can eat\u201d or unlimited usage license?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement__Irrevocable Or Perpetual License",
+        "question": "Highlight the parts (if any) of this contract related to \"Irrevocable Or Perpetual License\" that should be reviewed by a lawyer. Details: Does the contract contain a\u00a0 license grant that is irrevocable or perpetual?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement__Source Code Escrow",
+        "question": "Highlight the parts (if any) of this contract related to \"Source Code Escrow\" that should be reviewed by a lawyer. Details: Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,\u00a0 insolvency, etc.)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "After termination  of  this  contract,  there  shall  be  a  sell-off           period  (defined  in  APPENDIX 2) following the date of termination of           this  contract.",
+            "answer_start": 8745
+          },
+          {
+            "text": "Sell-off  period:  3  months  after  termination",
+            "answer_start": 13793
+          }
+        ],
+        "id": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement__Post-Termination Services",
+        "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "LICENSOR  shall  have  the  right  to  use  a  certified  public           accountant  to  inspect and audit all the related records and books of           plan_b to ensure plan_b's compliance with the terms of this Agreement.",
+            "answer_start": 2667
+          },
+          {
+            "text": "Such audits           shall  normally  be conducted during normal business hours at plan_b's           premises.",
+            "answer_start": 3343
+          }
+        ],
+        "id": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement__Audit Rights",
+        "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement__Uncapped Liability",
+        "question": "Highlight the parts (if any) of this contract related to \"Uncapped Liability\" that should be reviewed by a lawyer. Details: Is a party\u2019s liability uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement__Cap On Liability",
+        "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party\u2019s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement__Liquidated Damages",
+        "question": "Highlight the parts (if any) of this contract related to \"Liquidated Damages\" that should be reviewed by a lawyer. Details: Does the contract contain a clause that would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement__Warranty Duration",
+        "question": "Highlight the parts (if any) of this contract related to \"Warranty Duration\" that should be reviewed by a lawyer. Details: What is the duration of any\u00a0 warranty against defects or errors in technology, products, or services\u00a0 provided under the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement__Insurance",
+        "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement__Covenant Not To Sue",
+        "question": "Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty\u2019s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement__Third Party Beneficiary",
+        "question": "Highlight the parts (if any) of this contract related to \"Third Party Beneficiary\" that should be reviewed by a lawyer. Details: Is there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?",
+        "is_impossible": true
+      }
+    ],
+    "context": "Exhibit 10.9\n\n                           CONTENT LICENSING AGREEMENT\n\n                                     between\n\n                          Data Call Technologies, Inc.                              600 Kenrick, Suite B-12                               Houston, Texas 77060\n\n                      hereinafter referred to as \"Licensor\"\n\n                                       and\n\n                                 PLAN_B MEDIA AG                                  Schaafenstr. 25                                   50676 Cologne                                      Germany                        hereinafter referred to as \"plan_b\"\n\n1    PURPOSE  OF  THE  AGREEMENT\n\n     1.1  The purpose  of  this  content  distribution  Agreement  (hereinafter           \"Agreement\")  is  to  set  forth  the terms and conditions under which           plan_b  may  use  the  Content  (\"Content\" as set forth in APPENDIX 2)           owned  or  licensed  by  LICENSOR  for  a  commercial  distribution to           plan_b's  End  Users  in  the  territory  (\"Territory\" as set forth in           APPENDIX  2).\n\n     1.2  End User  means  any  third  Party  receiving  Content  on  a  mobile           device  for  a  payment in accordance with the terms and conditions of           this  Agreement  for  their  own  private  and  non-  commercial  use.\n\n2    OBLIGATIONS  OF  LICENSOR\n\n     2.1  LICENSOR  shall  make  a  first  delivery  of Content to plan_b within           14  days  after the signing of this Agreement unless separately agreed           between  the  Parties.\n\n     2.2  LICENSOR  shall  deliver  Content  according  to  the  specifications           (for  example  formats,  file  sizes)  set  by  plan_b or to be agreed           between  the  Parties  in  writing.\n\n     2.3  LICENSOR  grants  plan_b  for  the  term  of  this Agreement the right           to  produce,  market  and  distribute  Content  to  End  Users (in the           territory  specified  in appendix 2) through its own and its partner's           platform.\n\n3    OBLIGATIONS  OF  PLAN_B\n\n     3.1  plan_b  will  distribute  Content  to  End  Users  in  the  Territory           through  its  distribution  channels.\n\n     3.2  plan_b  shall  use  reasonable  commercial  efforts  to  market  and           stimulate  interest  in  the  Content  with  its  customers.\n\n     3.3  plan_b  shall  provide  LICENSOR  with  a  detailed  written  record,           which  includes the number of End User downloads and each distribution           channel.  Such  report  shall  be  provided  to LICENSOR in electronic           format  within  6  weeks  of  the  end  of  a  quarter.\n\n     3.4  LICENSOR  shall  have  the  right  to  use  a  certified  public           accountant  to  inspect and audit all the related records and books of           plan_b to ensure plan_b's compliance with the terms of this Agreement.           In  the  event  that  any such audit reveals that plan_b has underpaid           fees  to  the value of ten (10) percent or more of the total amount of           payments  for  the  period covered by the audit, plan_b shall bear the           cost  of  the audit and shall in any event immediately pay to LICENSOR\n\nSource: DATA CALL TECHNOLOGIES, SB-2/A, 9/18/2006\n\n\n\n\n\n          the  full  value  of the underpaid or under-reported fees. Such audits           shall  normally  be conducted during normal business hours at plan_b's           premises.\n\n4    REVENUES\n\n     4.1  plan_b  shall  pay  LICENSOR  a  share of its revenues as set forth in           APPENDIX  2  (\"REVENUES\").\n\n     4.2  All shares  are  net,  plus  the  respective  applying value added tax           (if  applicable).\n\n5    INTELLECTUAL  PROPERTY  RIGHTS\n\n     5.1  LICENSOR  is  the  owner  of  all  intellectual  property  rights,           including  without  limitation,  any  and all patents, utility models,           trade  marks,  rights  in  designs,  trade,  business or domain names,           know-how,  rights  in  databases and copyrights, rights in inventions,           ideas, concepts, trade secrets and confidential information which have           to  be  given  to  fulfill  this  contract.\n\n     5.2  In the  alternative,  if  LICENSOR  is  not  the  sole  and  exclusive           owner  of  all  of  the  foregoing intellectual property rights to the           Content,  LICENSOR  has  been  granted  by  the  owner  or  rightful           sub-licensee  of the intellectual property of the Content the right to           grant  the rights provided by LICENSOR to plan_b under this Agreement.\n\n     5.3  LICENSOR  grants  to  plan_b  a  license  to produce, use, distribute,           promote  and  publicly  display  the  Content  in any possible way for           distribution and marketing purposes. Additionally, Licensee shall have           the  right  to  use  the trademarks, trade names, or logos relating to           Content  (the  \"TRADEMARKS\").\n\n     5.4  LICENSOR  warrants  that  Content  does  not  infringe an intellectual           property  right  enforceable in the agreed country of delivery or use.           LICENSOR indemnifies and holds harmless plan_b against all claims that           Content  infringes any of the above mentioned rights of a third Party.           LICENSOR  shall  pay  all damages awarded in a trial to a third Party.\n\n6    CONFIDENTIALITY\n\n     6.1  Each Party  shall  keep  in  confidence  all material and information,           including  without  limitation  Content, received from the other Party           and  marked  as  confidential  or  which  should  be  understood to be           confidential,  and  may  not  use such material or information for any           other  purposes  than  those  set  forth  in  this  Agreement.  The           confidentiality  obligation shall, however, not be applied to material           and  information,  which  as  shown  by  the  receiving  Party,\n\n          6.1.1 is generally  available  or  otherwise  public;  or\n\n          6.1.2 the receiving  Party  has  received  from  a third party without                any  obligation  of  confidentiality;  or\n\n          6.1.3 was in  the  possession  of  the  receiving  Party  prior  to                receipt  of  the same from the other Party without any obligation                of  confidentiality  related  thereto;  or\n\n          6.1.4 the receiving  party  has  independently  developed  without                using  material  or  information  received  from the other Party.\n\n     6.2  Each Party  shall  promptly  upon  termination  of  this  Agreement or           when the Party no longer needs the material or information in question           for  the  purpose  stated  in  this Agreement cease using confidential           material and information received from the other Party and, unless the           Parties  separately  agree on destruction of such material, return the           material  in  question  (including  all  copies  thereof).\n\n     6.3  The rights  and  responsibilities  under  this  section  shall survive           any  termination  or  cancellation  of  this  Agreement  for  2 years.\n\n7    TERM OF  THE  AGREEMENT  AND  TERMINATION\n\nSource: DATA CALL TECHNOLOGIES, SB-2/A, 9/18/2006\n\n\n\n\n\n     7.1  Unless  otherwise  stated  in  the  Appendix  the  term of this letter           Agreement  shall  continue  for  twenty-four  (24)  months  with  the           effective  date  unless  terminated sooner or extended pursuant to the           terms hereof (\"Initial Term\"). The Initial Term shall automatically be           extended  for  an additional period of half a year unless either party           provides  the  other party with written notification of termination of           the  letter  Agreement  at  least 60 days prior to end of such period.\n\n     7.2  Either  Party  shall  be  entitled  to  cancel  this  Agreement if the           other Party is materially in breach of the terms of this Agreement. If           the  breach  of  contract is capable of being remedied, this Agreement           can  be  cancelled  only  provided  that  the  Party in breach has not           rectified  its breach within thirty (30) days of the written notice by           the  other  Party.\n\n     7.3  Either  Party  may  cancel  this  Agreement  already prior to the date           of  its  fulfillment,  if it becomes evident that the other Party will           commit  a  breach  of  contract  entitling  to  cancellation  of  this           Agreement.\n\n     7.4  Upon termination  or  cancellation  of  this  Agreement  plan_b  shall           cease to use Content for any purpose and delete Content from any files           and  data  storage.\n\n     7.5  After termination  of  this  contract,  there  shall  be  a  sell-off           period  (defined  in  APPENDIX 2) following the date of termination of           this  contract.\n\n8    MISCELLANEOUS\n\n     8.1  The Parties  acknowledge  that  they  act  as  independent contractors           and this Agreement does not constitute any partnership, joint venture,           agency  relationship  or  other independent legal entity separate from           the  Parties.\n\n     8.2  Neither  Party  shall  assign  or  transfer  to  any  third  party,           without  the  prior written consent of the other Party, this Agreement           or  any  rights  granted  herein.\n\n     8.3  Any amendments  to  this  Agreement  shall  be  in  writing  and shall           have no effect before signed by the duly authorized representatives of           the  Parties.\n\n     8.4  All  payments  will  be  made  to  Licensor  in United States dollars.\n\n9    SEVERABILITY\n\n     9.1  In the  event  that  any  provision  in this Agreement will be subject           to  an  interpretation  under which it would be void or unenforceable,           such  provisions  will be construed so as to constitute it a valid and           enforceable provision to the fullest extent possible, and in the event           that  it  cannot  be  so construed, it will, to that extent, be deemed           deleted  and  separable  from  the other provisions of this Agreement,           which  will  remain  in full force and effect and will be construed to           effectuate  its  purposes  to  the  maximum  legal  extent.\n\n10   GOVERNING  LAW  AND  VENUE\n\n     10.1 This Agreement  shall  be  governed  and  construed in accordance with           the  laws  of  the  United  States of America. The courts of competent           jurisdiction  at  New  York  City,  New York, shall have the exclusive           jurisdiction  over  any  dispute  arising out of or in connection with           this  Agreement.\n\n     10.2 This Agreement  has  been  prepared  in  two (2) identical copies, one           for  each  Party.\n\nPLAN_B  MEDIA  AG                  PLAN_B  MEDIA  AG\n\nSource: DATA CALL TECHNOLOGIES, SB-2/A, 9/18/2006\n\n\n\n\n\n03/24/06                           03/24/06 ______________________________     _____________________________ Date                               Date\n\n/s/  Heim  Brecht                  /s/  Stefan  Meyes-Sickenagel ______________________________     _____________________________ Signature                          Signature\n\nHeim  Brecht                       Stefan  Meyes-Sickenagel ______________________________     _____________________________ Name  (Please  print)              Name  (Please  print)\n\nCIO                                COO ______________________________     _____________________________ Title/Position                     Title/Position\n\nLICENSOR                           LICENSOR\n\n3/23/06 ______________________________     _____________________________ Date                               Date\n\n/s/  James  Ammons ______________________________     _____________________________ Signature                          Signature\n\nJames  Ammons ______________________________     _____________________________ Name  (Please  print)              Name  (Please  print)\n\nPresident  and  CEO ______________________________     _____________________________ Title/Position                     Title/Position\n\nAPPENDIX  I\n\n1.   CONTACT  PLAN_B  MEDIA  AG\n\n     Name:         Matthias  Hellmann\n\n     Position:     Head  of  Content\n\n     Phone:        XXXXXXXXXXXXX\n\n     Email:        XXXXXXXXXXXXXXX\n\n2    CONTACT  LICENSOR\n\n     Name:         Jim  Ammons\n\n     Position:     CEO  /  President\n\n     Phone:        866-219-2025\n\n     Email:        ammons@datacalltech.com\n\n3    CONTACT       LICENSOR  AGENT  (IF  APPLICABLE)\n\n     Name:\n\n     Position:\n\n     Phone:\n\n     Email:\n\n4   BANK  ACCOUNT  LICENSOR\n\n    Bank name:     Bank  Of  America\n\n    Bank address:  Dallas,  Texas\n\nSource: DATA CALL TECHNOLOGIES, SB-2/A, 9/18/2006\n\n\n\n\n\n    Country:       USA\n\nAPPENDIX  2\n\n1    CONTENT,  SHARE  &  TERRITORY\n\n     1.1  Contract  name (for internal plan_b-ware use): Data Call Technologies,      Inc.\n\nCONTENT                          LICENSOR       TERRITORY            TERMINATION                                   SHARE\n\nTop  News  Headlines Top  Business  Headlines Science/Health  News Entertainment  Headlines\n\nNational  Football  League National  Basketball  Association National  Hockey  League Major  League  Baseball NCAA  Football NCAA  Men's  Basketball Professional  Golf  Association NASCAR\n\nLatest  Sports  Lines               45%        Worldwide             24  months Latest  Sports  Headlines Thought  for  Today Market  Details World  Financial  Highlights Weather: Current  Conditions 48-Hour  Forecast 7-Day  Forecast Weather  Alerts Doppler  Weather  Radar\n\n2    TERMS\n\n     2.1  Contract  start:  04-01-06\n\n     2.2  Contract  end:  04-01-08\n\n     2.3  Commercial  distribution  possible  from:\n\n     2.4  Sell-off  period:  3  months  after  termination\n\n3    PAYMENTS  AND  REPORTS  TO  LICENSOR\n\n     3.1  Reporting:  Quarterly;  30  days  after  end  of  quarter\n\n     3.2  Payment  terms:  30  days  after  receipt  of  invoice\n\n4    EXCLUSIVITY  COPYRIGHT\n\n     4.1  Content  exclusive:  [ ]  Yes  [ ]  No\n\n     4.2  Copyright:\n\nSource: DATA CALL TECHNOLOGIES, SB-2/A, 9/18/2006"
+  }
+]

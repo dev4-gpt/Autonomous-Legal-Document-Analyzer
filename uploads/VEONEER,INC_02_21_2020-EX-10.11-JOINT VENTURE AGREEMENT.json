@@ -1,0 +1,323 @@
+[
+  {
+    "qas": [
+      {
+        "answers": [
+          {
+            "text": "AMENDMENT AND TERMINATION OF JOINT VENTURE AGREEMENT",
+            "answer_start": 76
+          }
+        ],
+        "id": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT__Document Name",
+        "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "Nissin Kogyo Co., Ltd.",
+            "answer_start": 416
+          },
+          {
+            "text": "\"NBZ\" and together with Nissin and Nissin Holding, the \"Nissin Parties\"",
+            "answer_start": 626
+          },
+          {
+            "text": "Nissin",
+            "answer_start": 416
+          },
+          {
+            "text": "Nissin Kogyo Holdings",
+            "answer_start": 475
+          },
+          {
+            "text": "\"Nissin Holding\")",
+            "answer_start": 529
+          },
+          {
+            "text": "USA, Inc.",
+            "answer_start": 497
+          },
+          {
+            "text": "Veoneer US, Inc.",
+            "answer_start": 299
+          },
+          {
+            "text": "\"Veoneer US\" and together with Veoneer AB, the \"Veoneer Parties\"",
+            "answer_start": 341
+          },
+          {
+            "text": "Zhongshan Nissin Industry Co., Ltd.",
+            "answer_start": 551
+          },
+          {
+            "text": "Veoneer AB",
+            "answer_start": 246
+          }
+        ],
+        "id": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT__Parties",
+        "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "October 30, 2019",
+            "answer_start": 189
+          }
+        ],
+        "id": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT__Agreement Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "This Amendment shall only become effective upon the VNBJ Closing with respect to Article 1.1 and the VNBZ Closing with respect to Article 1.2, and shall terminate without any force or effect in the event that the VNBJ SPA and the VNBZ SPA are terminated in accordance with the terms thereof.",
+            "answer_start": 6764
+          },
+          {
+            "text": "October 30, 2019",
+            "answer_start": 189
+          }
+        ],
+        "id": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT__Effective Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Effective Date\" that should be reviewed by a lawyer. Details: The date when the contract is effective\u00a0",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "This Amendment shall only become effective upon the VNBJ Closing with respect to Article 1.1 and the VNBZ Closing with respect to Article 1.2, and shall terminate without any force or effect in the event that the VNBJ SPA and the VNBZ SPA are terminated in accordance with the terms thereof.",
+            "answer_start": 6764
+          }
+        ],
+        "id": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT__Expiration Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT__Renewal Term",
+        "question": "Highlight the parts (if any) of this contract related to \"Renewal Term\" that should be reviewed by a lawyer. Details: What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT__Notice Period To Terminate Renewal",
+        "question": "Highlight the parts (if any) of this contract related to \"Notice Period To Terminate Renewal\" that should be reviewed by a lawyer. Details: What is the notice period required to terminate renewal?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "This Amendment shall be governed by and construed in accordance with the laws of Japan.",
+            "answer_start": 6650
+          }
+        ],
+        "id": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT__Governing Law",
+        "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT__Most Favored Nation",
+        "question": "Highlight the parts (if any) of this contract related to \"Most Favored Nation\" that should be reviewed by a lawyer. Details: Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT__Non-Compete",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Compete\" that should be reviewed by a lawyer. Details: Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT__Exclusivity",
+        "question": "Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing\u00a0 commitment with the counterparty? This includes a commitment to procure all \u201crequirements\u201d from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on\u00a0 collaborating or working with other parties), whether during the contract or\u00a0 after the contract ends (or both).",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT__No-Solicit Of Customers",
+        "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Customers\" that should be reviewed by a lawyer. Details: Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT__Competitive Restriction Exception",
+        "question": "Highlight the parts (if any) of this contract related to \"Competitive Restriction Exception\" that should be reviewed by a lawyer. Details: This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT__No-Solicit Of Employees",
+        "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Employees\" that should be reviewed by a lawyer. Details: Is there a restriction on a party\u2019s soliciting or hiring employees and/or contractors from the\u00a0 counterparty, whether during the contract or after the contract ends (or both)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT__Non-Disparagement",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Disparagement\" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT__Termination For Convenience",
+        "question": "Highlight the parts (if any) of this contract related to \"Termination For Convenience\" that should be reviewed by a lawyer. Details: Can a party terminate this\u00a0 contract without cause (solely by giving a notice and allowing a waiting\u00a0 period to expire)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT__Rofr/Rofo/Rofn",
+        "question": "Highlight the parts (if any) of this contract related to \"Rofr/Rofo/Rofn\" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT__Change Of Control",
+        "question": "Highlight the parts (if any) of this contract related to \"Change Of Control\" that should be reviewed by a lawyer. Details: Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT__Anti-Assignment",
+        "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT__Revenue/Profit Sharing",
+        "question": "Highlight the parts (if any) of this contract related to \"Revenue/Profit Sharing\" that should be reviewed by a lawyer. Details: Is one party required to share revenue or profit with the counterparty for any technology, goods, or\u00a0services?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT__Price Restrictions",
+        "question": "Highlight the parts (if any) of this contract related to \"Price Restrictions\" that should be reviewed by a lawyer. Details: Is there a restriction on the\u00a0 ability of a party to raise or reduce prices of technology, goods, or\u00a0 services provided?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT__Minimum Commitment",
+        "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT__Volume Restriction",
+        "question": "Highlight the parts (if any) of this contract related to \"Volume Restriction\" that should be reviewed by a lawyer. Details: Is there a fee increase or consent requirement, etc. if one party\u2019s use of the product/services exceeds certain threshold?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT__Ip Ownership Assignment",
+        "question": "Highlight the parts (if any) of this contract related to \"Ip Ownership Assignment\" that should be reviewed by a lawyer. Details: Does intellectual property created\u00a0 by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT__Joint Ip Ownership",
+        "question": "Highlight the parts (if any) of this contract related to \"Joint Ip Ownership\" that should be reviewed by a lawyer. Details: Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT__License Grant",
+        "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT__Non-Transferable License",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Transferable License\" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT__Affiliate License-Licensor",
+        "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensor\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT__Affiliate License-Licensee",
+        "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensee\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT__Unlimited/All-You-Can-Eat-License",
+        "question": "Highlight the parts (if any) of this contract related to \"Unlimited/All-You-Can-Eat-License\" that should be reviewed by a lawyer. Details: Is there a clause granting one party an \u201centerprise,\u201d \u201call you can eat\u201d or unlimited usage license?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT__Irrevocable Or Perpetual License",
+        "question": "Highlight the parts (if any) of this contract related to \"Irrevocable Or Perpetual License\" that should be reviewed by a lawyer. Details: Does the contract contain a\u00a0 license grant that is irrevocable or perpetual?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT__Source Code Escrow",
+        "question": "Highlight the parts (if any) of this contract related to \"Source Code Escrow\" that should be reviewed by a lawyer. Details: Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,\u00a0 insolvency, etc.)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT__Post-Termination Services",
+        "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT__Audit Rights",
+        "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT__Uncapped Liability",
+        "question": "Highlight the parts (if any) of this contract related to \"Uncapped Liability\" that should be reviewed by a lawyer. Details: Is a party\u2019s liability uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT__Cap On Liability",
+        "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party\u2019s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT__Liquidated Damages",
+        "question": "Highlight the parts (if any) of this contract related to \"Liquidated Damages\" that should be reviewed by a lawyer. Details: Does the contract contain a clause that would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT__Warranty Duration",
+        "question": "Highlight the parts (if any) of this contract related to \"Warranty Duration\" that should be reviewed by a lawyer. Details: What is the duration of any\u00a0 warranty against defects or errors in technology, products, or services\u00a0 provided under the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT__Insurance",
+        "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT__Covenant Not To Sue",
+        "question": "Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty\u2019s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT__Third Party Beneficiary",
+        "question": "Highlight the parts (if any) of this contract related to \"Third Party Beneficiary\" that should be reviewed by a lawyer. Details: Is there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?",
+        "is_impossible": true
+      }
+    ],
+    "context": "Exhibit 10.11\n\nAMENDMENT AND TERMINATION\n\nOF\n\nJOINT VENTURE AGREEMENT\n\nThis AMENDMENT AND TERMINATION OF JOINT VENTURE AGREEMENT (this \"Amendment\") is made and entered into effective as of October 30, 2019 (the \"Effective Date\") by and among (1) Veoneer AB, a Swedish corporation (\"Veoneer AB\") and Veoneer US, Inc., a Delaware corporation (\"Veoneer US\" and together with Veoneer AB, the \"Veoneer Parties\"), and (2) Nissin Kogyo Co., Ltd., a Japanese corporation (\"Nissin\"), Nissin Kogyo Holdings USA, Inc., an Ohio corporation (\"Nissin Holding\") and Zhongshan Nissin Industry Co., Ltd., a Peoples' Republic of China company (\"NBZ\" and together with Nissin and Nissin Holding, the \"Nissin Parties\"), as an amendment to that certain Joint Venture Agreement dated March 7, 2016 by and among Autoliv ASP, Inc. (\"Autoliv ASP\"), Autoliv AB (\"Autoliv AB\") and Autoliv Holding, Inc. (\"Autoliv Holding\" and together with Autoliv ASP and Autoliv AB, the \"Autoliv Parties\") and the Nissin Parties, as amended, supplemented or otherwise modified from time to time in accordance with the terms thereof and in effect on the date hereof (the \"JV Agreement\"). Capitalized terms not defined in this Amendment shall have the meanings as assigned thereto in the JV Agreement.\n\nRECITALS\n\n(A)The Autoliv Parties and the Nissin Parties entered into the JV Agreement as of March 7, 2016 to engage in the JV Business through Veoneer Nissin Brake Systems Japan, Co., Ltd. (\"VNBJ\"), Veoneer Nissin Brake Systems America, LLC (whose corporate name has since been changed to Veoneer Brake Systems, LLC, \"VNBA\"), Veoneer Nissin Brake Systems (Zhongshan), Co., Ltd. (\"VNBZ\") and Autoliv Nissin Brake Research Asia Co., Ltd. (\"ANRA\");\n\n(B)The Autoliv Parties, the Veoneer Parties and the Nissin Parties entered into that certain Addendum to Joint Venture Agreement as of September 3, 2018 pursuant to which (i) Autoliv ASP assigned the JV Agreement as well as all the rights and obligations thereunder to Veoneer US and ceased to be a party thereto and (ii) each of Autoliv AB and Autoliv Holding assigned the JV Agreement as well as all the rights and obligations thereunder to Veoneer AB and ceased to be a party thereto;\n\n(C)Notwithstanding the preceding paragraph (B), Autoliv AB remains a party to the JV Agreement only in relation to ANRA and only to the extent necessary to deal with the liquidation proceedings of ANRA;\n\n(D)Nissin and the Veoneer Parties entered into that certain VNBA Separation Agreement as of June 14, 2019 pursuant to which, among other things, Nissin Holding sold, and Veoneer Roadscape Automotive, Inc. purchased, as of June 28, 2019, all of Nissin Holding's membership interests in VNBA;\n\n(E)The Veoneer Parties and the Nissin Parties entered into that certain Amendment to Joint Venture Agreement as of June 28, 2019 pursuant to which, among other things, the JV Agreement ceased to have any application or effect to VNBA as of June 28, 2019;\n\n(F)Honda Motor Co., Ltd. (\"Honda\"), as of the Effective Date, Nissin and Veoneer AB entered into those certain (1) VNBJ Share Purchase Agreement, pursuant to which Veoneer AB is selling, and Honda and Nissin are purchasing, all of Veoneer AB's outstanding shares in VNBJ (the \"VNBJ SPA,\" and the consummation of the transactions pursuant to the terms of the VNBJ SPA, the \"VNBJ Closing\") and (2) VNBZ Share Purchase Agreement, pursuant to which Veoneer AB is selling, and Honda and Nissin are purchasing, all of Veoneer AB's equity interests in VNBZ (the \"VNBZ SPA,\" and the consummation of the transactions pursuant to the terms of the VNBZ SPA, the \"VNBZ Closing\"); and\n\n\n\n\n\n(A)Upon the later of the VNBJ Closing and the VNBZ Closing, no Veoneer Party will hold any equity interest in any of the Companies.\n\nNOW, THEREFORE, the Veoneer Parties and the Nissin Parties hereby agree as follows:\n\nArticle 1.Amendment and Termination of JV Agreement\n\na.As of the VNBJ Closing, except as expressly set forth in this Amendment, the JV Agreement shall immediately cease to have any application or effect with respect to VNBJ, all rights and obligations with respect to VNBJ under the JV Agreement shall terminate and all references to \"Company\" or \"Companies\" in the JV Agreement (either in the body of the JV Agreement or its schedules and other attachments) shall read and be interpreted to mean VNBZ and/or ANRA except as the context otherwise requires.\n\nb.As of the VNBZ Closing, except as expressly set forth in this Amendment, the JV Agreement shall immediately cease to have any application or effect with respect to VNBZ, all rights and obligations with respect to VNBZ under the JV Agreement shall terminate and all references to \"Company\" or \"Companies\" in the JV Agreement (either in the body of the JV Agreement or its schedules and other attachments) shall read and be interpreted to mean VNBJ and/or ANRA except as the context otherwise requires.\n\nc.Except as expressly set forth in this Amendment and notwithstanding anything to the contrary contained in the JV Agreement (including Section 9.3.11 (Termination and Survival)), (a) effective as of the later of the VNBJ Closing and the VNBZ Closing, the JV Agreement shall terminate in its entirety with respect to the Veoneer Parties and (b) after the later of the VNBJ Closing and the VNBZ Closing, the Veoneer Parties shall cease to be a party to the JV Agreement and shall have no further obligations with respect thereto. For clarity, upon the later of the VNBJ Closing and the VNBZ Closing, the JV Agreement will remain in full force and effect in accordance with the terms thereof solely between the Nissin Parties and Autoliv AB with respect to the liquidation proceedings of ANRA.\n\nd.Notwithstanding Article 1.1, Article 1.2 and Article 1.3 above, the termination of the JV Agreement with respect to VNBJ, VNBZ or the Veoneer Parties shall not release any Veoneer Party or any Nissin Party from liability for the breach of any of its representations, warranties, covenants or agreements set forth in the JV Agreement that arise prior to the VNBJ Closing or the VNBZ Closing, as applicable.\n\nArticle 2.D&O Indemnity\n\nNotwithstanding Article 1.1, Article 1.2 and Article 1.3 above, the Nissin Parties agree to cause each of VNBJ and VNBZ to comply with Sections 4.3.2 and 4.3.3 of the JV Agreement with respect to the indemnification or reimbursement, as applicable, of all Directors and Officers (except those individuals resigning pursuant to Section 6.2.6 of the VNBJ SPA and Section 6.2.6 of the VNBZ SPA) with respect to any Liabilities arising prior to the VNBJ Closing or the VNBZ Closing, as applicable.\n\nArticle 3.Governing Law\n\nThis Amendment shall be governed by and construed in accordance with the laws of Japan.\n\nArticle 4.Effectiveness\n\nThis Amendment shall only become effective upon the VNBJ Closing with respect to Article 1.1 and the VNBZ Closing with respect to Article 1.2, and shall terminate without any force or effect in the event that the VNBJ SPA and the VNBZ SPA are terminated in accordance with the terms thereof.\n\n(The remainder of this page has intentionally been blank.)\n\n\n\n\n\nIN WITNESS WHEREOF, each of the Veoneer Parties and the Nissin Parties has caused this Amendment to be executed through its duly authorized representative effective as of the date first above written.\n\nVeoneer AB\n\nBy: /s/ Mats Backman Name: Mats Backman Title: Director\n\nBy: /s/ Amelie Wendels Name: Amelie Wendels Title: Director\n\nVeoneer US, Inc.\n\nBy: /s/ Eric R. Swanson Name: Eric R. Swanson Title: President & Secretary\n\nNissin Kogyo Co., Ltd.\n\nBy: /s/ Yasushi Kawaguchi Name: Yasushi Kawaguchi Title: Representative Director, President for and on behalf of each of the Nissin Parties\n\nSignature Page to Amendment and Termination of Joint Venture Agreement\n\n\n\n\n\nIN WITNESS WHEREOF, each of the following companies hereby acknowledges and agrees to be bound by the terms and conditions set forth in this Amendment:\n\nVeoneer Nissin Brake Systems Japan Co., Ltd.\n\nBy: /s/ John T. Jensen Name: John T. Jensen Title: President, Representative Director\n\nVeoneer Nissin Brake Systems (Zhongshan) Co., Ltd.\n\nBy: /s/ Steven M. Rod\u00e9 Name: Steven M. Rod\u00e9 Title: Director\n\nSignature Page to Amendment and Termination of Joint Venture Agreement"
+  }
+]

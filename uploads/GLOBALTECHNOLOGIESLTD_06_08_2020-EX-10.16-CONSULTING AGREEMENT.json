@@ -1,0 +1,309 @@
+[
+  {
+    "qas": [
+      {
+        "answers": [
+          {
+            "text": "CONSULTING AGREEMENT",
+            "answer_start": 14
+          }
+        ],
+        "id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT__Document Name",
+        "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "Consultant",
+            "answer_start": 339
+          },
+          {
+            "text": "Company",
+            "answer_start": 198
+          },
+          {
+            "text": "(individually, a \"Party\"; collectively, the \"Parties\").",
+            "answer_start": 439
+          },
+          {
+            "text": "Timothy Cabrera",
+            "answer_start": 305
+          },
+          {
+            "text": "Global Technologies, Ltd",
+            "answer_start": 155
+          }
+        ],
+        "id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT__Parties",
+        "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "This Consulting Agreement (the \"Agreement\") is made and entered into as of this 2nd day of January 2020,",
+            "answer_start": 35
+          }
+        ],
+        "id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT__Agreement Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "2nd day of January 2020",
+            "answer_start": 115
+          }
+        ],
+        "id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT__Effective Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Effective Date\" that should be reviewed by a lawyer. Details: The date when the contract is effective\u00a0",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "This Agreement shall be in full force and effect commencing on January 2, 2020 and shall remain in effect for one (1) year or until Consultant completes the services requested",
+            "answer_start": 1772
+          }
+        ],
+        "id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT__Expiration Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT__Renewal Term",
+        "question": "Highlight the parts (if any) of this contract related to \"Renewal Term\" that should be reviewed by a lawyer. Details: What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT__Notice Period To Terminate Renewal",
+        "question": "Highlight the parts (if any) of this contract related to \"Notice Period To Terminate Renewal\" that should be reviewed by a lawyer. Details: What is the notice period required to terminate renewal?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "This Agreement and the legal relations among the Parties hereto shall be governed by and construed in accordance with the laws of the State of Florida, without regard to its conflict of law doctrine.",
+            "answer_start": 14855
+          }
+        ],
+        "id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT__Governing Law",
+        "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT__Most Favored Nation",
+        "question": "Highlight the parts (if any) of this contract related to \"Most Favored Nation\" that should be reviewed by a lawyer. Details: Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT__Non-Compete",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Compete\" that should be reviewed by a lawyer. Details: Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT__Exclusivity",
+        "question": "Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing\u00a0 commitment with the counterparty? This includes a commitment to procure all \u201crequirements\u201d from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on\u00a0 collaborating or working with other parties), whether during the contract or\u00a0 after the contract ends (or both).",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "he Company further agrees that neither it nor its employees, affiliates or assigns, shall enter into, or otherwise arrange (either for it/him/herself, or any other person or entity) any business relationship, contact any person regarding such Opportunity, either directly or indirectly, or any of its affiliates, or accept any compensation or advantage in relation to such Opportunity except as directly though Consultant, without the prior written approval of Consultant.",
+            "answer_start": 19658
+          }
+        ],
+        "id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT__No-Solicit Of Customers",
+        "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Customers\" that should be reviewed by a lawyer. Details: Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT__Competitive Restriction Exception",
+        "question": "Highlight the parts (if any) of this contract related to \"Competitive Restriction Exception\" that should be reviewed by a lawyer. Details: This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT__No-Solicit Of Employees",
+        "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Employees\" that should be reviewed by a lawyer. Details: Is there a restriction on a party\u2019s soliciting or hiring employees and/or contractors from the\u00a0 counterparty, whether during the contract or after the contract ends (or both)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT__Non-Disparagement",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Disparagement\" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT__Termination For Convenience",
+        "question": "Highlight the parts (if any) of this contract related to \"Termination For Convenience\" that should be reviewed by a lawyer. Details: Can a party terminate this\u00a0 contract without cause (solely by giving a notice and allowing a waiting\u00a0 period to expire)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT__Rofr/Rofo/Rofn",
+        "question": "Highlight the parts (if any) of this contract related to \"Rofr/Rofo/Rofn\" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT__Change Of Control",
+        "question": "Highlight the parts (if any) of this contract related to \"Change Of Control\" that should be reviewed by a lawyer. Details: Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "Neither Party shall delegate the performance of its duties under this Agreement without the prior written consent of the other Party.",
+            "answer_start": 13291
+          }
+        ],
+        "id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT__Anti-Assignment",
+        "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT__Revenue/Profit Sharing",
+        "question": "Highlight the parts (if any) of this contract related to \"Revenue/Profit Sharing\" that should be reviewed by a lawyer. Details: Is one party required to share revenue or profit with the counterparty for any technology, goods, or\u00a0services?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT__Price Restrictions",
+        "question": "Highlight the parts (if any) of this contract related to \"Price Restrictions\" that should be reviewed by a lawyer. Details: Is there a restriction on the\u00a0 ability of a party to raise or reduce prices of technology, goods, or\u00a0 services provided?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT__Minimum Commitment",
+        "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT__Volume Restriction",
+        "question": "Highlight the parts (if any) of this contract related to \"Volume Restriction\" that should be reviewed by a lawyer. Details: Is there a fee increase or consent requirement, etc. if one party\u2019s use of the product/services exceeds certain threshold?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT__Ip Ownership Assignment",
+        "question": "Highlight the parts (if any) of this contract related to \"Ip Ownership Assignment\" that should be reviewed by a lawyer. Details: Does intellectual property created\u00a0 by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT__Joint Ip Ownership",
+        "question": "Highlight the parts (if any) of this contract related to \"Joint Ip Ownership\" that should be reviewed by a lawyer. Details: Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT__License Grant",
+        "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT__Non-Transferable License",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Transferable License\" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT__Affiliate License-Licensor",
+        "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensor\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT__Affiliate License-Licensee",
+        "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensee\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT__Unlimited/All-You-Can-Eat-License",
+        "question": "Highlight the parts (if any) of this contract related to \"Unlimited/All-You-Can-Eat-License\" that should be reviewed by a lawyer. Details: Is there a clause granting one party an \u201centerprise,\u201d \u201call you can eat\u201d or unlimited usage license?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT__Irrevocable Or Perpetual License",
+        "question": "Highlight the parts (if any) of this contract related to \"Irrevocable Or Perpetual License\" that should be reviewed by a lawyer. Details: Does the contract contain a\u00a0 license grant that is irrevocable or perpetual?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT__Source Code Escrow",
+        "question": "Highlight the parts (if any) of this contract related to \"Source Code Escrow\" that should be reviewed by a lawyer. Details: Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,\u00a0 insolvency, etc.)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT__Post-Termination Services",
+        "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT__Audit Rights",
+        "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT__Uncapped Liability",
+        "question": "Highlight the parts (if any) of this contract related to \"Uncapped Liability\" that should be reviewed by a lawyer. Details: Is a party\u2019s liability uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT__Cap On Liability",
+        "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party\u2019s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT__Liquidated Damages",
+        "question": "Highlight the parts (if any) of this contract related to \"Liquidated Damages\" that should be reviewed by a lawyer. Details: Does the contract contain a clause that would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT__Warranty Duration",
+        "question": "Highlight the parts (if any) of this contract related to \"Warranty Duration\" that should be reviewed by a lawyer. Details: What is the duration of any\u00a0 warranty against defects or errors in technology, products, or services\u00a0 provided under the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT__Insurance",
+        "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT__Covenant Not To Sue",
+        "question": "Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty\u2019s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT__Third Party Beneficiary",
+        "question": "Highlight the parts (if any) of this contract related to \"Third Party Beneficiary\" that should be reviewed by a lawyer. Details: Is there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?",
+        "is_impossible": true
+      }
+    ],
+    "context": "Exhibit 10.16 CONSULTING AGREEMENT This Consulting Agreement (the \"Agreement\") is made and entered into as of this 2nd day of January 2020, by and between Global Technologies, Ltd (hereinafter the \"Company\"), a Delaware corporation whose address is 501 1st Ave N., Suite 901, St. Petersburg, FL 33701 and Timothy Cabrera (hereinafter the \"Consultant\"), an individual whose address is 11718 SE Federal Hwy., Suite 372, Hobe Sound, FL 33455 (individually, a \"Party\"; collectively, the \"Parties\"). This Agreement is non-exclusive. RECITALS WHEREAS, the Company has asked to retain Consultant to provide various services to the Company as agreed to by both parties and outlined in Section 3; and WHEREAS, the Consultant has advised the Company of its willingness and desire to provide such services as outlined in Section 3 and on the terms and conditions set forth in this Agreement. NOW, THEREFORE, in consideration of the mutual promises herein contained, the Parties hereto hereby agree as follows: 1. CONDITIONS. This Agreement will not take effect, and Consultant will have no obligation to provide any service whatsoever, unless and until the Company sends a signed copy of this Agreement to Consultant (either by mail or facsimile copy). The Company shall be truthful with Consultant in regard to any relevant material regarding the Company, verbally or otherwise, or this entire Agreement will terminate and all consideration paid shall be forfeited without further notice. Upon execution of this Agreement, the Company agrees to cooperate with Consultant in carrying out the purposes of this Agreement, keep Consultant informed of any developments of importance pertaining to the Company's business and abide by this Agreement in its entirety. 2. TERM OF AGREEMENT. This Agreement shall be in full force and effect commencing on January 2, 2020 and shall remain in effect for one (1) year or until Consultant completes the services requested. Either Party shall have the right to terminate this Agreement without notice in the event of the bankruptcy, insolvency, or assignment for the benefit of creditors of the other Party. Either Party shall have the right to terminate this Agreement with notice, and the effective date of termination shall be the date such notice is received (by mail, overnight delivery, or fax) by the terminated Party. 3. CONSULTING SERVICES. During the term of this Agreement, Consultant will perform the services described below (the \"Consulting Services\") for the Company. (a) Transactional Business (i) Further development of the business plan for the Company's subsidiaries; and 1 ____ ____\n\n\n\n\n\n(ii) Seek and advise the Company on the acquisition of potential products for the Company's subsidiaries; and (iii) Assist in negotiating acquisition or merger consideration as required by the Company; and (iv) Setting up meetings between the Company and acquisition candidates and arranging other liaisons between them; and (v) Assist the Company with certain day to day tasks of managing the Company's subsidiaries; and (vi) Assist in the sale of any inventory held by any of the Company's subsidiaries; and (vii) Assist in the sale of any future products acquired, licensed or developed by the Company and or its subsidiaries. 4. STANDARD OF PERFORMANCE. Consultant shall devote such time and efforts to the affairs of the Company as is reasonably necessary to render the services contemplated by this Agreement. Consultant is not responsible for the performance of any services that may be rendered hereunder if the Company fails to provide the requested information in writing prior thereto. The services of Consultant shall not include the rendering of any legal opinions or the performance of any work that is in the ordinary purview of a certified public accountant. Consultant cannot guarantee results on behalf of the Company but shall use commercially reasonable efforts in providing the services listed above. Consultant's duty is to identify prospective acquisition/joint venture companies for the Company. Consultant will in no way act as a \"broker-dealer\" under state securities laws. Because all final decisions pertaining to any particular investment are to be made by the Company, the Company may be required to communicate directly with potential acquisition/joint venture prospective companies. 5. COMPENSATION TO CONSULTANT. As Consultant's entire compensation for its performance under this agreement, the Company shall pay Consultant $250,000,00 cash compensation. In addition, the Consultant shall earn additional cash compensation for the sale of any inventory/assets that were acquired in the acquisition of TCBM Holdings, LLC on November 30, 2019. Any cash compensation paid to Consultant shall be treated as a reduction in principal to the Convertible Note (\"Note\") issued by the Company to Jetco Holdings, LLC (\"Jetco\") on November 30, 2019. For example: The $250,000 cash compensation paid to Consultant shall reduce the Jetco Note principal amount by $250,000. In the event the Consultant were to sale $100,000 of inventory held by the Company, the payout of $100,000 to Consultant will reduce the principal on the Jetco Note by $100,000. Additional compensation to the Consultant for future products sold by the Company, or revenue earned by the Company for services provided will be negotiated by the Company and Consultant at the time of potential revenue recognition. The Consultant will be solely responsible for all tax returns and payments required to be filed with or made to any federal, state or local tax authority with respect to the Consultant's performance of services and receipt of fees under this Agreement. The Company will regularly report amounts paid, if any, to the Consultant by filing Form 1099-MISC and/or other appropriate form with the Internal Revenue Service as required by law. Because the Consultant is an independent contractor, the Company will not withhold or make payments for social security; make consulting contract insurance or disability insurance contributions; or obtain worker's compensation insurance on the Consultant's behalf. The Consultant agrees to accept exclusive liability for complying with all applicable state and federal laws governing self-employed individuals, including obligations such as payment of taxes, social security, disability and other contributions based on fees paid to the Consultant under this Agreement. The Consultant hereby agrees to indemnify and defend the Company against any and all such taxes or contributions, including penalties and interest. 2 ____ ____\n\n\n\n\n\n6. CONFIDENTIAL INFORMATION. The Consultant and the Company acknowledge that each will have access to proprietary information regarding the business operations of the other and agree to keep all such information secret and confidential and not to use or disclose any such information to any individual or organization without the non-disclosing Parties prior written consent. It is hereby agreed that from time to time Consultant and the Company may designate certain disclosed information as confidential for purposes of this Agreement. 7. INDEMNIFICATION. Each Party (the \"Indemnifying Party\") agrees to indemnify, defend, and hold harmless the other Party (the \"Indemnified Party\") from and against any and all claims, damages, and liabilities, including any and all expense and costs, legal or otherwise, caused by the negligent act or omission of the Indemnifying Party, its subcontractors, agents, or employees, incurred by the Indemnified Party in the investigation and defense of any claim, demand, or action arising out of the work performed under this Agreement; including breach of the Indemnifying Party of this Agreement. The Indemnifying Party shall not be liable for any claims, damages, or liabilities caused by the sole negligence of the Indemnified Party, its subcontractors, agents, or employees. The Indemnified Party shall notify promptly the Indemnifying Party of the existence of any claim, demand, or other matter to which the Indemnifying Party's indemnification obligations would apply, and shall give them a reasonable opportunity to settle or defend the same at their own expense and with counsel of their own selection, provided that the Indemnified Party shall at all times also have the right to fully participate in the defense. If the Indemnifying Party, within a reasonable time after this notice, fails to take appropriate steps to settle or defend the claim, demand, or the matter, the Indemnified Party shall, upon written notice, have the right, but not the obligation, to undertake such settlement or defense and to compromise or settle the claim, demand, or other matter on behalf, for the account, and at the risk, of the Indemnifying Party. The rights and obligations of the Parties under this Article shall be binding upon and inure to the benefit of any successors, assigns, and heirs of the Parties. 8. COVENANTS OF CONSULTANT. Consultant covenants and agrees with the Company that, in performing Consulting Services under this Agreement, Consultant will: (a) Comply with all federal and state laws; (b) Not make any representations other than those authorized by the Company; and (c) Not publish, circulate or otherwise use any materials or documents other than materials provided by or otherwise approved by the Company. 3 ____ ____\n\n\n\n\n\n9. COVENANTS OF THE COMPANY. The Company covenants, represents and warrants to Consultant as follows: (a) Authorization. The Company and its signatories herein have full power and authority to enter into this Agreement and to carry out the transactions contemplated hereby. (b) No Violation. Neither the execution and delivery of this Agreement nor the consummation of the transactions contemplated hereby will violate any provision of the charter or by-laws of the Company or violate any terms of provision of any other material agreement to which the Company is a party or any applicable statute or law. (c) Contracts in Full Force and Effect. All contracts, agreements, plans, policies and licenses to which the Company is a party are valid and in full force and effect. (d) Consents. No consent of any person, other than the signatories hereto, is necessary to the consummation of the transactions contemplated hereby, including, without limitation, consents from parties to loans, contracts, lease or other agreements and consents from governmental agencies, whether federal, state, or local. (e) Consultant Reliance. Consultant has and will rely upon the documents, instruments and written information furnished to Consultant by the Company's officers or designated employees. (f) Company's Material. All representations and statements provided herein about the Company are true and complete and accurate. The Company agrees to indemnify, hold harmless, and defend Consultant, its officers, directors, agents and employees, at the Company's expense for any proceeding or suit which may rise out of any inaccuracy or incompleteness of any such material or written information supplied to Consultant. 10. MISCELLANEOUS PROVISIONS (a) Amendment and Modification. This Agreement may be amended, modified and supplemented only by written agreement of the Company and Consultant. (b) Waiver of Compliance. Any failure of Consultant, on the one hand, or the Company, on the other, to comply with any obligation, agreement, or condition herein may be expressly waived in writing, but such waiver or failure to insist upon strict compliance with such obligation, covenant, agreement or condition shall not operate as a waiver of, or estoppel with respect to, any subsequent or other failure. (c) Expenses, Transfer Taxes, Etc. Other than as expressly set forth in this Agreement, the Parties shall bear their own costs and expenses in carrying out the provisions of this Agreement. (d) Compliance with Regulatory Agencies. Each Party agrees that all actions, direct or indirect, taken by it and its respective agents, employees and affiliates in connection with this Agreement and any financing or underwriting hereunder shall conform to all applicable Federal and State securities laws. (e) Notices. Any notices to be given hereunder by any Party to the other may be effected either by personal delivery in writing, by a reputable, national overnight delivery service, by facsimile transmission or by mail, registered or certified, postage prepaid with return receipt requested. Notices shall be addressed to the \"Contact Person\" at the addresses appearing on the signature page of this Agreement, but any Party may change his address or \"Contact Person\" by written notice in accordance with this subsection. Notices delivered personally shall be deemed delivered as of actual receipt, notices sent by facsimile shall be deemed delivered one (1) day after electronic confirmation of receipt, notices sent by overnight delivery service shall be deemed delivered one (1) day after delivery to the service, mailed notices shall be deemed delivered as of five (5) days after mailing. 4 ____ ____\n\n\n\n\n\n(f) Assignment. This Agreement and all of the provisions hereof shall be binding upon and inure to the benefit of the Parties hereto and their respective successors and permitted assigns. (g) Delegation. Neither Party shall delegate the performance of its duties under this Agreement without the prior written consent of the other Party. (h) Publicity. Neither Consultant nor the Company shall make or issue or cause to be made or issued, any announcement or written statement concerning this Agreement, or the transactions contemplated hereby for dissemination to the general public without the prior consent of the other Party. This provision shall not apply, however, to any announcement or written statement required to be made by law or the regulations of any Federal or State governmental agency, except that the Party required to disclose shall consult with and make reasonable efforts to accommodate changes to the required disclosure and the timing of such announcement suggested by the other Party. (i) Arbitration and Governing Law. If a dispute arises out of or relates to this contract, or the breach thereof, and if the dispute cannot be settled through negotiation, the parties agree first to try in good faith to settle the dispute by mediation administered by the American Arbitration Association under its Commercial Mediation Procedures before resorting to arbitration, litigation, or some other dispute resolution procedure. If they do not reach such solution within a period of 60 days, then, upon notice by either party to the other, all disputes, claims, questions, or differences shall be finally settled by arbitration administered by the American Arbitration Association in accordance with the provisions of its Commercial Arbitration Rules. This Agreement and the legal relations among the Parties hereto shall be governed by and construed in accordance with the laws of the State of Florida, without regard to its conflict of law doctrine. The Parties agree that the venue for the resolution of all disputes arising under the terms of this Agreement and the transactions contemplated herein will be the County of Pinellas, State of Florida. (j) Counterparts. This Agreement may be executed simultaneously in two or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument. (k) Headings. The heading of the sections of this Agreement are inserted for convenience only and shall not constitute a part hereto or affect in any way the meaning or interpretation of this Agreement. (l) Entire Agreement. This Agreement including any Exhibits hereto, and the other documents and certificates delivered pursuant to the terms hereto, set forth the entire agreement and understanding of the Parties hereto in respect of the subject matter contained herein, and supersedes all prior agreements, promise, covenants, arrangements, communications, representations or warranties, whether oral or written, by any officers employee or representative of any Party hereto. 5 ____ ____\n\n\n\n\n\n(m) Third Parties. Except as specifically set forth or referred to herein, nothing herein express or implied is intended or shall be construed to confer upon or give to any person or entity other than the Parties hereto and their successors or assigns, any rights or remedies under or by reason of this Agreement. (n) Attorneys' Fees and Costs. If any action is necessary to enforce and collect upon the terms of this Agreement, the prevailing Party shall be entitled to reasonable attorneys' fees and costs, in addition to any other relief to which that Party may be entitled. This provision shall be construed as applicable to the entire Agreement. (o) Survivability. If any part of this Agreement is found or deemed by a court of competent jurisdiction to be invalid or unenforceable, that part shall be severable from the remainder of the Agreement. (p) Further Assurances. Each of the Parties agrees that it shall from time-to-time take such actions and execute such additional instruments as may be reasonably necessary or convenient to implement and carry out the intent and purposes of this Agreement. (q) Relationship of the Parties. Nothing contained in this Agreement shall be deemed to constitute either Party becoming the partner of the other, the agent or legal representative of the other, nor create any fiduciary relationship between them, except as otherwise expressly provided herein. It is not the intention of the Parties to create nor shall this Agreement be construed to create any commercial relationship or other partnership. Neither Party shall have any authority to act for or to assume any obligation or responsibility on behalf of the other Party, except as otherwise expressly provided herein. The rights, duties, obligations and liabilities of the Parties shall be separate, not joint or collective. Each Party shall be responsible only for its obligations as herein set out and shall be liable only for its share of the costs and expenses as provided herein. (r) No Authority to Obligate the Company. Without the consent of the Board of Directors of the Company, Consultant shall have no authority to take, nor shall it take, any action committing or obligating the Company in any manner, and it shall not represent itself to others as having such authority. 11. Non-Circumvention. In and for valuable consideration, the Company hereby agrees that Consultant may introduce (whether by written, oral, data, or other form of communication) the Company to one or more opportunities, including, without limitation, existing or potential investors, lenders, borrowers, trusts, natural persons, corporations, limited liability companies, partnerships, unincorporated businesses, sole proprietorships and similar entities (an \"Opportunity\" or \"Opportunities\"). The Company further acknowledges and agrees that the identity of the subject Opportunities, and all other information concerning an Opportunity (including without limitation, all mailing information, phone and fax numbers, email addresses and other contact information) introduced hereunder are the property of Consultant, and shall be treated as confidential information by the Company, it affiliates, officers, directors, shareholders, employees, agents, representatives, successors and assigns. The Company shall not use such information, except in the context of any arrangement with Consultant in which Consultant is directly and actively involved, and never without Consultant's prior written approval. The Company further agrees that neither it nor its employees, affiliates or assigns, shall enter into, or otherwise arrange (either for it/him/herself, or any other person or entity) any business relationship, contact any person regarding such Opportunity, either directly or indirectly, or any of its affiliates, or accept any compensation or advantage in relation to such Opportunity except as directly though Consultant, without the prior written approval of Consultant. Consultant is relying on the Company's assent to these terms and their intent to be bound by the terms by evidence of their signature. Without the Company's signed assent to these terms, Consultant would not introduce any Opportunity or disclose any confidential information to the Company as herein described. 6 ____ ____\n\n\n\n\n\nIN WITNESS, WHEREOF, the Parties hereto have caused this Agreement to be duly executed, all as of the day and year first above written. COMPANY: CONSULTANT: GLOBAL TECHNOLOGIES, LTD TIMOTHY CABRERA By: By: Jimmy Wayne Anderson Timothy Cabrera Its: Chairman and CEO Its: Individual capacity Date: January 2, 2020 Dated: January 2, 2020 7 ____ ____"
+  }
+]

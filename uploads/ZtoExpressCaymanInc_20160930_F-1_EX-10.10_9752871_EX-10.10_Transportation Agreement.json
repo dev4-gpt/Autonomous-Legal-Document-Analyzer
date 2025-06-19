@@ -1,0 +1,308 @@
+[
+  {
+    "qas": [
+      {
+        "answers": [
+          {
+            "text": "Road Transportation Agreement",
+            "answer_start": 384
+          }
+        ],
+        "id": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement__Document Name",
+        "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "Party A (Shipper): ZTO Express Co., Ltd.",
+            "answer_start": 48
+          },
+          {
+            "text": "Party B (Carrier): Tonglu Tongze Logistics Ltd.",
+            "answer_start": 174
+          }
+        ],
+        "id": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement__Parties",
+        "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "December 22, 2014",
+            "answer_start": 9071
+          }
+        ],
+        "id": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement__Agreement Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "This Agreement takes effect upon the signatures and seals of both Parties in triplicate.",
+            "answer_start": 8593
+          },
+          {
+            "text": "December 22, 2014",
+            "answer_start": 9071
+          }
+        ],
+        "id": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement__Effective Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Effective Date\" that should be reviewed by a lawyer. Details: The date when the contract is effective\u00a0",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "Period of transportation services: this Agreement is valid for an indefinite term.",
+            "answer_start": 918
+          }
+        ],
+        "id": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement__Expiration Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement__Renewal Term",
+        "question": "Highlight the parts (if any) of this contract related to \"Renewal Term\" that should be reviewed by a lawyer. Details: What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement__Notice Period To Terminate Renewal",
+        "question": "Highlight the parts (if any) of this contract related to \"Notice Period To Terminate Renewal\" that should be reviewed by a lawyer. Details: What is the notice period required to terminate renewal?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement__Governing Law",
+        "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement__Most Favored Nation",
+        "question": "Highlight the parts (if any) of this contract related to \"Most Favored Nation\" that should be reviewed by a lawyer. Details: Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement__Non-Compete",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Compete\" that should be reviewed by a lawyer. Details: Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement__Exclusivity",
+        "question": "Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing\u00a0 commitment with the counterparty? This includes a commitment to procure all \u201crequirements\u201d from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on\u00a0 collaborating or working with other parties), whether during the contract or\u00a0 after the contract ends (or both).",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement__No-Solicit Of Customers",
+        "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Customers\" that should be reviewed by a lawyer. Details: Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement__Competitive Restriction Exception",
+        "question": "Highlight the parts (if any) of this contract related to \"Competitive Restriction Exception\" that should be reviewed by a lawyer. Details: This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement__No-Solicit Of Employees",
+        "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Employees\" that should be reviewed by a lawyer. Details: Is there a restriction on a party\u2019s soliciting or hiring employees and/or contractors from the\u00a0 counterparty, whether during the contract or after the contract ends (or both)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement__Non-Disparagement",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Disparagement\" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement__Termination For Convenience",
+        "question": "Highlight the parts (if any) of this contract related to \"Termination For Convenience\" that should be reviewed by a lawyer. Details: Can a party terminate this\u00a0 contract without cause (solely by giving a notice and allowing a waiting\u00a0 period to expire)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement__Rofr/Rofo/Rofn",
+        "question": "Highlight the parts (if any) of this contract related to \"Rofr/Rofo/Rofn\" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement__Change Of Control",
+        "question": "Highlight the parts (if any) of this contract related to \"Change Of Control\" that should be reviewed by a lawyer. Details: Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement__Anti-Assignment",
+        "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement__Revenue/Profit Sharing",
+        "question": "Highlight the parts (if any) of this contract related to \"Revenue/Profit Sharing\" that should be reviewed by a lawyer. Details: Is one party required to share revenue or profit with the counterparty for any technology, goods, or\u00a0services?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement__Price Restrictions",
+        "question": "Highlight the parts (if any) of this contract related to \"Price Restrictions\" that should be reviewed by a lawyer. Details: Is there a restriction on the\u00a0 ability of a party to raise or reduce prices of technology, goods, or\u00a0 services provided?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement__Minimum Commitment",
+        "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement__Volume Restriction",
+        "question": "Highlight the parts (if any) of this contract related to \"Volume Restriction\" that should be reviewed by a lawyer. Details: Is there a fee increase or consent requirement, etc. if one party\u2019s use of the product/services exceeds certain threshold?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement__Ip Ownership Assignment",
+        "question": "Highlight the parts (if any) of this contract related to \"Ip Ownership Assignment\" that should be reviewed by a lawyer. Details: Does intellectual property created\u00a0 by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement__Joint Ip Ownership",
+        "question": "Highlight the parts (if any) of this contract related to \"Joint Ip Ownership\" that should be reviewed by a lawyer. Details: Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement__License Grant",
+        "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement__Non-Transferable License",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Transferable License\" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement__Affiliate License-Licensor",
+        "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensor\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement__Affiliate License-Licensee",
+        "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensee\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement__Unlimited/All-You-Can-Eat-License",
+        "question": "Highlight the parts (if any) of this contract related to \"Unlimited/All-You-Can-Eat-License\" that should be reviewed by a lawyer. Details: Is there a clause granting one party an \u201centerprise,\u201d \u201call you can eat\u201d or unlimited usage license?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement__Irrevocable Or Perpetual License",
+        "question": "Highlight the parts (if any) of this contract related to \"Irrevocable Or Perpetual License\" that should be reviewed by a lawyer. Details: Does the contract contain a\u00a0 license grant that is irrevocable or perpetual?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement__Source Code Escrow",
+        "question": "Highlight the parts (if any) of this contract related to \"Source Code Escrow\" that should be reviewed by a lawyer. Details: Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,\u00a0 insolvency, etc.)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement__Post-Termination Services",
+        "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement__Audit Rights",
+        "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement__Uncapped Liability",
+        "question": "Highlight the parts (if any) of this contract related to \"Uncapped Liability\" that should be reviewed by a lawyer. Details: Is a party\u2019s liability uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement__Cap On Liability",
+        "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party\u2019s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "Party B shall pay one-month freight as liquidated damages in case of termination of the Agreement without consent.",
+            "answer_start": 7655
+          },
+          {
+            "text": "Unless otherwise approved by Party A, in the event of parcel transfer due to Party B's vehicle delay, Party B shall pay liquidated damages to Party A at the standard rate of RMB500 per trip on the first working day, RMB1,000 per trip on the second working day and RMB2,000 per trip on the third working day (based on the time records on the parcel transfer documents) and such liquidated damages will be deducted from the current month's freight.",
+            "answer_start": 3845
+          }
+        ],
+        "id": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement__Liquidated Damages",
+        "question": "Highlight the parts (if any) of this contract related to \"Liquidated Damages\" that should be reviewed by a lawyer. Details: Does the contract contain a clause that would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement__Warranty Duration",
+        "question": "Highlight the parts (if any) of this contract related to \"Warranty Duration\" that should be reviewed by a lawyer. Details: What is the duration of any\u00a0 warranty against defects or errors in technology, products, or services\u00a0 provided under the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "Party B shall purchase sufficient insurance for the transportation vehicles.",
+            "answer_start": 6132
+          },
+          {
+            "text": "The coverage of third-party liability insurance shall not be lower than RMB1 million.",
+            "answer_start": 6209
+          },
+          {
+            "text": "In addition to vehicle personnel insurance, Party B shall at least purchase injury insurance for two persons with coverage not lower than RMB500,000 per person.",
+            "answer_start": 6295
+          }
+        ],
+        "id": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement__Insurance",
+        "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement__Covenant Not To Sue",
+        "question": "Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty\u2019s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement__Third Party Beneficiary",
+        "question": "Highlight the parts (if any) of this contract related to \"Third Party Beneficiary\" that should be reviewed by a lawyer. Details: Is there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?",
+        "is_impossible": true
+      }
+    ],
+    "context": "Exhibit 10.10   Road Transportation Agreement   Party A (Shipper): ZTO Express Co., Ltd. Address: Building 1, No. 1685, Huazhi Road, Huaxin Twon, Qingpu District, Shanghai   Party B (Carrier): Tonglu Tongze Logistics Ltd. Address: 12 Floor, HSBC Tower, Yinchun South Road, Tonglu County, Zhejiang Province   Due to the need for logistics business, Party A and Party B enter into this Road Transportation Agreement (this \"Agreement\"), in which Party A pays the freight and Party B provides parcel transportation services to Party A. In accordance with relevant laws and regulations, Party A and Party B have sufficiently negotiated the specific matters and voluntarily reached the following Agreement based on equality, reciprocity and integrity. This Agreement is to be complied by both Parties.   1. Party B shall provide parcel transportation services on highway line-haul routes based on the needs of Party A.   2. Period of transportation services: this Agreement is valid for an indefinite term. Subsequent contracts might be entered in case of special business.   3. Freight and payment method:   (a) Verification of freight: Party A pays freight based on carload rate (such freight includes pick-up charges, door-to-door delivery charges and tax fees).   (b) Party A shall not pay any other charges other than the freight.   (c) Clearance of freight: the clearance method is based on both Parties' fund clearance arrangement and the final clearance amount is subject to actual carriage amount and EX-warehouse (\"EXW\") weight determined by Party A. Party B shall attach Party A's parcel EXW originals or copies for Party A's verification for clearance of freight.   4. Transportation route, time and relevant rules   (a) Transportation time:   (b) Any changes to the line-haul route and time are subject to both Parties' negotiation and written supplemental clauses.   (c) Party B shall have its own loading crews and the parcel shall be loaded by Party B's loading crews.\n\nSource: ZTO EXPRESS (CAYMAN) INC., F-1, 9/30/2016\n\n\n\n\n\n  (d) Drivers, loading crews and attendant crews shall be employed and remunerated by Party B. Party A shall not interfere such matter.   5. In order to guarantee rapid transfer of Party A's parcel, Party B shall strictly comply with the following obligations:   (a) During the transportation, Part B shall completely comply with Party A's transportation arrangement and relevant systems. Party B shall bear any consequences and legal liability arising out of Party B's non-compliance, and Party A shall have no liability. Party A has the right to terminate this Agreement without further legal liability in the case that Party B does not comply with Party A's management and arrangement.   (b) Based on the business needs, Party A can negotiate with Party B to modify the transportation route and time whenever necessary, which shall be executed by signing supplemental agreements upon consensus of both Parties.   (c) Party B shall ensure the vehicles are in good conditions, the compartments are properly sealed without leakage and the vehicles are equipped with fire-fighting equipment. In the event of parcel damage resulting from leakage or fire, Party B shall indemnify at the standard rate of RMB200 per parcel, and indemnify the actual price for high-end insured parcel (or indemnify by the value of the parcel provided by arbitration department determined by Party A).   (d) Party B shall have valid and legal licenses for national road transportation. In the event of loss caused to Party A by delivery delay due to vehicles detention for the lack of license, Party B shall compensate for any loss to Party A.   (e) Party B shall arrive at the network partners determined by Party A according to the time and route stipulated in this Agreement, and strictly comply with the start time and end time. Unless otherwise approved by Party A, in the event of parcel transfer due to Party B's vehicle delay, Party B shall pay liquidated damages to Party A at the standard rate of RMB500 per trip on the first working day, RMB1,000 per trip on the second working day and RMB2,000 per trip on the third working day (based on the time records on the parcel transfer documents) and such liquidated damages will be deducted from the current month's freight. In the special event of changes to route and time and severe weather (or other force majeure events), Party B shall be in touch with Party A in time and record such special event on the parcel transfer documents with Party A's approval.   (f) In the event of delay by vehicle malfunction or traffic accidents, Party B shall settle such malfunction or accidents within half an hour. In the event of vehicle operation failure, Party B shall notify Party A within two hours and shall manage to deliver Party A's parcel to the destination designated by the contract.   (g) Party B shall provide copies of driver licenses, working licenses, occupation licenses, insurance documents, operation licenses, outsourcing contracts, tax certificates, business licenses, road transportation permits and business code   2\n\nSource: ZTO EXPRESS (CAYMAN) INC., F-1, 9/30/2016\n\n\n\n\n\n  licenses to Party A, and guarantee the authenticity, completeness, legality and validity of such licenses and materials. Party B's drivers shall have at least two years driving experience in large trucks and have relevant licenses. Party B shall bear any consequences and legal liability arising out of Party B's non-compliance, and Party A shall have no liability.   (h) Party B shall bear any consequences and economic punishments arising out of the breach of traffic rules by Party B's drivers and other staff, and Party A shall have no liability.   (i) Party B shall be responsible for driving safety. Party B shall bear any legal liability arising out of severe traffic accidents causing vehicle damage and personnel casualties, and Party A shall have no liability. Party B shall be responsible for any damages resulting from severe accidents causing Party A's personnel casualties. Party A has the right to indemnify from Party B upon advance payment of damages.   6. Party B shall purchase sufficient insurance for the transportation vehicles. The coverage of third-party liability insurance shall not be lower than RMB1 million. In addition to vehicle personnel insurance, Party B shall at least purchase injury insurance for two persons with coverage not lower than RMB500,000 per person. Party B shall bear any consequence arising out of the non-compliance of insurance purchase, and Party A shall have no liability.   7. Any parcel damage resulting from the fault of Party B's employees shall be compensated by Party B in accordance with Party A's relevant rules. Party B shall be responsible for all of Party A's economic loss and relevant liquidated damages arising out of any theft and disposal of stolen goods conducted by Party B's personnel. Such payment shall be deducted from the current month's freight and be topped up by Party B in case of inadequacy. The personnel breaching the rules shall be dismissed by Party B.   8. In the event the vehicle space insufficiency which causes Party A's need unable to be satisfied nor can it be adjusted to satisfy Party A's need, Party A can terminate this Agreement without any compensation.   9. Party A has the right to terminate this Agreement if Party B has breached the above articles in this Agreement. The termination of this Agreement shall not prejudice Party A's right to hold Party B responsible for breach of contract.   10. Party B shall obtain Party A's written consent in the case the early termination of the Agreement. Party B shall pay one-month freight as liquidated damages in case of termination of the Agreement without consent. Within the contract period, Party B shall not charge the freight difference if Party A rents same-level vehicles. Party B shall also compensate Party A's other losses.   11. Without Party A's approval, Party B shall not transfer the carriage of goods to any third party in the designated route. Otherwise, Party A has the right to terminate this Agreement directly.   3\n\nSource: ZTO EXPRESS (CAYMAN) INC., F-1, 9/30/2016\n\n\n\n\n\n  12. Any dispute arising out of the execution of this Agreement, which cannot be negotiated and settled by both Parties, shall be subject to the jurisdiction of the People's Court where this Agreement is signed.   13. The annex of this Agreement constitutes a part of this Agreement and has the same effect as this Agreement. Any undealt matter can be negotiated and added by both Parties.   14. This Agreement takes effect upon the signatures and seals of both Parties in triplicate. Party A shall have two copies and Party B shall have one copy.   15. Any different interpretation of this Agreement by both Parties is subject to final interpretation by Party A.            Party A: ZTO Express Co., Ltd.\n\n\n\n  Party B:Tonglu Tongze Logistics Ltd.               Company seal: /s/ ZTO Express Co., Ltd.\n\n\n\n  Company seal: /s/ Tonglu Tongze Logistics Ltd.               Date: December 22, 2014\n\n\n\n  Date: December 22, 2014     4\n\nSource: ZTO EXPRESS (CAYMAN) INC., F-1, 9/30/2016"
+  }
+]

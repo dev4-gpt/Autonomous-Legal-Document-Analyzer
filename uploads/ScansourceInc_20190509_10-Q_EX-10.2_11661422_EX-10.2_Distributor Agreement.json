@@ -1,0 +1,342 @@
+[
+  {
+    "qas": [
+      {
+        "answers": [
+          {
+            "text": "ADDENDUM TO\n\nZEBRA\u00ae PARTNERCONNECT DISTRIBUTOR AGREEMENT",
+            "answer_start": 359
+          }
+        ],
+        "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Document Name",
+        "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "ScanSource Brazil Distribuidora de Technologias, Ltda.",
+            "answer_start": 1443
+          },
+          {
+            "text": "\"Zebra\" and the \"Distributor\" are referred to collectively as 'Parties\" and individually as a \"Party\".",
+            "answer_start": 2112
+          },
+          {
+            "text": "ScanSource Brazil",
+            "answer_start": 1443
+          },
+          {
+            "text": "SCANSOURCE DE MEXICO S. DE R.L. DE C.V.",
+            "answer_start": 1824
+          },
+          {
+            "text": "ScanSource, Inc.",
+            "answer_start": 1102
+          },
+          {
+            "text": "(Collectively \"Distributor')",
+            "answer_start": 2082
+          },
+          {
+            "text": "collectively \"Zebra\"",
+            "answer_start": 1074
+          },
+          {
+            "text": "Zebra Technologies do Brasil - Com\u00e9rcio de Produtos de Inform\u00e5tica Ltda.",
+            "answer_start": 643
+          },
+          {
+            "text": "Zebra Technologies International, LLC",
+            "answer_start": 534
+          },
+          {
+            "text": "ScanSource",
+            "answer_start": 1102
+          },
+          {
+            "text": "Xplore Technologies Corporation of America",
+            "answer_start": 900
+          },
+          {
+            "text": "ScanSource Mexico",
+            "answer_start": 2061
+          },
+          {
+            "text": "ScanSource Latin America",
+            "answer_start": 1257
+          },
+          {
+            "text": "ScanSource Latin America, Inc.",
+            "answer_start": 1257
+          },
+          {
+            "text": "Zebra",
+            "answer_start": 534
+          },
+          {
+            "text": "Xplore",
+            "answer_start": 900
+          },
+          {
+            "text": "Zebra Brazil",
+            "answer_start": 884
+          }
+        ],
+        "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Parties",
+        "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "4th day of February 2019",
+            "answer_start": 459
+          }
+        ],
+        "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Agreement Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "4th day of February 2019",
+            "answer_start": 459
+          }
+        ],
+        "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Effective Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Effective Date\" that should be reviewed by a lawyer. Details: The date when the contract is effective\u00a0",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Expiration Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Renewal Term",
+        "question": "Highlight the parts (if any) of this contract related to \"Renewal Term\" that should be reviewed by a lawyer. Details: What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Notice Period To Terminate Renewal",
+        "question": "Highlight the parts (if any) of this contract related to \"Notice Period To Terminate Renewal\" that should be reviewed by a lawyer. Details: What is the notice period required to terminate renewal?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "The terms of the Governing Law and Dispute Resolution provisions of the Distribution Agreement will apply to this Addendum.",
+            "answer_start": 6763
+          }
+        ],
+        "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Governing Law",
+        "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Most Favored Nation",
+        "question": "Highlight the parts (if any) of this contract related to \"Most Favored Nation\" that should be reviewed by a lawyer. Details: Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Non-Compete",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Compete\" that should be reviewed by a lawyer. Details: Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Exclusivity",
+        "question": "Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing\u00a0 commitment with the counterparty? This includes a commitment to procure all \u201crequirements\u201d from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on\u00a0 collaborating or working with other parties), whether during the contract or\u00a0 after the contract ends (or both).",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__No-Solicit Of Customers",
+        "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Customers\" that should be reviewed by a lawyer. Details: Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Competitive Restriction Exception",
+        "question": "Highlight the parts (if any) of this contract related to \"Competitive Restriction Exception\" that should be reviewed by a lawyer. Details: This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__No-Solicit Of Employees",
+        "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Employees\" that should be reviewed by a lawyer. Details: Is there a restriction on a party\u2019s soliciting or hiring employees and/or contractors from the\u00a0 counterparty, whether during the contract or after the contract ends (or both)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Non-Disparagement",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Disparagement\" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Termination For Convenience",
+        "question": "Highlight the parts (if any) of this contract related to \"Termination For Convenience\" that should be reviewed by a lawyer. Details: Can a party terminate this\u00a0 contract without cause (solely by giving a notice and allowing a waiting\u00a0 period to expire)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Rofr/Rofo/Rofn",
+        "question": "Highlight the parts (if any) of this contract related to \"Rofr/Rofo/Rofn\" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Change Of Control",
+        "question": "Highlight the parts (if any) of this contract related to \"Change Of Control\" that should be reviewed by a lawyer. Details: Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Anti-Assignment",
+        "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Revenue/Profit Sharing",
+        "question": "Highlight the parts (if any) of this contract related to \"Revenue/Profit Sharing\" that should be reviewed by a lawyer. Details: Is one party required to share revenue or profit with the counterparty for any technology, goods, or\u00a0services?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Price Restrictions",
+        "question": "Highlight the parts (if any) of this contract related to \"Price Restrictions\" that should be reviewed by a lawyer. Details: Is there a restriction on the\u00a0 ability of a party to raise or reduce prices of technology, goods, or\u00a0 services provided?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Minimum Commitment",
+        "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Volume Restriction",
+        "question": "Highlight the parts (if any) of this contract related to \"Volume Restriction\" that should be reviewed by a lawyer. Details: Is there a fee increase or consent requirement, etc. if one party\u2019s use of the product/services exceeds certain threshold?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Ip Ownership Assignment",
+        "question": "Highlight the parts (if any) of this contract related to \"Ip Ownership Assignment\" that should be reviewed by a lawyer. Details: Does intellectual property created\u00a0 by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Joint Ip Ownership",
+        "question": "Highlight the parts (if any) of this contract related to \"Joint Ip Ownership\" that should be reviewed by a lawyer. Details: Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__License Grant",
+        "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Non-Transferable License",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Transferable License\" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Affiliate License-Licensor",
+        "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensor\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Affiliate License-Licensee",
+        "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensee\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Unlimited/All-You-Can-Eat-License",
+        "question": "Highlight the parts (if any) of this contract related to \"Unlimited/All-You-Can-Eat-License\" that should be reviewed by a lawyer. Details: Is there a clause granting one party an \u201centerprise,\u201d \u201call you can eat\u201d or unlimited usage license?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Irrevocable Or Perpetual License",
+        "question": "Highlight the parts (if any) of this contract related to \"Irrevocable Or Perpetual License\" that should be reviewed by a lawyer. Details: Does the contract contain a\u00a0 license grant that is irrevocable or perpetual?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Source Code Escrow",
+        "question": "Highlight the parts (if any) of this contract related to \"Source Code Escrow\" that should be reviewed by a lawyer. Details: Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,\u00a0 insolvency, etc.)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Post-Termination Services",
+        "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Audit Rights",
+        "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Uncapped Liability",
+        "question": "Highlight the parts (if any) of this contract related to \"Uncapped Liability\" that should be reviewed by a lawyer. Details: Is a party\u2019s liability uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Cap On Liability",
+        "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party\u2019s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Liquidated Damages",
+        "question": "Highlight the parts (if any) of this contract related to \"Liquidated Damages\" that should be reviewed by a lawyer. Details: Does the contract contain a clause that would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Warranty Duration",
+        "question": "Highlight the parts (if any) of this contract related to \"Warranty Duration\" that should be reviewed by a lawyer. Details: What is the duration of any\u00a0 warranty against defects or errors in technology, products, or services\u00a0 provided under the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Insurance",
+        "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Covenant Not To Sue",
+        "question": "Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty\u2019s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Third Party Beneficiary",
+        "question": "Highlight the parts (if any) of this contract related to \"Third Party Beneficiary\" that should be reviewed by a lawyer. Details: Is there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?",
+        "is_impossible": true
+      }
+    ],
+    "context": "Exhibit 10.2\n\nIN ACCORDANCE WITH ITEM 601(b) OF REGULATION S-K, CERTAIN IDENTIFIED INFORMATION (THE \"CONFIDENTIAL INFORMATION\") HAS BEEN EXCLUDED FROM THIS EXHIBIT BECAUSE IT IS BOTH (I) NOT MATERIAL AND (II) WOULD LIKELY CAUSE COMPETITIVE HARM IF PUBLICLY DISCLOSED. THE CONFIDENTIAL INFORMATION IS DENOTED HEREIN BY [*****].\n\nZEBRA\u00ae PARTNERCONNECT PROGRAM\n\nADDENDUM TO\n\nZEBRA\u00ae PARTNERCONNECT DISTRIBUTOR AGREEMENT\n\nTHIS ADDENDUM (\"Addendum\") is made on the 4th day of February 2019 (\"Effective Date\") between the following parties: Zebra Technologies International, LLC, with an office at 3 Overlook Point, Lincolnshire IL 60069 (\"Zebra\");\n\nZebra Technologies do Brasil - Com\u00e9rcio de Produtos de Inform\u00e5tica Ltda., a company incorporated and organized under the laws of Brazil, with offices at Av. Magalh\u00e4es de Castro, 4800, sala 72-A, Cidade Jardim, CEP 05676-120, S\u00e4o Paulo, sp (\"Zebra Brazil\")\n\nXplore Technologies Corporation of America, a company with its principal place of business at 8601 RR 2222, Building 2, Suite #100, Austin, Texas 78730, U.S.A. (\"Xplore\");\n\n(collectively \"Zebra\")\n\nAND\n\nScanSource, Inc., a company incorporated in South Carolina, with its registered office at 6 Logue Court, Greenville, South Carolina 29615 (\"ScanSource\").\n\nScanSource Latin America, Inc. a ScanSource Affiliate incorporated in Florida, whose registered business address is 1935 NW 87 Avenue, Miami, Florida 33172 (\"ScanSource Latin America\")\n\nScanSource Brazil Distribuidora de Technologias, Ltda., a ScanSource Affiliate incorporated and organized under the laws of Brazil, with offices in the City of S\u00e4o Jos\u00e9 dos Pinhais, State of Paran\u00e5, at Avenida Rui Barbosa, 2529, Modulos 11 and 12, Bairro Jardim Ip\u00e9, CEP: 83055-320, enrolled with the Taxpayer Register (CNPJ/MF) under No. 05.607.657/0001-35 (\"ScanSource Brazil\")\n\nSCANSOURCE DE MEXICO S. DE R.L. DE C.V., a ScanSource Affiliate incorporated in Mexico, whose registered business address is Calle 4 No. 298, Colonia Franccionamiento Industrial Alce Blanco, Naucalpan de Juarez, Estado de M\u00e9xico 53370 (\"ScanSource Mexico\")\n\n(Collectively \"Distributor')\n\n\"Zebra\" and the \"Distributor\" are referred to collectively as 'Parties\" and individually as a \"Party\".\n\nWHEREAS: (A) On February 12, 2014 the Parties entered into an agreement that was renamed, as of April 11, 2016, to: PartnerConnectTM EVM Distribution Agreement, (as amended) (\"Distribution Agreement\"), which relates to Zebra Enterprise Visibility and Mobility ('EVM\") products and services, and which, as acknowledged by the Parties by entering into this Amendment, is in full force and effect and valid as when this Amendment is executed;\n\n(B) Distributor purchases Products from Zebra under the Distributor Agreement;\n\n(C)\u200b Zebra has recently completed the acquisition of Xplore, which transaction closed on August 14, 2018;\n\n(D) Zebra has expanded its products portfolio by adding the product families listed in Exhibit A, that as of the Effective Date hereof are branded Xplore or Motion Computing, thereto (\"Xplore Products\"); (E) Xplore, now a Zebra Affiliate, is the seller of Xplore Products;\n\nSource: SCANSOURCE, INC., 10-Q, 5/9/2019\n\n\n\n\n\n(F) Xplore wishes to sell Xplore Products to Distributor and Distributor wishes to purchase such products from Xplore pursuant to the terms and conditions of the Distributor Agreement by entering into this Addendum; and\n\n(G) The Parties desire to amend the Distributor Agreement by adding Xplore Products and authorizing Distributor to purchase such products from Xplore for further resale to members of the Zebra PartnerConnect Program in the Market or Territory. THEREFORE, in consideration of the mutual covenants and promises, and subject to the terms and conditions of the Distributor Agreement, the Parties agree as follows:\n\n1. Expressions used in this Addendum shall have the same meanings given to them in the Distributor Agreement, unless the context requires otherwise.\n\n2. This Addendum automatically incorporates any future amendments to the Distributor Agreement and such amendments will be made part of this Addendum to the extent that the amendments do not conflict therewith, unless otherwise agreed in writing by the Parties.\n\n3. Commencing on the Effective Date hereof, Xplore Products will be considered for all intents and purposes of the Distributor Agreement as Products and the purchase and sale thereof will be conducted in accordance with, and be subject to the terms and conditions of the Distributor Agreement, unless otherwise set out in this section:\n\na. The actual sale of Xplore Products (or any part thereof) is subject to Zebra obtaining the relevant regulatory approvals for the sale of Xplore Products in and into the Market or Territory (or any portion thereof) and shall commence only upon the attainment of such approvals. b. Zebra Consolidated Global Limited Warranty posted at www.zebra.com/partnerconnect-tc or any equivalent website thereof, will not apply to Xplore Products which shall carry the warranty posted at: https://support.xploretech.com/us/support/warranty-specifications/.\n\nc. Certain operational aspects relating to the purchase of Xplore Products, will be governed by the terms and conditions of Exhibit B, attached to this Addendum and incorporated therein by this reference. The terms of the Distribution Agreement will apply to all areas not covered by Exhibit B.\n\n4. By signing this Addendum, Xplore hereby agrees to be bound by the terms of the Distributor Agreement as a party thereto for the sole purpose of selling Xplore Products to Distributor. With the exception of the sale of Xplore Products, Xplore does not assume any obligations (prior, current or future) of Zebra under the Distributor Agreement.\n\n5. In the event of a conflict between the Distributor Agreement with this Addendum, the terms of this Addendum shall take precedence.\n\n6. Signature Counterparts. This Addendum and any additional amendments of addenda to the Distribution Agreement may be executed in two or more of counterparts, each of which shall be an original, but all of which together shall constitute one instrument. A facsimile copy or Computer image, such as a PDF or tiff image, of a signature shall be treated as and shall have the same effect as an original signature. In addition, a true and correct facsimile copy or computer image of this Addendum and any additional amendments of addenda thereto shall be treated as and shall have the same effect as an original signed copy of this document.\n\n7. Term and Termination. This Addendum may be terminated at any time by either Party in accordance with the termination provisions of the Distribution Agreement. The Addendum shall not have an Initial Period.\n\n8. Governing Law and Dispute Resolution. The terms of the Governing Law and Dispute Resolution provisions of the Distribution Agreement will apply to this Addendum.\n\nSource: SCANSOURCE, INC., 10-Q, 5/9/2019\n\n\n\n\n\nIN WITNESS HEREOF, the Parties have executed this Addendum on the dates specified herein.\n\nZEBRA TECHNOLOGIES INTERNATIONAL, LLC SCANSOURCE, INC. By: /s/ Alex Castaneda By: /s/ Brenda McCurry Name: Alex Castaneda Name: Brenda McCurry Title: VP NA Territory and Channel Sales Title: Vice President, Supplier Services Date: May 7, 2019 Date: 1/29/2019\n\nZEBRA TECHNOLOGIES DO BRASIL- COM\u00c9RCIO DE PRODUTOS DESCANSOURCE LATIN AMERICA, INC.\n\nBy: By: /s/ Marcelo Hirsch Name: Vanderlei Ferreira Name: Marcelo Hirsch Title: Director Title: Managing Director Date: May 8, 2019 Date: 2/7/2019\n\nXPLORE TECHNOLOGIES CORPORATION OF AMERICA SCANSOURCE DE MEXICO S. DE R.L. DE C.V.\n\nBy: /s/ Alex Castaneda By: /s/ Victor Perez Name: Alex Castaneda Name: Victor Perez Title: VP NA Territory and Channel Sales Title: Country Manager Date: May 7, 2019 Date: 26/2/19\n\nSCANSOURCE BRASIL DISTRIBUIDORA DE TECHNOLOGIAS LTDA. By: /s/ Paulo Roberto Ferreira Name: Paulo Roberto Ferreira Title: Executive Director Date: 22/02/19\n\nSource: SCANSOURCE, INC., 10-Q, 5/9/2019\n\n\n\n\n\nEXHIBIT A\n\nXplore Products and Distributor Upfront Discounts off List Price therefore\n\n[*****] [*****] [*****] L10 [*****] [*****] R12 [*****] [*****] F5 [*****] [*****] C5 [*****] [*****] B10 [*****] [*****] D10 [*****] [*****] Bobcat [*****] [*****] XC6 [*****] [*****] M60 [*****] [*****] Accessories & Services [*****] [*****]\n\nEXHIBIT B Operational Terms for Purchase of Xplore Products\n\nARTICLE I. PURCHASE ORDERS AND STOCK ON HAND\n\n1. Issuance and Acceptance of Purchase Order. To order the Xplore Products, Distributor shall place a purchase order via sending an email to xpldistributors@zebra.com. Each purchase order shall specify the bill-to address, ship-to address, quantity and description of each Xplore Product ordered, the unit price for each Xplore Product, the requested ship date, the preferred means of delivery, and tax-exempt certifications, if any. Orders received without this information or which contain any discrepancy may be returned to Distributor for completion or revision as applicable. Each purchase order placed by Distributor, as well as each invoice sent by Xplore, shall be governed by the terms of this Addendum and the Distribution Agreement and any additional or different terms within the purchase order or invoice shall have no effect. Each purchase order for the Xplore Products shall be subject to Xplore's acceptance and, upon acceptance, Xplore shall confirm the purchase order and the Estimated Shipping Date with Distributor. Notwithstanding such acceptance, Xplore reserves the right where necessary to amend the Orders including without limitation part numbers, special pricing and Estimated Shipping Date, and may at its sole discretion require an amended Order from Distributor incorporating such changes. For the purposes of this Exhibit B, \"Estimated Shipping Date\" shall mean the estimated shipping date of an accepted purchase order.\n\n2. Purchase Order Rescheduling, Cancellation and Modification. Distributor has the right to cancel, reschedule or modify all or any portion of a purchase order that has been accepted by Xplore at no cost to Distributor only if such cancellation or modification request is made within [*****] business days of PO acceptance or rescheduling request is made at least [*****] business days prior to the most current Estimated Shipping Date for that purchase order. Distributor has the right to change the destination of all or any portion of a purchase order that has been accepted by Xplore at no cost to Distributor only if such change in destination request is made at least [*****] business days prior to the most current Estimated Shipping Date for that purchase order. Except as set forth above, purchase orders are non-changeable and non- cancellable by Distributor, once accepted by Xplore.\n\nCertain purchase orders, determined at Xplore's sole discretion, and generally of large volume and/or extended lead times, may be subject to alternative rescheduling, cancellation, and modification rights. Should such purchase orders be subject to alternative rights, Xplore shall inform Distributor of alternative rights prior to order acceptance. Distributor will then have [*****] business days to accept, or reject, the alternative terms of Xplore for that certain purchase order. If Distributor rejects such alternative terms, the purchase order will not be accepted by Xplore.\n\n3. Product Allocation. If for any reason, Xplore's production is not on schedule, Xplore may, at its sole and absolute discretion, allocate available inventory to Distributor and make shipments in accordance with Zebra's then current processes.\n\nSource: SCANSOURCE, INC., 10-Q, 5/9/2019\n\n\n\n\n\n4. Stock on Hand. Distributor shall use commercially reasonable efforts to maintain thirty (30) days of stock in Distributor's inventory to support sales. Xplore acknowledges that from time to time, Distributor's inventory levels may fall below the thirty (30) days goal that is agreed upon by both Parties. If inventory levels fall below the thirty (30) day goal for more than sixty (60) consecutive days, Xplore, upon written notice to Distributor, shall replenish the stock to an amount agreed by both Parties.\n\n5. Product Return and Stock Rotation. The terms of Section 3 of Schedule 2 of the Distribution Agreement will apply to Xplore Products, provided however that stock rotation allowance for Xplore Products will be based on the net dollar value of Distributor's purchases in each calendar quarter of Xplore Products and such allowance will be calculated separate and apart from all other Products purchased by Distributor during such period.\n\nARTICLE II. DELIVERY OF PRODUCTS\n\n1. Shipping Terms. Notwithstanding anything to the contrary contained in the Distribution Agreement, and unless notified by Xplore otherwise, shipping terms for Xplore Products will be Delivery Duty Paid (DDP) INCOTERMS\u00ae 2010, whereby Distributor's price, includes all costs of delivery, insurance, import and / or export duties and tariffs. Such prices are exclusive of all federal, state, municipal or other government excise, sales, use, occupational or like taxes in force, and any such taxes shall be assumed and paid for by Distributor in addition to its payment for the Xplore Products. Title and risk of loss to Xplore Products shall pass to Distributor upon delivery to Distributor, as indicated in the Proof of Delivery (PoD) documents. [*****]\n\n1. At Distributor's request, Xplore may deliver Xplore Products directly to Program Members or their respective End Users on behalf of Distributor, and in such instances title and risk of loss will pass to Distributor upon delivery to the applicable recipients, as indicated on the PoD documents. Some exclusions may apply, including countries not served by Xplore shipping and importing methods, and/or countries where Xplore Products, are not certified for resale and/or use.\n\n1. Proof of Delivery (\"POD\"). Xplore shall provide to Distributor, at no charge, a means for confirming proof of delivery for Xplore Product shipments when requested by Distributor. Xplore shall provide packing slips for all shipments.\n\nSource: SCANSOURCE, INC., 10-Q, 5/9/2019"
+  }
+]

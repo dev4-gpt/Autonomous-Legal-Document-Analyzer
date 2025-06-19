@@ -1,0 +1,299 @@
+[
+  {
+    "qas": [
+      {
+        "answers": [
+          {
+            "text": "Website Design, Development and Hosting Agreement",
+            "answer_start": 89
+          }
+        ],
+        "id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement__Document Name",
+        "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "FreeCook",
+            "answer_start": 238
+          },
+          {
+            "text": "Client",
+            "answer_start": 3
+          },
+          {
+            "text": "Mitchell's Web Advance, PLC",
+            "answer_start": 319
+          },
+          {
+            "text": "Company",
+            "answer_start": 376
+          }
+        ],
+        "id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement__Parties",
+        "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "January 11, 2018",
+            "answer_start": 176
+          }
+        ],
+        "id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement__Agreement Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement__Effective Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Effective Date\" that should be reviewed by a lawyer. Details: The date when the contract is effective\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "Terms of the project: 12 weeks from February 8, 2018 to May 3, 2018",
+            "answer_start": 1432
+          }
+        ],
+        "id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement__Expiration Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement__Renewal Term",
+        "question": "Highlight the parts (if any) of this contract related to \"Renewal Term\" that should be reviewed by a lawyer. Details: What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement__Notice Period To Terminate Renewal",
+        "question": "Highlight the parts (if any) of this contract related to \"Notice Period To Terminate Renewal\" that should be reviewed by a lawyer. Details: What is the notice period required to terminate renewal?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement__Governing Law",
+        "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement__Most Favored Nation",
+        "question": "Highlight the parts (if any) of this contract related to \"Most Favored Nation\" that should be reviewed by a lawyer. Details: Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement__Non-Compete",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Compete\" that should be reviewed by a lawyer. Details: Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement__Exclusivity",
+        "question": "Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing\u00a0 commitment with the counterparty? This includes a commitment to procure all \u201crequirements\u201d from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on\u00a0 collaborating or working with other parties), whether during the contract or\u00a0 after the contract ends (or both).",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement__No-Solicit Of Customers",
+        "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Customers\" that should be reviewed by a lawyer. Details: Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement__Competitive Restriction Exception",
+        "question": "Highlight the parts (if any) of this contract related to \"Competitive Restriction Exception\" that should be reviewed by a lawyer. Details: This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement__No-Solicit Of Employees",
+        "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Employees\" that should be reviewed by a lawyer. Details: Is there a restriction on a party\u2019s soliciting or hiring employees and/or contractors from the\u00a0 counterparty, whether during the contract or after the contract ends (or both)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement__Non-Disparagement",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Disparagement\" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "Company at its sole discretion may at any time alter or cease providing the Customer Service which it has agreed to provide to Client relating to Client Website pursuant to this Agreement without any liability to Company.",
+            "answer_start": 4924
+          }
+        ],
+        "id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement__Termination For Convenience",
+        "question": "Highlight the parts (if any) of this contract related to \"Termination For Convenience\" that should be reviewed by a lawyer. Details: Can a party terminate this\u00a0 contract without cause (solely by giving a notice and allowing a waiting\u00a0 period to expire)?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement__Rofr/Rofo/Rofn",
+        "question": "Highlight the parts (if any) of this contract related to \"Rofr/Rofo/Rofn\" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement__Change Of Control",
+        "question": "Highlight the parts (if any) of this contract related to \"Change Of Control\" that should be reviewed by a lawyer. Details: Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement__Anti-Assignment",
+        "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement__Revenue/Profit Sharing",
+        "question": "Highlight the parts (if any) of this contract related to \"Revenue/Profit Sharing\" that should be reviewed by a lawyer. Details: Is one party required to share revenue or profit with the counterparty for any technology, goods, or\u00a0services?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement__Price Restrictions",
+        "question": "Highlight the parts (if any) of this contract related to \"Price Restrictions\" that should be reviewed by a lawyer. Details: Is there a restriction on the\u00a0 ability of a party to raise or reduce prices of technology, goods, or\u00a0 services provided?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement__Minimum Commitment",
+        "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement__Volume Restriction",
+        "question": "Highlight the parts (if any) of this contract related to \"Volume Restriction\" that should be reviewed by a lawyer. Details: Is there a fee increase or consent requirement, etc. if one party\u2019s use of the product/services exceeds certain threshold?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement__Ip Ownership Assignment",
+        "question": "Highlight the parts (if any) of this contract related to \"Ip Ownership Assignment\" that should be reviewed by a lawyer. Details: Does intellectual property created\u00a0 by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement__Joint Ip Ownership",
+        "question": "Highlight the parts (if any) of this contract related to \"Joint Ip Ownership\" that should be reviewed by a lawyer. Details: Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "Client further agrees that Company may use and display the graphics and other web design elements of Client's website as examples of Company website design and development work.",
+            "answer_start": 3234
+          },
+          {
+            "text": "Client hereby grants to Company a non-exclusive and limited license to use Client's trade names, logos and other trademarks in connection with Company advertising, marketing and promotion of its products and services.",
+            "answer_start": 2839
+          }
+        ],
+        "id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement__License Grant",
+        "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement__Non-Transferable License",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Transferable License\" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement__Affiliate License-Licensor",
+        "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensor\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement__Affiliate License-Licensee",
+        "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensee\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement__Unlimited/All-You-Can-Eat-License",
+        "question": "Highlight the parts (if any) of this contract related to \"Unlimited/All-You-Can-Eat-License\" that should be reviewed by a lawyer. Details: Is there a clause granting one party an \u201centerprise,\u201d \u201call you can eat\u201d or unlimited usage license?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement__Irrevocable Or Perpetual License",
+        "question": "Highlight the parts (if any) of this contract related to \"Irrevocable Or Perpetual License\" that should be reviewed by a lawyer. Details: Does the contract contain a\u00a0 license grant that is irrevocable or perpetual?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement__Source Code Escrow",
+        "question": "Highlight the parts (if any) of this contract related to \"Source Code Escrow\" that should be reviewed by a lawyer. Details: Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,\u00a0 insolvency, etc.)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement__Post-Termination Services",
+        "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement__Audit Rights",
+        "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement__Uncapped Liability",
+        "question": "Highlight the parts (if any) of this contract related to \"Uncapped Liability\" that should be reviewed by a lawyer. Details: Is a party\u2019s liability uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement__Cap On Liability",
+        "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party\u2019s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement__Liquidated Damages",
+        "question": "Highlight the parts (if any) of this contract related to \"Liquidated Damages\" that should be reviewed by a lawyer. Details: Does the contract contain a clause that would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement__Warranty Duration",
+        "question": "Highlight the parts (if any) of this contract related to \"Warranty Duration\" that should be reviewed by a lawyer. Details: What is the duration of any\u00a0 warranty against defects or errors in technology, products, or services\u00a0 provided under the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement__Insurance",
+        "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement__Covenant Not To Sue",
+        "question": "Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty\u2019s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement__Third Party Beneficiary",
+        "question": "Highlight the parts (if any) of this contract related to \"Third Party Beneficiary\" that should be reviewed by a lawyer. Details: Is there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?",
+        "is_impossible": true
+      }
+    ],
+    "context": "By Client: /s/ Natalija Tunevic\n\nWebsite Design, Development and Hosting Agreement\n\nThis Website Design, Development and Hosting Agreement the (\"Agreement\") is entered into on January 11, 2018 by and between Natalija Tunevic, director of FreeCook (hereinafter referred to as \"Client\") and Mitchell Vitalis, director of Mitchell's Web Advance, PLC (hereinafter referred to as \"Company\").\n\n1. Website Design and Development. Client agrees to pay to Company the sum of $5,000 (the \"Contract Price\") to design and develop a website for Client (the \"Client Website\") in accordance with the accompanying Scope of Work, attached to this Agreement as Exhibit A.\n\n(a) Change Orders. Any changes to the Scope of Work following the execution of this Agreement requiring Additional Work must be submitted to and accepted by Company in writing as a \"Change Order\". The costs of any such changes shall be added to the Contract Price. Additional Work shall be defined as the addition or revision of pages, graphics, or other features, any text, graphic or page design or programming requiring more than two rounds of textual or graphical revisions, substantial revisions to text and/or content provided by Client, changes to elements which have been finalized, or significant changes in the Scope of Work.\n\n(b) Due Dates and Delays. Company will use its best efforts to deliver the Client Website in the time frame specified in the Scope of Work. Terms of the project: 12 weeks from February 8, 2018 to May 3, 2018. Client acknowledges and agrees that any due dates set forth in the Scope of Work are subject to delay if Company does not receive the required materials or documentation in a timely manner or in the required format or if approvals are delayed by Client or if the Scope of Work is changed by Client.\n\n(c) Client Submitted Content. All written content submitted by Client for use in the Client Website must be typewritten, proofread and delivered to Company in the body of an email message or as a Microsoft Word electronic document or plaint text electronic document. Any content submitted by Client in any other manner or format, including, but not limited to Adobe PDF format, will be returned to Client for resubmission. Company will not make any attempt to proof read or correct any contextual, grammatical or typographical errors in the written content submitted by Client. It is Client's sole responsibility to check the accuracy of the written content and correct any errors prior to submission for final publication. Company will assume that all the written content submitted by Client has been proofread and is ready for publication. Client may elect to pay Company the Hourly Rate set forth below to type and proofread any written content not submitted in the electronic formats specified above.\n\n(d) Company License and Credit. Client hereby grants to Company a non-exclusive and limited license to use Client's trade names, logos and other trademarks in connection with Company advertising, marketing and promotion of its products and services. Client agrees that any unsolicited positive feedback Client provides to Company may be used in any Company marketing and/or advertising materials (i.e., customer testimonials). Client further agrees that Company may use and display the graphics and other web design elements of Client's website as examples of Company website design and development work. To maintain Company's portfolio credentials, and the integrity of any applicable copyrights, Company shall be entitled to place an unobtrusive credit in the footer on each page of Client's website. 2. Payment Terms. Upon the signing of this Agreement, Client agrees to pay to Company a total of $5,000. Client shall make a prepayment of $1,900 and pay the remaining $3,100 on completion of the Scope of Work.\n\n3. Business Hours; Rush Work. Company representatives are available during Company's normal business hours which are 9 a.m. to 5 p.m. UTC +2, Monday through Friday. Any email or telephone correspondence received after normal business hours will be processed the following business day. Client shall pay an additional surcharge for any services requiring work to be performed outside of normal business hours by reason of a rush deadline requested by Client or as a result of Client's failure to meet scheduled times for delivery and/or review and approval of information, content and materials. The surcharge for rush work shall be the standard hourly rate of $40 plus twenty-five percent (25%).\n\n4. Customer Service. Company, either directly or through its authorized service provider, shall provide customer service (the \"Customer Service\") relating to Client Website consisting of replying to customer questions or complaints regarding website hosting services during the normal business hours set forth. Company is not obligated to provide any Customer Service except as specified in this Section. Company at its sole discretion may at any time alter or cease providing the Customer Service which it has agreed to provide to Client relating to Client Website pursuant to this Agreement without any liability to Company.\n\nAGREED AND ACCEPTED:\n\nDate: Jan. 11, 2018\n\nSource: FREECOOK, S-1, 6/5/2018\n\n\n\n\n\nBy Company: /s/ Mitchell Vitalis Date: Jan. 11, 2018\n\nMitchell's Web Advance - Website Design, Development and Hosting Agreement Page 1 of 2 Client: /s/ Natalija Tunevic Company: /s/ Mitchell Vitalis\n\nSource: FREECOOK, S-1, 6/5/2018\n\n\n\n\n\nMitchell's Web Advance Website Design, Development and Hosting Agreement\n\nExhibit A\n\nScope of Work Development of design of Free Cook\n\nStage 1: 1. Search for competitors, collecting additional information on the subject. 2. Development of unique style of the Client Website. 3. Development of a logo based on the unique corporate style. 4. Designing UI/UX-practical parts. 5. Development of the main and internal pages of the Client Website.\n\nStage 2: 6. Emotional design (creation of web-assistants). 7. Adaptive design (mobile version of the Client Website). 8. Design adaptation to other languages. 9. Development of a prototype and interface testing.\n\nStage 3: 10. Search Engine Optimization.\n\nMitchell's Web Advance - Website Design, Development and Hosting Agreement Page 2 of 2 Client: /s/ Natalija Tunevic Company: /s/ Mitchell Vitalis\n\nSource: FREECOOK, S-1, 6/5/2018"
+  }
+]

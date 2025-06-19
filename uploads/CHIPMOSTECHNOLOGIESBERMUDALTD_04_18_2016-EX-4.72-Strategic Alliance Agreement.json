@@ -1,0 +1,304 @@
+[
+  {
+    "qas": [
+      {
+        "answers": [
+          {
+            "text": "Strategic Alliance Agreement",
+            "answer_start": 98
+          }
+        ],
+        "id": "CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement__Document Name",
+        "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "Tsinghua Unigroup",
+            "answer_start": 314
+          },
+          {
+            "text": "ChipMOS and Tsinghua Unigroup shall collectively be referred to as the \"Parties.\"",
+            "answer_start": 441
+          },
+          {
+            "text": "ChipMOS TECHNOLOGIES INC.",
+            "answer_start": 222
+          },
+          {
+            "text": "ChipMOS",
+            "answer_start": 222
+          },
+          {
+            "text": "Tsinghua Unigroup Ltd.",
+            "answer_start": 314
+          }
+        ],
+        "id": "CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement__Parties",
+        "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "11th day of December, 2015",
+            "answer_start": 161
+          }
+        ],
+        "id": "CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement__Agreement Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement__Effective Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Effective Date\" that should be reviewed by a lawyer. Details: The date when the contract is effective\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "Except as otherwise provided herein, the term of this Agreement is three (3) years from the Execution Date (\"Cooperation Period\").",
+            "answer_start": 5145
+          }
+        ],
+        "id": "CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement__Expiration Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "The Parties may negotiate for an extension of this Agreement six (6) months before the expiration of the Cooperation Period.",
+            "answer_start": 5276
+          }
+        ],
+        "id": "CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement__Renewal Term",
+        "question": "Highlight the parts (if any) of this contract related to \"Renewal Term\" that should be reviewed by a lawyer. Details: What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement__Notice Period To Terminate Renewal",
+        "question": "Highlight the parts (if any) of this contract related to \"Notice Period To Terminate Renewal\" that should be reviewed by a lawyer. Details: What is the notice period required to terminate renewal?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "This Agreement shall be governed by, and construed in accordance with the laws of Taiwan.",
+            "answer_start": 6632
+          }
+        ],
+        "id": "CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement__Governing Law",
+        "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement__Most Favored Nation",
+        "question": "Highlight the parts (if any) of this contract related to \"Most Favored Nation\" that should be reviewed by a lawyer. Details: Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement__Non-Compete",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Compete\" that should be reviewed by a lawyer. Details: Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement__Exclusivity",
+        "question": "Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing\u00a0 commitment with the counterparty? This includes a commitment to procure all \u201crequirements\u201d from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on\u00a0 collaborating or working with other parties), whether during the contract or\u00a0 after the contract ends (or both).",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement__No-Solicit Of Customers",
+        "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Customers\" that should be reviewed by a lawyer. Details: Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement__Competitive Restriction Exception",
+        "question": "Highlight the parts (if any) of this contract related to \"Competitive Restriction Exception\" that should be reviewed by a lawyer. Details: This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement__No-Solicit Of Employees",
+        "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Employees\" that should be reviewed by a lawyer. Details: Is there a restriction on a party\u2019s soliciting or hiring employees and/or contractors from the\u00a0 counterparty, whether during the contract or after the contract ends (or both)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement__Non-Disparagement",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Disparagement\" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement__Termination For Convenience",
+        "question": "Highlight the parts (if any) of this contract related to \"Termination For Convenience\" that should be reviewed by a lawyer. Details: Can a party terminate this\u00a0 contract without cause (solely by giving a notice and allowing a waiting\u00a0 period to expire)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement__Rofr/Rofo/Rofn",
+        "question": "Highlight the parts (if any) of this contract related to \"Rofr/Rofo/Rofn\" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement__Change Of Control",
+        "question": "Highlight the parts (if any) of this contract related to \"Change Of Control\" that should be reviewed by a lawyer. Details: Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "Neither Party shall assign any rights or obligations provided herein without the prior written consent of the other Party.",
+            "answer_start": 8067
+          }
+        ],
+        "id": "CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement__Anti-Assignment",
+        "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement__Revenue/Profit Sharing",
+        "question": "Highlight the parts (if any) of this contract related to \"Revenue/Profit Sharing\" that should be reviewed by a lawyer. Details: Is one party required to share revenue or profit with the counterparty for any technology, goods, or\u00a0services?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement__Price Restrictions",
+        "question": "Highlight the parts (if any) of this contract related to \"Price Restrictions\" that should be reviewed by a lawyer. Details: Is there a restriction on the\u00a0 ability of a party to raise or reduce prices of technology, goods, or\u00a0 services provided?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement__Minimum Commitment",
+        "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement__Volume Restriction",
+        "question": "Highlight the parts (if any) of this contract related to \"Volume Restriction\" that should be reviewed by a lawyer. Details: Is there a fee increase or consent requirement, etc. if one party\u2019s use of the product/services exceeds certain threshold?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement__Ip Ownership Assignment",
+        "question": "Highlight the parts (if any) of this contract related to \"Ip Ownership Assignment\" that should be reviewed by a lawyer. Details: Does intellectual property created\u00a0 by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement__Joint Ip Ownership",
+        "question": "Highlight the parts (if any) of this contract related to \"Joint Ip Ownership\" that should be reviewed by a lawyer. Details: Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement__License Grant",
+        "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement__Non-Transferable License",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Transferable License\" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement__Affiliate License-Licensor",
+        "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensor\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement__Affiliate License-Licensee",
+        "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensee\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement__Unlimited/All-You-Can-Eat-License",
+        "question": "Highlight the parts (if any) of this contract related to \"Unlimited/All-You-Can-Eat-License\" that should be reviewed by a lawyer. Details: Is there a clause granting one party an \u201centerprise,\u201d \u201call you can eat\u201d or unlimited usage license?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement__Irrevocable Or Perpetual License",
+        "question": "Highlight the parts (if any) of this contract related to \"Irrevocable Or Perpetual License\" that should be reviewed by a lawyer. Details: Does the contract contain a\u00a0 license grant that is irrevocable or perpetual?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement__Source Code Escrow",
+        "question": "Highlight the parts (if any) of this contract related to \"Source Code Escrow\" that should be reviewed by a lawyer. Details: Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,\u00a0 insolvency, etc.)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement__Post-Termination Services",
+        "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement__Audit Rights",
+        "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement__Uncapped Liability",
+        "question": "Highlight the parts (if any) of this contract related to \"Uncapped Liability\" that should be reviewed by a lawyer. Details: Is a party\u2019s liability uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement__Cap On Liability",
+        "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party\u2019s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement__Liquidated Damages",
+        "question": "Highlight the parts (if any) of this contract related to \"Liquidated Damages\" that should be reviewed by a lawyer. Details: Does the contract contain a clause that would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement__Warranty Duration",
+        "question": "Highlight the parts (if any) of this contract related to \"Warranty Duration\" that should be reviewed by a lawyer. Details: What is the duration of any\u00a0 warranty against defects or errors in technology, products, or services\u00a0 provided under the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement__Insurance",
+        "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement__Covenant Not To Sue",
+        "question": "Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty\u2019s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement__Third Party Beneficiary",
+        "question": "Highlight the parts (if any) of this contract related to \"Third Party Beneficiary\" that should be reviewed by a lawyer. Details: Is there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?",
+        "is_impossible": true
+      }
+    ],
+    "context": "Exhibit 4.72\n\nConfidential\n\n(Translation, for reference only)\n\nStrategic Alliance Agreement\n\nThis Strategic Alliance Agreement (\"Agreement\") is executed on this 11th day of December, 2015 (\"Execution Date\") by and between ChipMOS TECHNOLOGIES INC., a company incorporated under the laws of Taiwan (\"ChipMOS\"), and Tsinghua Unigroup Ltd. (\"Tsinghua Unigroup\"), a company incorporated under the laws of the People's Republic of China (\"PRC\"). ChipMOS and Tsinghua Unigroup shall collectively be referred to as the \"Parties.\"\n\nWHEREAS, Tsinghua Unigroup actively searches for investment targets which are leading companies in upstream, midstream, or downstream semiconductor industries, provides abundant funds to build strategic cooperation, and jointly shares the growing business opportunities of the semiconductor market in Mainland China; ChipMOS is a leading company engaged in the assembly and testing services of LCD drivers and wafer bumping process technologies.\n\nWHEREAS, ChipMOS and Tsinghua Unigroup will also, on the Execution Date, enter into the Share Subscription Agreement (\"Share Subscription Agreement\"). ChipMOS agrees, according to the terms and conditions of the Share Subscription Agreement, to increase its capital and issue 299,252,000 common shares through private placement (\"Private Placement Shares\") and the Private Placement Shares will be subscribed to by a company over which Tsinghua Unigroup has de facto control (\"Subscriber\"); Tsinghua Unigroup also agrees that such Private Placement Shares be subscribed to by the Subscriber from ChipMOS (\"Transaction\").\n\nWHEREAS, ChipMOS and Tsinghua Unigroup, in order to strengthen their relationship, are going to form a strategic alliance, establish a long-term cooperative relationship, share resources and networks, support each other in the semiconductor industry, and strive for expansion and growth. NOW, THEREFORE, the Parties hereby agree as follows:\n\n  Article 1 Strategic Alliance\n\n1.1 Content of Strategic Alliance and Expected Benefits After the Closing Date (as defined in the Share Subscription Agreement), Tsinghua Unigroup and ChipMOS shall cooperate, expand, strengthen and stabilize the relationship with the related upstream, midstream, and downstream industries engaged in the assembly and testing services of LCD drivers, microelectromechanical systems (MEMS), the Internet of Things (IoT) and Radio Frequency Integrated Circuits (RFIC) and/or wafer bumping services in Mainland China. Tsinghua Unigroup shall also introduce other potential suppliers, customers and business partners in Mainland China to ChipMOS.   - 1 -\n\n\n\n\n\nConfidential\n\n(Translation, for reference only)   1.2 Covenants of Parties\n\n(1) Tsinghua Unigroup covenants to follow the Share Subscription Agreement to subscribe for, via the Subscriber, in compliance with the requirements of Taiwan's laws and regulations relating to securities transactions and PRC investment in Taiwan, at the Subscription Price per Share (as defined in the Share Subscription Agreement), 299,252,000 common shares through private placement from ChipMOS, and Tsinghua Unigroup shall comply with, and shall cause the Subscriber to comply with the content of the Share Subscription Agreement, Taiwan's laws and regulations concerning securities transactions and PRC investments in Taiwan so that ChipMOS may make use of the Total Subscription Price (as defined in the Share Subscription Agreement) to replenish operating capital, recruit talents, and upgrade its technologies related to the semiconductor assembly and testing services, to create profits for each of the Parties and its shareholders.\n\n(2) ChipMOS covenants that part or all of the Total Subscription Price shall be used:\n\n  (a) To strengthen research and development, and technologies, and expand production capacity in Taiwan in order to strengthen itsroots in Taiwan, and increase job opportunities.\n\n\n\n(b) To increase the capital of ChipMOS TECHNOLOGIES (Shanghai) LTD. (\"ChipMOS Shanghai\"), and replenish the operating capital of ChipMOS Shanghai, in order to expand ChipMOS and its affiliates' business scale in LCD driver and Specialty Memory IC assembly and testing services and/or wafer bumping services markets, and thus increase ChipMOS' global market share.\n\n  (c) As funds for the merger with ChipMOS TECHNOLOGIES (Bermuda) LTD.\n\n  (d) As funds for the merger and acquisition by ChipMOS of other appropriate targets in the semiconductor industry in Taiwanwhich have similar ideals, share a common goal, and are industrially complimentary.   - 2 -\n\n\n\n\n\nConfidential\n\n(Translation, for reference only)   1.3 Implementation of Strategic Alliance Each of the Parties covenants to, after the Closing Date, designate related staff to hold regular meetings to propose a specific plan and schedule in connection with Sections 1.1 and 1.2 herein, perform the specific plan together and review the implementation status. Each Party shall use its reasonable best efforts to provide immediate assistance to, and actively cooperate with, the other Party, to implement this Agreement.\n\n  Article 2 Term of Agreement\n\n2.1 Term of Agreement Except as otherwise provided herein, the term of this Agreement is three (3) years from the Execution Date (\"Cooperation Period\"). The Parties may negotiate for an extension of this Agreement six (6) months before the expiration of the Cooperation Period.\n\n2.2 Early Termination This Agreement may be terminated as follows:\n\n(1) Tsinghua Unigroup and ChipMOS Taiwan terminate this Agreement by mutual agreement in writing;\n\n(2) In the event that Tsinghua Unigroup or ChipMOS materially breaches this Agreement and such breach is incurable, the other Party may immediately terminate this Agreement by giving written notice to the breaching Party; if such breach is curable, this Agreement will be terminated automatically after ten (10) days from the date on which the breaching Party received the written notice given by the other Party, if the breaching Party fails to cure such breach; or\n\n(3) This Agreement shall be simultaneously terminated, rescinded or become invalid upon the termination, rescission, or invalidation of the Share Subscription Agreement.\n\n2.3 Effects of Termination This Agreement shall immediately become void and of no further force and effect after expiration, pursuant to Section 2.1, or termination, pursuant to Section 2.2; provided, however, that Sections 2.2, 2.3, 3.1 and 3.9 shall survive after the termination of this Agreement.   - 3 -\n\n\n\n\n\nConfidential\n\n(Translation, for reference only)   Article 3 Miscellaneous\n\n3.1 Governing Law and Jurisdiction This Agreement shall be governed by, and construed in accordance with the laws of Taiwan. The Parties shall first seek to solve any dispute arising out of or related to this Agreement through negotiation. If the Parties fail to solve such dispute through negotiation, each Party shall have the right to issue notice (\"Dispute Notice\") to the other Party, and such Dispute Notice shall include the content of the dispute. If the Parties fail to resolve such dispute amicably through negotiation within sixty (60) days from the date on which a Party issues its Dispute Notice to the other Party, each Party shall have the right to submit such dispute to the Hong Kong International Arbitration Center, and proceed with the arbitration procedures in accordance with the Rules of the International Chamber of Commerce with three (3) arbitrators. Each Party shall each select one (1) arbitrator, and the third arbitrator shall be appointed by the two (2) arbitrators so selected. All language used in such proceedings shall be Mandarin Chinese. The Parties agree to keep the content of the dispute and the proceeding of the arbitration confidential. The arbitration award shall be final and binding on the Parties. The losing Party in such arbitration shall bear all of the costs and expenses related to the arbitration as determined by the arbitrators in such dispute (including attorney's fees).\n\n3.2 Assignment of Rights and Obligations Neither Party shall assign any rights or obligations provided herein without the prior written consent of the other Party.\n\n3.3 Entire Agreement; Amendment This Agreement constitutes the entire agreement between the Parties, and supersedes all prior documents and agreements in connection with the Transaction. Such documents or agreements shall be null and void immediately and cease to be applied. Except as otherwise provided herein, both Parties' consent in writing is necessary to amend, waive, rescind or terminate the Agreement or any terms and conditions.\n\n3.4 Notice All notices and other expression of intent hereunder shall be issued in writing and shall be deemed duly given by registered mail or express delivery or personal delivery to the following address:\n\n  (1) if to ChipMOS:\n\nChipMOS TECHNOLOGIES INC. Representative: Shih-Jye Cheng Address: No. 1, Yanfa 1st Rd., Hsinchu Science Park, Hsinchu, Taiwan   - 4 -\n\n\n\n\n\nConfidential\n\n(Translation, for reference only)     (2) if to Tsinghua Unigroup:\n\nTsinghua Unigroup Ltd. Representative: Weiguo Zhao Address: F10 Unis Plaza, Tsinghua Science Park, Haidian District, Beijing, PRC\n\nThe delivery may also be made to another address provided by a Party to the other Party in writing. The notices and other expressions of intent for the purpose of this Agreement shall be deemed received: when delivered by express delivery or personal delivery, at the actual time of receipt; when delivered by mail, at the actual time of receipt or 72 hours after mailing (whichever is earlier).\n\n3.5 No Waiver No omission or delay of either Party to exercise any right, power or remedy herein shall prevent such Party from exercising such right, power or remedy in the future. Any right, power and remedy that either Party enjoys pursuant to this Agreement shall survive, unless the Party expressly waives such right, power or remedy in writing. All rights, powers or remedies which each Party of this Agreement may claim, pursuant to the laws and this Agreement, shall not preclude other rights, powers or remedies that such Party may claim pursuant to the laws or this Agreement.\n\n3.6 Expenses Regarding the expenses arising from this Agreement and the Transaction, each Party shall bear the expenses occurred by it pursuant to the nature of such expenses and the relevant provisions.\n\n3.7 Severability If any provision of this Agreement is held to be illegal, unenforceable or invalid by the judgment or ruling of the court, other provisions herein shall remain in full force and effect.\n\n3.8 Headings and Subheadings The headings and subheadings herein are solely for ease of reference by the Parties, and shall not be used to interpret this Agreement.   - 5 -\n\n\n\n\n\nConfidential\n\n(Translation, for reference only)   3.9 Confidentiality The Parties agree that the Parties will not disclose information in connection with the execution, existence, content, and performance of this Agreement to any third party before the Parties have made an announcement to the public pursuant to Section 3.11 of this Agreement. However, the foregoing restriction shall not apply to disclosure made to the board of the directors, management team, and relevant employees who need to know such information, attorneys, accountants, financial counsel, and competent authorities for the purposes of performing this Agreement.\n\n3.10 Actual Performance The Parties acknowledge and agree that if any of the provisions provided herein are not performed in accordance with the specific terms and conditions or are otherwise violated, this will cause irreparable damages for which monetary compensation would not be an adequate remedy. Therefore, the Parties agrees that, in addition to any other remedies available in common law or equity, each Party shall be entitled to seek injunction and other equitable remedies, including the actual performance of the terms and conditions provided herein, and it is not necessary to post any bond or other security.\n\n3.11 Announcement The Parties shall not make an announcement to the public without the consent of the Parties regarding the execution and content of this Agreement and information in connection with the performance of this Agreement, which includes, but is not limited to the disclosure of material information, pursuant to the laws and the content thereof. The Parties shall negotiate and determine whether to make the announcement by press release, press conference or any other method and the content of the announcement. However, in the event that a Party discloses the above-mentioned information pursuant to the laws or requests made in judicial proceedings, and the disclosing Party could not obtain the consent of the other Party in time or the other Party refused to provide its consent without proper reasons after the disclosing Party notified the other Party of such situation, then the disclosing Party may disclose the above-mentioned information.\n\n3.12 Counterparts This Agreement shall be executed in four (4) originals. ChipMOS and Tsinghua Unigroup shall hold two (2) originals each.\n\n[Signature page follows]   - 6 -\n\n\n\n\n\nConfidential\n\n(Translation, for reference only)   This is the signature page for the \"STRATEGIC ALLIANCE AGREEMENT.\"   ChipMOS TECHNOLOGIES INC.     Tsinghua Unigroup Ltd.\n\nBy:   /s/ Shih-Jye Cheng     By:   /s/ Weiguo Zhao Name:  Shih-Jye Cheng     Name:  Weiguo Zhao Title:   Chairman     Title:   Chairman   - 7 -"
+  }
+]

@@ -1,0 +1,336 @@
+[
+  {
+    "qas": [
+      {
+        "answers": [
+          {
+            "text": "SERVICES AGREEMENT",
+            "answer_start": 33
+          }
+        ],
+        "id": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT__Document Name",
+        "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "Idan Maimon",
+            "answer_start": 106
+          },
+          {
+            "text": "Maimon",
+            "answer_start": 111
+          },
+          {
+            "text": "Intellisense Solutions, Inc.",
+            "answer_start": 133
+          },
+          {
+            "text": "Company",
+            "answer_start": 190
+          }
+        ],
+        "id": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT__Parties",
+        "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "April 1, 2019",
+            "answer_start": 65
+          }
+        ],
+        "id": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT__Agreement Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "Subject to the provisions for termination hereinafter provided, the term of this Agreement shall commence on the date hereof (the \"Effective Date\") and shall continue for a minimum period of 12 months (the \"Minimum Period\") and thereafter upon the mutual agreement of the Company and Maimon (the \"Service Term\").",
+            "answer_start": 1214
+          },
+          {
+            "text": "April 1, 2019",
+            "answer_start": 65
+          }
+        ],
+        "id": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT__Effective Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Effective Date\" that should be reviewed by a lawyer. Details: The date when the contract is effective\u00a0",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "Subject to the provisions for termination hereinafter provided, the term of this Agreement shall commence on the date hereof (the \"Effective Date\") and shall continue for a minimum period of 12 months (the \"Minimum Period\") and thereafter upon the mutual agreement of the Company and Maimon (the \"Service Term\").",
+            "answer_start": 1214
+          }
+        ],
+        "id": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT__Expiration Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT__Renewal Term",
+        "question": "Highlight the parts (if any) of this contract related to \"Renewal Term\" that should be reviewed by a lawyer. Details: What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT__Notice Period To Terminate Renewal",
+        "question": "Highlight the parts (if any) of this contract related to \"Notice Period To Terminate Renewal\" that should be reviewed by a lawyer. Details: What is the notice period required to terminate renewal?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "This Agreement shall be governed by and construed in accordance with the law of the State of New York without giving effect to the principles of conflicts of law thereof.",
+            "answer_start": 7273
+          }
+        ],
+        "id": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT__Governing Law",
+        "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT__Most Favored Nation",
+        "question": "Highlight the parts (if any) of this contract related to \"Most Favored Nation\" that should be reviewed by a lawyer. Details: Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "Maimon agrees during the term of this Agreement not to accept work or enter into a contract or accept an obligation inconsistent or incompatible with Maimon's obligations under this Agreement or with the scope of services to be rendered for the Company",
+            "answer_start": 4895
+          },
+          {
+            "text": "During the term of this Agreement and for a period of two (2) years after expiration or termination for any reason of this Agreement, Maimon agrees not to: (a) compete with the business of the Company, whether individually or through any entity, or to use (or permit the use of) any Confidential Information, directly or indirectly, for the purpose of competing with the business of the Company;",
+            "answer_start": 5308
+          }
+        ],
+        "id": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT__Non-Compete",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Compete\" that should be reviewed by a lawyer. Details: Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?\u00a0",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT__Exclusivity",
+        "question": "Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing\u00a0 commitment with the counterparty? This includes a commitment to procure all \u201crequirements\u201d from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on\u00a0 collaborating or working with other parties), whether during the contract or\u00a0 after the contract ends (or both).",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "During the term of this Agreement and for a period of two (2) years after expiration or termination for any reason of this Agreement, Maimon agrees not to:",
+            "answer_start": 5308
+          },
+          {
+            "text": "suggest to, induce or persuade any customer, client, vendor, supplier, employee, consultant or agent of the Company to terminate or diminish its relationship with the Company.",
+            "answer_start": 5711
+          }
+        ],
+        "id": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT__No-Solicit Of Customers",
+        "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Customers\" that should be reviewed by a lawyer. Details: Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT__Competitive Restriction Exception",
+        "question": "Highlight the parts (if any) of this contract related to \"Competitive Restriction Exception\" that should be reviewed by a lawyer. Details: This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "During the term of this Agreement and for a period of two (2) years after expiration or termination for any reason of this Agreement, Maimon agrees not to:",
+            "answer_start": 5308
+          },
+          {
+            "text": "suggest to, induce or persuade any customer, client, vendor, supplier, employee, consultant or agent of the Company to terminate or diminish its relationship with the Company.",
+            "answer_start": 5711
+          }
+        ],
+        "id": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT__No-Solicit Of Employees",
+        "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Employees\" that should be reviewed by a lawyer. Details: Is there a restriction on a party\u2019s soliciting or hiring employees and/or contractors from the\u00a0 counterparty, whether during the contract or after the contract ends (or both)?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT__Non-Disparagement",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Disparagement\" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "The Company may in its discretion and at its option terminate this Agreement at any time after the Minimum Period upon five days prior written notice to Maimon.",
+            "answer_start": 2216
+          }
+        ],
+        "id": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT__Termination For Convenience",
+        "question": "Highlight the parts (if any) of this contract related to \"Termination For Convenience\" that should be reviewed by a lawyer. Details: Can a party terminate this\u00a0 contract without cause (solely by giving a notice and allowing a waiting\u00a0 period to expire)?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT__Rofr/Rofo/Rofn",
+        "question": "Highlight the parts (if any) of this contract related to \"Rofr/Rofo/Rofn\" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT__Change Of Control",
+        "question": "Highlight the parts (if any) of this contract related to \"Change Of Control\" that should be reviewed by a lawyer. Details: Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "Neither of the parties hereto may assign its or his rights hereunder without the prior written consent of the other party hereto, and any such attempted assignment without such consent shall be null and void and without effect.",
+            "answer_start": 6090
+          }
+        ],
+        "id": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT__Anti-Assignment",
+        "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT__Revenue/Profit Sharing",
+        "question": "Highlight the parts (if any) of this contract related to \"Revenue/Profit Sharing\" that should be reviewed by a lawyer. Details: Is one party required to share revenue or profit with the counterparty for any technology, goods, or\u00a0services?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT__Price Restrictions",
+        "question": "Highlight the parts (if any) of this contract related to \"Price Restrictions\" that should be reviewed by a lawyer. Details: Is there a restriction on the\u00a0 ability of a party to raise or reduce prices of technology, goods, or\u00a0 services provided?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT__Minimum Commitment",
+        "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT__Volume Restriction",
+        "question": "Highlight the parts (if any) of this contract related to \"Volume Restriction\" that should be reviewed by a lawyer. Details: Is there a fee increase or consent requirement, etc. if one party\u2019s use of the product/services exceeds certain threshold?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT__Ip Ownership Assignment",
+        "question": "Highlight the parts (if any) of this contract related to \"Ip Ownership Assignment\" that should be reviewed by a lawyer. Details: Does intellectual property created\u00a0 by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT__Joint Ip Ownership",
+        "question": "Highlight the parts (if any) of this contract related to \"Joint Ip Ownership\" that should be reviewed by a lawyer. Details: Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT__License Grant",
+        "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT__Non-Transferable License",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Transferable License\" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT__Affiliate License-Licensor",
+        "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensor\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT__Affiliate License-Licensee",
+        "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensee\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT__Unlimited/All-You-Can-Eat-License",
+        "question": "Highlight the parts (if any) of this contract related to \"Unlimited/All-You-Can-Eat-License\" that should be reviewed by a lawyer. Details: Is there a clause granting one party an \u201centerprise,\u201d \u201call you can eat\u201d or unlimited usage license?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT__Irrevocable Or Perpetual License",
+        "question": "Highlight the parts (if any) of this contract related to \"Irrevocable Or Perpetual License\" that should be reviewed by a lawyer. Details: Does the contract contain a\u00a0 license grant that is irrevocable or perpetual?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT__Source Code Escrow",
+        "question": "Highlight the parts (if any) of this contract related to \"Source Code Escrow\" that should be reviewed by a lawyer. Details: Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,\u00a0 insolvency, etc.)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT__Post-Termination Services",
+        "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT__Audit Rights",
+        "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT__Uncapped Liability",
+        "question": "Highlight the parts (if any) of this contract related to \"Uncapped Liability\" that should be reviewed by a lawyer. Details: Is a party\u2019s liability uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT__Cap On Liability",
+        "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party\u2019s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT__Liquidated Damages",
+        "question": "Highlight the parts (if any) of this contract related to \"Liquidated Damages\" that should be reviewed by a lawyer. Details: Does the contract contain a clause that would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT__Warranty Duration",
+        "question": "Highlight the parts (if any) of this contract related to \"Warranty Duration\" that should be reviewed by a lawyer. Details: What is the duration of any\u00a0 warranty against defects or errors in technology, products, or services\u00a0 provided under the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT__Insurance",
+        "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT__Covenant Not To Sue",
+        "question": "Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty\u2019s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT__Third Party Beneficiary",
+        "question": "Highlight the parts (if any) of this contract related to \"Third Party Beneficiary\" that should be reviewed by a lawyer. Details: Is there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?",
+        "is_impossible": true
+      }
+    ],
+    "context": "Exhibit 10.22 SERVICES AGREEMENT SERVICES AGREEMENT, dated as of April 1, 2019 (the \"Agreement\"), between Idan Maimon (\"Maimon\") and Intellisense Solutions, Inc., a Nevada corporation (the \"Company\"). WHEREAS, the Company desires to engage Maimon as the Company's Chief Executive Officer (\"CEO\"), to provide services to the Company that are ordinarily and customarily performed by a CEO, and Maimon is willing to serve as the CEO and member of the board of directors of the Company, on the terms and conditions set forth below; and WHEREAS, the Company desires Maimon to serve on the Company's Board of Directors. NOW, THEREFORE, in consideration of the mutual covenants and agreements contained herein, the receipt and sufficiency of which are hereby acknowledged, the Company and Maimon agree as follows: 1. Services. The Company hereby retains Maimon, and Maimon hereby agrees to make himself available as the Company's CEO, upon the terms and subject to the conditions contained herein. 2. Duties. During the Service Term (as hereinafter defined), the parties agree that Maimon shall serve as the Company's CEO, and shall perform all the duties that are ordinarily and customarily performed by a CEO. 3. Term. Subject to the provisions for termination hereinafter provided, the term of this Agreement shall commence on the date hereof (the \"Effective Date\") and shall continue for a minimum period of 12 months (the \"Minimum Period\") and thereafter upon the mutual agreement of the Company and Maimon (the \"Service Term\"). 4. Compensation. In consideration of the services to be rendered by Maimon hereunder and for Maimon's service as a director on the Board of Directors of the Company, the Company will pay Maimon a monthly fee of $1,000 during the Minimum Period, beginning on the Effective Date. 5. Termination. If Maimon should become unable to serve as CEO, or should fail to perform any of the obligations hereunder for any cause including death or disability, always in the sole judgment and decision of the Company, then the Company shall have the right to terminate this agreement on five days prior written notice. Maimon shall have the right to resign at any time upon 30 days prior written notice. The Company may in its discretion and at its option terminate this Agreement at any time after the Minimum Period upon five days prior written notice to Maimon. 6. Reimbursement. The Company will reimburse Maimon for all reasonable pre- approved out-of-pocket expenses incurred in connection with this Agreement. 1\n\n\n\n\n\n7. Confidential Information. Maimon recognizes and acknowledges that by reason of his retention by and service to the Company, Maimon will have access to certain confidential and proprietary information relating to the Company's business, which may include, but is not limited to, trade secrets, trade \"know-how,\" product development techniques and plans, formulas, customer lists and addresses, financing services, funding programs, cost and pricing information, marketing and sales techniques, strategy and programs, computer programs and software and financial information (collectively referred to as \"Confidential Information\"). Maimon acknowledges that such Confidential Information is a valuable and unique asset of the Company and covenants that he will not, unless expressly authorized in writing by the Company, at any time use any Confidential Information or divulge or disclose any Confidential Information to any person, firm or corporation except in connection with the performance of his duties for the Company and in a manner consistent with the Company's policies regarding Confidential Information. Maimon also covenants that at any time after the termination of this Agreement, directly or indirectly, he will not use any Confidential Information or divulge or disclose any Confidential Information to any person, firm or corporation, unless such information is in the public domain through no fault of his or except when required to do so by applicable law. All written Confidential Information (including, without limitation, in any computer or other electronic format) which comes into Maimon's possession during the Service Term shall remain the property of the Company. Except as required in the performance of Maimon's duties for the Company, or unless expressly authorized in writing by the Company, Maimon shall not remove any written Confidential Information from the Company's premises, except in connection with the performance of his duties for the Company and in a manner consistent with the Company's policies regarding Confidential Information. Upon termination of this Agreement, Maimon agrees to return immediately to the Company all written Confidential Information (including, without limitation, in any computer or other electronic format) in his possession. 8. Conflicts of Interest, Non-Competition, Non-Solicitation. Maimon agrees during the term of this Agreement not to accept work or enter into a contract or accept an obligation inconsistent or incompatible with Maimon's obligations under this Agreement or with the scope of services to be rendered for the Company. Maimon warrants that to the best of Maimon's knowledge, there is no other contract or duty on Maimon's part now in existence inconsistent with this Agreement. During the term of this Agreement and for a period of two (2) years after expiration or termination for any reason of this Agreement, Maimon agrees not to: (a) compete with the business of the Company, whether individually or through any entity, or to use (or permit the use of) any Confidential Information, directly or indirectly, for the purpose of competing with the business of the Company; or (b) suggest to, induce or persuade any customer, client, vendor, supplier, employee, consultant or agent of the Company to terminate or diminish its relationship with the Company.. 9. Waiver of Breach. The waiver by any party hereto of a breach of any provision of this Agreement shall not operate nor be construed as a waiver of any subsequent breach. 10. Binding Effect; Benefits. Neither of the parties hereto may assign its or his rights hereunder without the prior written consent of the other party hereto, and any such attempted assignment without such consent shall be null and void and without effect. This Agreement shall inure to the benefit of, and shall be binding upon, the parties hereto and their respective successors, permitted assigns, heirs and legal representatives. 2\n\n\n\n\n\n11. Entire Agreement; Amendments. This Agreement contains the entire agreement and supersedes all prior agreements and understandings, oral or written, between the parties hereto with respect to the subject matter hereof. This Agreement may not be changed orally, but only by an agreement in writing signed by the party against whom any waiver, change, amendment, modification or discharge is sought. 12. Severability. The invalidity of all or any part of any provision of this Agreement shall not render invalid the remainder of this Agreement or the remainder of such provision. If any provision of this Agreement is so broad as to be unenforceable, such provision shall be interpreted to be only so broad as is enforceable. 13. Governing Law; Consent to Jurisdiction. This Agreement shall be governed by and construed in accordance with the law of the State of New York without giving effect to the principles of conflicts of law thereof. The parties hereto each hereby submits herself or itself for the sole purpose of this Agreement and any controversy arising hereunder to the exclusive jurisdiction of the state courts in the State of New York. 14. Headings. The headings herein are inserted only as a matter of convenience and reference, and in no way define, limit or describe the scope of this Agreement or the intent of the provisions thereof. 15. Counterparts. This Agreement may be executed in one or more counterparts, each of which shall be deemed an original and all of which together shall constitute one and the same instrument. Signatures evidenced by facsimile transmission will be accepted as original signatures. IN WITNESS WHEREOF, the parties have caused this Agreement to be duly executed as of the date first above written. /s/ Oded Gilboa INTELLISENSE SOLUTIONS, INC. Oded Gilboa, CFO 3"
+  }
+]

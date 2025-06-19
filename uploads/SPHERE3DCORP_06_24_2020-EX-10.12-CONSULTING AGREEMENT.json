@@ -1,0 +1,310 @@
+[
+  {
+    "qas": [
+      {
+        "answers": [
+          {
+            "text": "CONSULTING AGREEMENT",
+            "answer_start": 41
+          }
+        ],
+        "id": "SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT__Document Name",
+        "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "GROUPE PARAMEUS CORP",
+            "answer_start": 146
+          },
+          {
+            "text": "Consultant",
+            "answer_start": 190
+          },
+          {
+            "text": "Company",
+            "answer_start": 380
+          },
+          {
+            "text": "Sphere 3D Corp.",
+            "answer_start": 293
+          }
+        ],
+        "id": "SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT__Parties",
+        "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "June 1st, 2020",
+            "answer_start": 93
+          }
+        ],
+        "id": "SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT__Agreement Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "June 1st, 2020",
+            "answer_start": 93
+          }
+        ],
+        "id": "SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT__Effective Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Effective Date\" that should be reviewed by a lawyer. Details: The date when the contract is effective\u00a0",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "This Agreement is for a term (the \"Term\") of 12 months from the Effective Date on June 1s t 2020 and expiring May 31st 2021.",
+            "answer_start": 4330
+          }
+        ],
+        "id": "SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT__Expiration Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "Without notification the contract will automatically extend for an additional month of service.",
+            "answer_start": 4655
+          }
+        ],
+        "id": "SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT__Renewal Term",
+        "question": "Highlight the parts (if any) of this contract related to \"Renewal Term\" that should be reviewed by a lawyer. Details: What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "In the case that the company would not like to extend the terms of agreement for an additional month. The company must notify the consultant within 5 days of the conclusion of the 12 month term.",
+            "answer_start": 4460
+          }
+        ],
+        "id": "SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT__Notice Period To Terminate Renewal",
+        "question": "Highlight the parts (if any) of this contract related to \"Notice Period To Terminate Renewal\" that should be reviewed by a lawyer. Details: What is the notice period required to terminate renewal?",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "This Consulting Agreement shall be governed by, and construed pursuant to the laws of the State of New York, applicable to agreements made and performed wholly within such State.",
+            "answer_start": 10655
+          }
+        ],
+        "id": "SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT__Governing Law",
+        "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT__Most Favored Nation",
+        "question": "Highlight the parts (if any) of this contract related to \"Most Favored Nation\" that should be reviewed by a lawyer. Details: Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT__Non-Compete",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Compete\" that should be reviewed by a lawyer. Details: Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT__Exclusivity",
+        "question": "Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing\u00a0 commitment with the counterparty? This includes a commitment to procure all \u201crequirements\u201d from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on\u00a0 collaborating or working with other parties), whether during the contract or\u00a0 after the contract ends (or both).",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT__No-Solicit Of Customers",
+        "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Customers\" that should be reviewed by a lawyer. Details: Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT__Competitive Restriction Exception",
+        "question": "Highlight the parts (if any) of this contract related to \"Competitive Restriction Exception\" that should be reviewed by a lawyer. Details: This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT__No-Solicit Of Employees",
+        "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Employees\" that should be reviewed by a lawyer. Details: Is there a restriction on a party\u2019s soliciting or hiring employees and/or contractors from the\u00a0 counterparty, whether during the contract or after the contract ends (or both)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT__Non-Disparagement",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Disparagement\" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT__Termination For Convenience",
+        "question": "Highlight the parts (if any) of this contract related to \"Termination For Convenience\" that should be reviewed by a lawyer. Details: Can a party terminate this\u00a0 contract without cause (solely by giving a notice and allowing a waiting\u00a0 period to expire)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT__Rofr/Rofo/Rofn",
+        "question": "Highlight the parts (if any) of this contract related to \"Rofr/Rofo/Rofn\" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT__Change Of Control",
+        "question": "Highlight the parts (if any) of this contract related to \"Change Of Control\" that should be reviewed by a lawyer. Details: Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT__Anti-Assignment",
+        "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT__Revenue/Profit Sharing",
+        "question": "Highlight the parts (if any) of this contract related to \"Revenue/Profit Sharing\" that should be reviewed by a lawyer. Details: Is one party required to share revenue or profit with the counterparty for any technology, goods, or\u00a0services?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT__Price Restrictions",
+        "question": "Highlight the parts (if any) of this contract related to \"Price Restrictions\" that should be reviewed by a lawyer. Details: Is there a restriction on the\u00a0 ability of a party to raise or reduce prices of technology, goods, or\u00a0 services provided?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT__Minimum Commitment",
+        "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT__Volume Restriction",
+        "question": "Highlight the parts (if any) of this contract related to \"Volume Restriction\" that should be reviewed by a lawyer. Details: Is there a fee increase or consent requirement, etc. if one party\u2019s use of the product/services exceeds certain threshold?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT__Ip Ownership Assignment",
+        "question": "Highlight the parts (if any) of this contract related to \"Ip Ownership Assignment\" that should be reviewed by a lawyer. Details: Does intellectual property created\u00a0 by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT__Joint Ip Ownership",
+        "question": "Highlight the parts (if any) of this contract related to \"Joint Ip Ownership\" that should be reviewed by a lawyer. Details: Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT__License Grant",
+        "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT__Non-Transferable License",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Transferable License\" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT__Affiliate License-Licensor",
+        "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensor\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT__Affiliate License-Licensee",
+        "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensee\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT__Unlimited/All-You-Can-Eat-License",
+        "question": "Highlight the parts (if any) of this contract related to \"Unlimited/All-You-Can-Eat-License\" that should be reviewed by a lawyer. Details: Is there a clause granting one party an \u201centerprise,\u201d \u201call you can eat\u201d or unlimited usage license?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT__Irrevocable Or Perpetual License",
+        "question": "Highlight the parts (if any) of this contract related to \"Irrevocable Or Perpetual License\" that should be reviewed by a lawyer. Details: Does the contract contain a\u00a0 license grant that is irrevocable or perpetual?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT__Source Code Escrow",
+        "question": "Highlight the parts (if any) of this contract related to \"Source Code Escrow\" that should be reviewed by a lawyer. Details: Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,\u00a0 insolvency, etc.)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "Upon termination, Consultant agrees to perform the necessary information transfer required at the time.",
+            "answer_start": 4752
+          }
+        ],
+        "id": "SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT__Post-Termination Services",
+        "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT__Audit Rights",
+        "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT__Uncapped Liability",
+        "question": "Highlight the parts (if any) of this contract related to \"Uncapped Liability\" that should be reviewed by a lawyer. Details: Is a party\u2019s liability uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT__Cap On Liability",
+        "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party\u2019s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT__Liquidated Damages",
+        "question": "Highlight the parts (if any) of this contract related to \"Liquidated Damages\" that should be reviewed by a lawyer. Details: Does the contract contain a clause that would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT__Warranty Duration",
+        "question": "Highlight the parts (if any) of this contract related to \"Warranty Duration\" that should be reviewed by a lawyer. Details: What is the duration of any\u00a0 warranty against defects or errors in technology, products, or services\u00a0 provided under the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT__Insurance",
+        "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT__Covenant Not To Sue",
+        "question": "Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty\u2019s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT__Third Party Beneficiary",
+        "question": "Highlight the parts (if any) of this contract related to \"Third Party Beneficiary\" that should be reviewed by a lawyer. Details: Is there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?",
+        "is_impossible": true
+      }
+    ],
+    "context": "Exhibit 10.12 CONSULTING AGREEMENT\n\nTHIS CONSULTING AGREEMENT is made and entered into as of June 1st, 2020 (the \"Effective Date\") by and between GROUPE PARAMEUS CORP , a (hereinafter, the \"Consultant\"), with an address at 80 Cumberland street, suite 1707 Toronto Ont. (the \"Consultant\"), and Sphere 3D Corp., with an address at 895 Don Mills Road Bldg 2 Toronto Ontario Canada (\"Company\").\n\nWHEREAS, Consultant has experience in the area of corporate finance, investor communications and financial and investor public relations and the Company and Consultant wish for Consultant to provide services to the Company as hereinafter provided.\n\nNOW, THEREFORE, in consideration of the premises and the mutual covenants set forth herein and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Company and the Consultant hereby agree as follows:\n\nDUTIES.\n\nThe Company hereby engages the Consultant and the Consultant hereby accepts engagement as a consultant. It is understood and agreed, and it is the express intention of the parties to this Agreement, that the Consultant is an independent contractor, and not an employee or agent of the Company for any purpose whatsoever. Consultant shall perform all duties and obligations as described on Exhibit A hereto (the \"Services\") and agrees to be available at such times as may be scheduled by the Company. It is understood, however, that the Consultant will maintain Consultant's own business in addition to providing services to the Company. The Consultant agrees to promptly perform all services required of the Consultant hereunder in an efficient, professional, trustworthy and businesslike manner. A description of the Consultant's services are attached hereto as Exhibit A and incorporated by reference herein.\n\nIn connection with Consultant's performance of the Services specified in the Statement of Work, Company agrees to provide Consultant and/or each subcontractor, such materials as may be necessary for the Services to be performed (the \"Materials\"). The Company hereby represents, warrants, covenants and agrees that the Materials will be true and accurate and shall be free of any material omissions or misstatements and otherwise compliant will all applicable laws.\n\nThe Company shall provide disclosures in each of its Forms 10-K and 10-Q as to the existence of this Agreement and any Statement of Work, the amount paid or to be paid in connection with each Statement of Work and the types of services to be provided under each Statement of Work.\n\nDuring the Term, the Company shall advise Consultant of any and all promotional activities with respect to its securities, prior to the commencement of such activities, including, but not limited to, press releases and engagements with other investment relations firms or other service providers providing services similar to those or the Services provided in a Statement of Work.\n\nCONSULTING SERVICES & COMPENSATION. Commencing on the Effective Date, the Consultant will be retained as a Consultant and independent contractor for the Company for the Term as set forth in Section 3. For services rendered hereunder during the term, the Consultant shall receive:\n\nA cash pre-payment of US$150,000 which Consultant acknowledges it received directly from an investor participating in the Company's March 2020 convertible debenture offering and that no additional cash payment is due and payable under this Agreement.\n\nA total of 100,000 of the Company's restricted common stock issued under and pursuant to the terms of Regulation D under the Securities Act of 1933 (the \"Shares\") shall be issued upon execution of this contract provided that the issuance of the Shares shall be subject to prior approval of the Board of Directors. The company shall cause its counsel to provide an opinion letter for removal of any legend when and if such legend may be removed in accordance with applicable law.\n\n\n\n\n\nA one time issuance of 50,000 Common Stock options priced at the Nasdaq Official Closing Price (\"NCOP\") on the date of approval of the Board of Directors of the company. All options shall vest monthly for six months.\n\nA total of 100,000 RSA's (\"Restricted Stock Awards\") that vest immediately, subject to prior approval of the Board of Directors.\n\nTERM & TERMINATION. This Agreement is for a term (the \"Term\") of 12 months from the Effective Date on June 1s t 2020 and expiring May 31st 2021.\n\n(a) In the case that the company would not like to extend the terms of agreement for an additional month. The company must notify the consultant within 5 days of the conclusion of the 12 month term. Without notification the contract will automatically extend for an additional month of service.\n\nUpon termination, Consultant agrees to perform the necessary information transfer required at the time.\n\nCONFIDENTIALITY. All knowledge and information of a proprietary and confidential nature relating to the Company which the Consultant obtains during the Consulting period, from the Company or the Company's employees, agents or Consultants shall be for all purposes regarded and treated as strictly confidential for so long as such information remains proprietary and confidential and shall be held in trust by the Consultant solely for the Company's benefit and use and shall not be directly or indirectly disclosed in any manner whatsoever by the Consultant.\n\nCONSULTANT'S REPRESENTATIONS & WARRANTIES. Consultant represents and warrants to the Company as follows:\n\nThe Consultant (i) has adequate means of providing for the Consultant's current needs and possible personal contingencies; (ii) is acquiring the Shares for investment and not with a view to their distribution and has no need for liquidity in this investment; (iii) is able to bear the substantial economic risks of an investment in the Shares for an indefinite period; and (iv) is an \"accredited investor\" as defined in Rule 501 of Regulation D of the Securities Act of 1933, as amended.\n\nConsultant is not under any legal obligation, including any obligation of confidentiality or non-competition, which prevents Consultant from executing or fully performing this Consulting Agreement, or which would render such execution or performance a breach of contract with any third party, or which would give any third party any rights in any intellectual property which might be developed by Consultant hereunder; and\n\nConsultant shall perform the Services hereunder in accordance with the terms of this Agreement and applicable regulations, guidelines and licensing requirements; and\n\nConsultant has all requisite power and authority to execute, deliver, and perform this Agreement, and this Agreement has been duly authorized, executed and delivered by Consultant and is Consultant's legal, valid and binding obligation, and is enforceable as to Consultant in accordance with its terms.\n\nThe Consultant certifies, under penalties of perjury that the Consultant is not subject to backup withholding as a result of a failure to report all interest or dividends, or because the Internal Revenue Service has notified the Consultant that the Consultant is no longer subject to backup withholding, and that Consultant has provided the Company an accurate taxpayer ID number.\n\nSEVERABILITY. In the event any provision of this Consulting Agreement is determined by a court of competent jurisdiction to be unenforceable, the parties will negotiate in good faith to restore the unenforceable provision to an enforceable state and to provide reasonable additions or adjustments to the terms of the other provisions of this Consulting Agreement so as to render the whole Consulting Agreement valid and binding to the fullest extent possible, and in any event, this Consulting Agreement shall be interpreted to be valid and binding to the fullest extent possible.\n\nNON-DISCLOSURE OF TERMS. The terms of this Agreement shall be kept confidential, and no party, representative, attorney or family member shall reveal its contents to any third party except as required by law or as necessary to comply with law or preexisting contractual commitments.\n\n\n\n\n\nINDEMNIFICATION. Consultant shall indemnify, defend and hold harmless the Company, the Parent, and each of their members, their affiliates and their respective directors, officers, employees, representatives, agents, successors and assigns (collectively, \"Indemnitees\") from and against any and all claims, losses, liabilities, damages, costs, expenses (including, without limitation, attorneys fees and expenses) demands, fines, penalties, injunctions, suits and causes of action of any kind or nature whatsoever (collectively referred to as \"Damages\") instituted by any third party and arising out of Consultant's performance of services under this Consulting Agreement, unless said Damages arise out of the negligence or willful misconduct of the Company, its members, affiliates and their respective directors, officers, employees, representatives, agents, successors and assigns.\n\nSEC & LEGAL COMPLIANCE. Consultant hereby represents that it has in place policies and procedures relating to, and addressing, with the commercially reasonable intent to ensure compliance with, all applicable securities laws, rules and regulations, including but not limited to the use, release or other publication of forward-looking statements within the meaning of Section 27A of the Securities Act and Section 21E of the Exchange Act and disclosure requirements outlined in Section 17B of the Exchange Act regarding the required disclosure of the nature and terms of its relationship with the Company in any and all literature or other communication(s) relating to these services, including but not limited to: Press Releases, letters to investors and telephone or other personal communication(s) with potential or current investors. In addition, Consultant acknowledges that United States securities laws and the rules and regulations promulgated thereunder prohibit any person with material, non- public information about a company from purchasing, selling, trading, or entering into options, puts, calls or other derivatives in respect of securities of such issuer or from communicating such information to any other person or entity and Consultant shall comply with such laws, rules and regulations. Consultant will take no action to manipulate the market price of the Company's securities in violation of law or regulation, nor pay or otherwise induce others to take any such actions, nor publish comments about the Company without appropriately disclosing payments received therefor.\n\nMISCELLANEOUS\n\nThis Consulting Agreement shall be governed by, and construed pursuant to the laws of the State of New York, applicable to agreements made and performed wholly within such State. Any disputes under this Consulting Agreement shall be resolved by appropriate proceedings in the state of New York.\n\nThis Consulting Agreement may not be changed orally, but may be changed only in a writing executed by the party to be charged with enforcement.\n\nIf any terms and conditions of this Consulting Agreement shall be held to be illegal, invalid or otherwise unenforceable by a court of competent jurisdiction, all remaining terms and conditions shall remain in full force and effect\n\nIN WITNESS WHEREOF, the parties hereto have duly executed this Agreement as of the Effective Date.\n\nSphere 3D Corp.\n\n/s/ Peter Tassiopoulos\n\nName: Peter Tassiopoulos\n\nTitle: CEO\n\nGROUPE PARAMEUS CORP.\n\n/s/ Samuel Kafkas\n\nName:\n\nTitle: President\n\n\n\n\n\nEXHIBIT A\n\nConsultant Services\n\nThe Consultant agrees, to the extent reasonably require in the conduct of its business with the Company, to place at the disposal of the Company its judgment and experience and to provide business development services to the Company, including, but not limited to, the following:\n\na. Advise and assist the company in developing and implementing appropriate plans and materials for presenting the Company and its business plan, strategy and personnel to the financial community.\n\nb. With the cooperation of the Company, maintain an awareness during the term of the agreement of the Company's plan's and strategy as it relates to the financial community.\n\nc. Create awareness of the company among investors and media.\n\nd. Assist the Company in steps for financial and public relations."
+  }
+]

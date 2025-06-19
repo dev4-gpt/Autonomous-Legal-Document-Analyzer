@@ -1,0 +1,304 @@
+[
+  {
+    "qas": [
+      {
+        "answers": [
+          {
+            "text": "BUSINESS AFFILIATE AGREEMENT",
+            "answer_start": 40
+          }
+        ],
+        "id": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement__Document Name",
+        "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "collectively,  Business Affiliate and UDC may be referred to collectively as the \"Parties\" and singularly as a (\"Party\")",
+            "answer_start": 345
+          },
+          {
+            "text": "Business Affiliate",
+            "answer_start": 266
+          },
+          {
+            "text": "UDC",
+            "answer_start": 337
+          },
+          {
+            "text": "Dr. George D. Green",
+            "answer_start": 240
+          },
+          {
+            "text": "UNION DENTAL CORP.",
+            "answer_start": 291
+          }
+        ],
+        "id": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement__Parties",
+        "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "January  28,  2005",
+            "answer_start": 131
+          }
+        ],
+        "id": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement__Agreement Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "October 15,  2004",
+            "answer_start": 168
+          }
+        ],
+        "id": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement__Effective Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Effective Date\" that should be reviewed by a lawyer. Details: The date when the contract is effective\u00a0",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "This Agreement  shall become  effective on the Effective Date      and shall  continue in effect until  either  Party  informs the other Party      with thirty (30) day prior written notice of termination of this Agreement.",
+            "answer_start": 6029
+          }
+        ],
+        "id": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement__Expiration Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement__Renewal Term",
+        "question": "Highlight the parts (if any) of this contract related to \"Renewal Term\" that should be reviewed by a lawyer. Details: What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement__Notice Period To Terminate Renewal",
+        "question": "Highlight the parts (if any) of this contract related to \"Notice Period To Terminate Renewal\" that should be reviewed by a lawyer. Details: What is the notice period required to terminate renewal?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement__Governing Law",
+        "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement__Most Favored Nation",
+        "question": "Highlight the parts (if any) of this contract related to \"Most Favored Nation\" that should be reviewed by a lawyer. Details: Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement__Non-Compete",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Compete\" that should be reviewed by a lawyer. Details: Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement__Exclusivity",
+        "question": "Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing\u00a0 commitment with the counterparty? This includes a commitment to procure all \u201crequirements\u201d from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on\u00a0 collaborating or working with other parties), whether during the contract or\u00a0 after the contract ends (or both).",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement__No-Solicit Of Customers",
+        "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Customers\" that should be reviewed by a lawyer. Details: Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement__Competitive Restriction Exception",
+        "question": "Highlight the parts (if any) of this contract related to \"Competitive Restriction Exception\" that should be reviewed by a lawyer. Details: This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement__No-Solicit Of Employees",
+        "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Employees\" that should be reviewed by a lawyer. Details: Is there a restriction on a party\u2019s soliciting or hiring employees and/or contractors from the\u00a0 counterparty, whether during the contract or after the contract ends (or both)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement__Non-Disparagement",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Disparagement\" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "This Agreement  shall become  effective on the Effective Date      and shall  continue in effect until  either  Party  informs the other Party      with thirty (30) day prior written notice of termination of this Agreement.",
+            "answer_start": 6029
+          }
+        ],
+        "id": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement__Termination For Convenience",
+        "question": "Highlight the parts (if any) of this contract related to \"Termination For Convenience\" that should be reviewed by a lawyer. Details: Can a party terminate this\u00a0 contract without cause (solely by giving a notice and allowing a waiting\u00a0 period to expire)?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement__Rofr/Rofo/Rofn",
+        "question": "Highlight the parts (if any) of this contract related to \"Rofr/Rofo/Rofn\" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement__Change Of Control",
+        "question": "Highlight the parts (if any) of this contract related to \"Change Of Control\" that should be reviewed by a lawyer. Details: Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement__Anti-Assignment",
+        "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement__Revenue/Profit Sharing",
+        "question": "Highlight the parts (if any) of this contract related to \"Revenue/Profit Sharing\" that should be reviewed by a lawyer. Details: Is one party required to share revenue or profit with the counterparty for any technology, goods, or\u00a0services?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement__Price Restrictions",
+        "question": "Highlight the parts (if any) of this contract related to \"Price Restrictions\" that should be reviewed by a lawyer. Details: Is there a restriction on the\u00a0 ability of a party to raise or reduce prices of technology, goods, or\u00a0 services provided?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement__Minimum Commitment",
+        "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement__Volume Restriction",
+        "question": "Highlight the parts (if any) of this contract related to \"Volume Restriction\" that should be reviewed by a lawyer. Details: Is there a fee increase or consent requirement, etc. if one party\u2019s use of the product/services exceeds certain threshold?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement__Ip Ownership Assignment",
+        "question": "Highlight the parts (if any) of this contract related to \"Ip Ownership Assignment\" that should be reviewed by a lawyer. Details: Does intellectual property created\u00a0 by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement__Joint Ip Ownership",
+        "question": "Highlight the parts (if any) of this contract related to \"Joint Ip Ownership\" that should be reviewed by a lawyer. Details: Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement__License Grant",
+        "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement__Non-Transferable License",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Transferable License\" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement__Affiliate License-Licensor",
+        "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensor\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement__Affiliate License-Licensee",
+        "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensee\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement__Unlimited/All-You-Can-Eat-License",
+        "question": "Highlight the parts (if any) of this contract related to \"Unlimited/All-You-Can-Eat-License\" that should be reviewed by a lawyer. Details: Is there a clause granting one party an \u201centerprise,\u201d \u201call you can eat\u201d or unlimited usage license?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement__Irrevocable Or Perpetual License",
+        "question": "Highlight the parts (if any) of this contract related to \"Irrevocable Or Perpetual License\" that should be reviewed by a lawyer. Details: Does the contract contain a\u00a0 license grant that is irrevocable or perpetual?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement__Source Code Escrow",
+        "question": "Highlight the parts (if any) of this contract related to \"Source Code Escrow\" that should be reviewed by a lawyer. Details: Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,\u00a0 insolvency, etc.)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement__Post-Termination Services",
+        "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "Make available,  during normal business hours, at a Party=s offices      all records, books, agreements, policies and procedures relating to the use      and/or  disclosure  of  Confidential  Information  that is  subject to this      Agreement,  to the other  Party  within ten (10) days of a Party's  written      request,  for the purpose of  enabling a Party to verify the other  Party=s      compliance with the terms of this Agreement",
+            "answer_start": 3636
+          }
+        ],
+        "id": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement__Audit Rights",
+        "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement__Uncapped Liability",
+        "question": "Highlight the parts (if any) of this contract related to \"Uncapped Liability\" that should be reviewed by a lawyer. Details: Is a party\u2019s liability uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement__Cap On Liability",
+        "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party\u2019s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement__Liquidated Damages",
+        "question": "Highlight the parts (if any) of this contract related to \"Liquidated Damages\" that should be reviewed by a lawyer. Details: Does the contract contain a clause that would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement__Warranty Duration",
+        "question": "Highlight the parts (if any) of this contract related to \"Warranty Duration\" that should be reviewed by a lawyer. Details: What is the duration of any\u00a0 warranty against defects or errors in technology, products, or services\u00a0 provided under the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement__Insurance",
+        "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement__Covenant Not To Sue",
+        "question": "Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty\u2019s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement__Third Party Beneficiary",
+        "question": "Highlight the parts (if any) of this contract related to \"Third Party Beneficiary\" that should be reviewed by a lawyer. Details: Is there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?",
+        "is_impossible": true
+      }
+    ],
+    "context": "EXHIBIT 10.1\n\n                          BUSINESS AFFILIATE AGREEMENT\n\nThis  Business  Affiliate  Agreement   (\"Agreement\")  dated  January  28,  2005, effective  as of October 15,  2004,  (\"Effective  Date\") is entered  into by and between Dr. George D. Green (the \"Business Affiliate\") and UNION DENTAL CORP., a Florida  corporation  (\"UDC\")  (collectively,  Business Affiliate and UDC may be referred to collectively as the \"Parties\" and singularly as a (\"Party\").\n\n                                    RECITALS\n\n     WHEREAS,  the Business  Affiliate  wishes to help further  UDC's mission of Managing  dental  offices,  whereby  Business  Affiliate  and UDC will  exchange confidential information (as defined below):\n\n     NOW THEREFORE,  in consideration of the premises,  covenants and agreements and  the  mutual   promises   herein   made,   and  in   consideration   of  the representations,  warranties, and covenants herein contained, and for other good and  valuable  consideration,  the  receipt and  sufficiency  of which is hereby acknowledged, the Parties hereto agree as follows:\n\n                                    AGREEMENT\n\n     1.  Definitions.  A  Confidential  Information@  shall  mean  any  and  all information  that a Party may reasonably  expect to remain  confidential and not shared with the general public at any time or that information that is protected by law.\n\n     2.  Services.  It is anticipated  that the Business  Affiliate will provide services both for clients of the Business Affiliate and UDC that involve the use and disclosure of Confidential Information (the \"Services\"). Except as otherwise specified  herein,  the  Parties  may  make  any  and all  uses of  Confidential Information  necessary to perform the  Services.  Additionally,  the Parties may disclose Confidential  Information for the purposes authorized by this Agreement only (a) to its employees,  subcontractors  and agents,  in accordance with this Agreement,  or (b) as directed by the other Party.  The Parties  expressly agree that any and all uses or disclosures of the Confidential  Information by a Party will be done in accordance  with the terms of this  Agreement and the provisions of all applicable federal and state laws and regulations.\n\n     3.  Responsibilities  of  the  Parties.  With  regard  to  its  use  and/or disclosure  of  Confidential  Information,  each Party  hereby  agrees to do the following:\n\n          a. Use and/or disclose the Confidential  Information only as permitted      or required by this Agreement or as otherwise required by law;\n\n                                        1\n\n          b. Report to the other Party, in writing, any use and/or disclosure of      the  Confidential  Information  that is not  permitted  or required by this      Agreement of which a Party  becomes aware within five (5) days of a Party=s      discovery of such unauthorized use and/or disclosure;\n\n          c.  Use  appropriate  safeguards  to  maintain  the  security  of  the      Confidential  Information and to prevent unauthorized use and/or disclosure      of such Confidential Information;\n\n          d. Require all of its employees,  representatives,  subcontractors  or      agents that receive or use or have access to Confidential Information under      this Agreement to agree in writing to adhere to the same  restrictions  and      conditions on the use and/or  disclosure of Confidential  Information  that      apply  herein,   including   the   obligation  to  return  or  destroy  the      Confidential Information as provided under paragraph g of this Section 3.\n\n          e. Make available,  during normal business hours, at a Party=s offices      all records, books, agreements, policies and procedures relating to the use      and/or  disclosure  of  Confidential  Information  that is  subject to this      Agreement,  to the other  Party  within ten (10) days of a Party's  written      request,  for the purpose of  enabling a Party to verify the other  Party=s      compliance with the terms of this Agreement;\n\n          f. Within  fifteen  (15) days of  receiving a written  request  from a      Party,  provide to the other Party such  information  as is  requested by a      Party to permit the other  Party to  respond  to a request  by the  subject      individual for amendment and accounting  purposes of the disclosures of the      individual=s Confidential Information;\n\n          g.  Return to a Party or  destroy,  as  requested  by a Party,  within      fifteen (15) days of the  termination of this Agreement,  any  Confidential      Information  provided  to such  Party and in its  possession  and retain no      copies or back-up tapes;\n\n          h. Parties agrees to mitigate, to the extent practicable,  any harmful      effect  that is  known to a Party of a use or  disclosure  of  Confidential      Information by a Party in violation of the requirements of this Agreement;\n\n          i. To inform a Party of any  changes  in the form of notice of privacy      practices  that the other  Party  provides to  individuals  and provide the      Party a copy of the notice currently in use; and\n\n          j. To  inform  the Party of any  changes  in, or  withdrawal  of,  the      consent  or  authorization   provided  to  a  Party  by  individuals  whose      Confidential Information may be used and/or disclosed by a Party under this      Agreement.\n\n                                        2\n\nSource: UNION DENTAL HOLDINGS, INC., 8-K/A, 2/4/2005\n\n\n\n\n\n     4. Mutual  Representation and Warranty.  Each Party represents and warrants to the  other  Party  that all of its  employees,  agents,  representatives  and members of its work force,  whose  services  may be used to fulfill  obligations under this  Agreement,  are or shall be  appropriately  informed of the terms of this  Agreement  and are  under  legal  obligation  to  comply  fully  with  all provisions of this Agreement.\n\n     5. Term and Termination.\n\n          a. Term. This Agreement  shall become  effective on the Effective Date      and shall  continue in effect until  either  Party  informs the other Party      with thirty (30) day prior written notice of termination of this Agreement.\n\n          b. Termination.  UDC may immediately  terminate this Agreement without      notice  and any  related  agreement  if it  determines  that  the  Business      Affiliate  has breached a material  provision  of this  Agreement or if the      activities  contemplated under this Agreement will result in a violation of      any federal or state law or if such Services  would,  in the opinion of UDC      and its counsel. Alternatively, UDC may choose to: (i) provide the Business      Affiliate  with ten (10) days written notice of the existence of an alleged      material breach;  and (ii) afford the Business  Affiliate an opportunity to      cure said alleged material breach upon mutually agreeable terms. Failure to      cure in the manner set forth in this paragraph is grounds for the immediate      termination of the Agreement.\n\n          c. Effect of Termination.  Upon termination of this Agreement, for any      reason, each Party hereto shall return to the other Party, or destroy,  all      of such Party's  Confidential  Information  in the  possession of the other      Party.  This provision shall apply to Confidential  Information  that is in      the possession of  subcontractors or agents of each Party. Each Party shall      retain no copies of the Confidential  Information of the other Party except      as may be required by law.\n\n     6. Indemnification.  The Parties hereby covenant and agree to indemnify and hold harmless each other, it's agents and  representatives  from and against any and all losses, costs, expenses, liabilities, claims, demands, judgments and its settlements  of every  nature that are actually  incurred by a Party,  including without limitation reasonable attorney's fees for pre-trial,  trial,  appellate, judgment,  post-judgment,  execution, and alternative dispute resolution,  which arise out of any use or disclosure of Confidential  Information not specifically permitted by this  Agreement  or arise out of the services  rendered by Business Affiliate.  The provisions of this Paragraph 6 shall survive the  termination of this Agreement for whatever reasons whatsoever.\n\n     7. Miscellaneous.\n\n          a.  Survival.  The  respective  rights  and  obligations  of  Business      Affiliate  and UDC under the  provisions  of  Sections  3(g)  [Responsibilities of the Parties] and 3(h)  [Responsibilities of the Parties] and 6      shall survive the termination of this Agreement indefinitely.\n\n                                        3\n\n          b. Amendment. This Agreement may not be modified or amended, except in      writing as agreed to by each Party.\n\n          c. No Third Party  Beneficiaries.  Nothing  express or implied in this      Agreement is intended to confer, nor anything herein shall confer, upon any      person other than the Parties hereto any rights, remedies,  obligations, or      liabilities whatsoever.\n\n          d.  Notices.  All  notices or  communications  required  or  permitted      pursuant  to the terms of this  Agreement  will be in  writing  and will be      delivered in person or by means of certified or  registered  mail,  postage      prepaid, return receipt requested, to such Party at its last known address,      or such other person or address as such Party may specify by similar notice      to the other Party hereto or by telephone  facsimile  with a hard copy sent      by mail on the next  business  day.  All such  notices will be deemed given      upon delivery if delivered by hand, on the third business day after deposit      with the U.S. Postal  Service,  and on the first business day after sending      it by facsimile.\n\n          e. Relationship of the Parties. It is expressly  understood and agreed      that (i) in the performance of Services under this Agreement,  the Business      Affiliate shall at all times act as an independent  contractor with respect      to UDC and not as an employee or agent of UDC and (ii) nothing contained in      this Agreement  shall be construed to create a joint venture,  partnership,      association  or  other  affiliation,  or  like  relationship,  between  the      Parties,  it being  specifically  agreed that the relationship is and shall      remain  that  of  independent   Parties  to  a  contractual   relationship.      Accordingly,  UDC shall  neither have nor exercise any specific  control or      direction over the particular  methods by which Business Affiliate performs      services  required by this  Agreement.  In no event shall  either  Party be      liable  for the debts or  obligations  of the  other,  except as  otherwise      specifically provided in this Agreement. Neither Party shall have any claim      under this Agreement or otherwise against the other Party for vacation pay,      paid  sick  leave,   retirement   benefits,   social   security,   worker=s      compensation, health, disability,  professional malpractice or unemployment      insurance  benefits,  or other employee  benefits of any kind. Based on the      foregoing, (i) Business Affiliate will not be treated as an employee of UDC      for Federal tax  purposes;  (ii) UNION DENTAL  CORP.,  will not withhold on      behalf  of  Business  Affiliate  any  sums  for  income  tax,  unemployment      insurance,  social security or any other withholding pursuant to any law or      requirement of any  government  body, or make available any of the benefits      afforded to employees of UDC (iii) all of such  payments,  withholdings  or      benefits due any governmental agency, if any, are Business Affiliate=s sole      responsibility;  and  (iv)  Business  Affiliate  will  indemnify  and  hold      harmless UDC from any and all loss or liability arising from his failure to      make  such  payments,  withholds  and  benefits,  if any.  In the event the      Internal Revenue Service or any other  governmental  agency should question      or challenge the Business  Affiliate=s  independent  contractor status, the      Parties  hereby agree that both  Business  Affiliate and UDC shall have the      right to participate in any discussions or negotiations\n\nSource: UNION DENTAL HOLDINGS, INC., 8-K/A, 2/4/2005\n\n\n\n\n\n                                        4\n\n     occurring with such agency or agencies,  regardless of with whom or by whom      such discussions or negotiations are initiated.\n\n          f. Business  Affiliate  acknowledges  that the Business  Affiliate has      read,  understood  and accepted the terms and  conditions in UDC's Business      Affiliate manual, the terms and conditions of which are hereby incorporated      into this agreement by reference.\n\n     IN WITNESS  WHEREOF,  the Parties  hereto have caused this  Agreement to be signed as of the date and year first above written.\n\n                                 Business Affiliate\n\n                                 --------------------------------\n\n                                 By: /s/ George D. Green                                  --------------------------------                                  Name: George D. Green                                  --------------------------------\n\n                                 Title:                                  --------------------------------\n\n                                 UNION DENTAL CORP.\n\n                                 By: /s/ George D. Green                                  --------------------------------                                  Name: George D. Green                                  --------------------------------\n\n                                 Title:CEO and President                                  --------------------------------\n\nudc-8ka_ex10baa1.doc\n\n                                                       5\n\nSource: UNION DENTAL HOLDINGS, INC., 8-K/A, 2/4/2005"
+  }
+]

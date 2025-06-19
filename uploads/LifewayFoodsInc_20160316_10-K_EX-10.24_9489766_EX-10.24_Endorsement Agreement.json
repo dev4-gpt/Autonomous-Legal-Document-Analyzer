@@ -1,0 +1,330 @@
+[
+  {
+    "qas": [
+      {
+        "answers": [
+          {
+            "text": "ENDORSEMENT AGREEMENT",
+            "answer_start": 14
+          }
+        ],
+        "id": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement__Document Name",
+        "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "Ludmila Smolyansky",
+            "answer_start": 271
+          },
+          {
+            "text": "Lifeway",
+            "answer_start": 150
+          },
+          {
+            "text": "Individual",
+            "answer_start": 291
+          },
+          {
+            "text": "Lifeway Foods, Inc.",
+            "answer_start": 150
+          }
+        ],
+        "id": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement__Parties",
+        "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "14th day of March, 2016",
+            "answer_start": 91
+          }
+        ],
+        "id": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement__Agreement Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "14th day of March, 2016",
+            "answer_start": 91
+          }
+        ],
+        "id": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement__Effective Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Effective Date\" that should be reviewed by a lawyer. Details: The date when the contract is effective\u00a0",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement__Expiration Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement__Renewal Term",
+        "question": "Highlight the parts (if any) of this contract related to \"Renewal Term\" that should be reviewed by a lawyer. Details: What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement__Notice Period To Terminate Renewal",
+        "question": "Highlight the parts (if any) of this contract related to \"Notice Period To Terminate Renewal\" that should be reviewed by a lawyer. Details: What is the notice period required to terminate renewal?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "This Agreement will be construed and governed in accordance with the laws of the State of Illinois, without regard to conflict of laws principles.",
+            "answer_start": 8862
+          }
+        ],
+        "id": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement__Governing Law",
+        "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement__Most Favored Nation",
+        "question": "Highlight the parts (if any) of this contract related to \"Most Favored Nation\" that should be reviewed by a lawyer. Details: Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "Individual agrees that, during the Term hereof, she will not render similar services for, or permit the use of her name, nickname, likeness, voice, live or recorded performance, photograph, signature or facsimile thereof, and biographical materials in advertising or publicizing in any medium for any other Kefir product, yogurt product, cheese, frozen desserts and other products that compete with products manufactured or distributed by Lifeway and its affiliates, subsidiaries and parent companies other than those products manufactured or distributed by Lifeway and its affiliates, subsidiaries, and parent companies.",
+            "answer_start": 4074
+          }
+        ],
+        "id": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement__Non-Compete",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Compete\" that should be reviewed by a lawyer. Details: Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?\u00a0",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement__Exclusivity",
+        "question": "Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing\u00a0 commitment with the counterparty? This includes a commitment to procure all \u201crequirements\u201d from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on\u00a0 collaborating or working with other parties), whether during the contract or\u00a0 after the contract ends (or both).",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement__No-Solicit Of Customers",
+        "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Customers\" that should be reviewed by a lawyer. Details: Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement__Competitive Restriction Exception",
+        "question": "Highlight the parts (if any) of this contract related to \"Competitive Restriction Exception\" that should be reviewed by a lawyer. Details: This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement__No-Solicit Of Employees",
+        "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Employees\" that should be reviewed by a lawyer. Details: Is there a restriction on a party\u2019s soliciting or hiring employees and/or contractors from the\u00a0 counterparty, whether during the contract or after the contract ends (or both)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement__Non-Disparagement",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Disparagement\" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement__Termination For Convenience",
+        "question": "Highlight the parts (if any) of this contract related to \"Termination For Convenience\" that should be reviewed by a lawyer. Details: Can a party terminate this\u00a0 contract without cause (solely by giving a notice and allowing a waiting\u00a0 period to expire)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement__Rofr/Rofo/Rofn",
+        "question": "Highlight the parts (if any) of this contract related to \"Rofr/Rofo/Rofn\" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement__Change Of Control",
+        "question": "Highlight the parts (if any) of this contract related to \"Change Of Control\" that should be reviewed by a lawyer. Details: Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "Neither party will assign any of its rights or obligations under this Agreement without the prior written consent of the other party, such consent not to be unreasonably, conditioned, withheld or delayed.",
+            "answer_start": 8281
+          }
+        ],
+        "id": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement__Anti-Assignment",
+        "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "In consideration of the rights granted by Individual hereunder, Lifeway agrees to pay Individual a royalty (the \"Royalty\") equal to $0.02 for each Lifeway product or individual item sold by Lifeway during each calendar month of the Term bearing Individual's first name, last name or other identifying personal characteristics; provided, however, the Royalty will cease being paid upon the death of Individual.",
+            "answer_start": 5241
+          }
+        ],
+        "id": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement__Revenue/Profit Sharing",
+        "question": "Highlight the parts (if any) of this contract related to \"Revenue/Profit Sharing\" that should be reviewed by a lawyer. Details: Is one party required to share revenue or profit with the counterparty for any technology, goods, or\u00a0services?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement__Price Restrictions",
+        "question": "Highlight the parts (if any) of this contract related to \"Price Restrictions\" that should be reviewed by a lawyer. Details: Is there a restriction on the\u00a0 ability of a party to raise or reduce prices of technology, goods, or\u00a0 services provided?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement__Minimum Commitment",
+        "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement__Volume Restriction",
+        "question": "Highlight the parts (if any) of this contract related to \"Volume Restriction\" that should be reviewed by a lawyer. Details: Is there a fee increase or consent requirement, etc. if one party\u2019s use of the product/services exceeds certain threshold?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement__Ip Ownership Assignment",
+        "question": "Highlight the parts (if any) of this contract related to \"Ip Ownership Assignment\" that should be reviewed by a lawyer. Details: Does intellectual property created\u00a0 by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement__Joint Ip Ownership",
+        "question": "Highlight the parts (if any) of this contract related to \"Joint Ip Ownership\" that should be reviewed by a lawyer. Details: Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "Individual grants Lifeway together with its affiliates, subsidiaries, parent companies and their representatives and employees have an unlimited, perpetual, non-exclusive, worldwide and, except as set forth in Section 9, royalty-free, right to use, reuse, publish, reproduce, perform, copy, create derivative works, exhibit, broadcast, and display throughout the world the name, image and likeness of Individual in Marketing Materials (as defined below) in connection with marketing, advertising or otherwise promoting the Lifeway products and/or services and for historical reference and display purposes and other internal purposes, including without limitation, internal sales meetings.",
+            "answer_start": 537
+          }
+        ],
+        "id": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement__License Grant",
+        "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement__Non-Transferable License",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Transferable License\" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement__Affiliate License-Licensor",
+        "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensor\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "Individual grants Lifeway together with its affiliates, subsidiaries, parent companies and their representatives and employees have an unlimited, perpetual, non-exclusive, worldwide and, except as set forth in Section 9, royalty-free, right to use, reuse, publish, reproduce, perform, copy, create derivative works, exhibit, broadcast, and display throughout the world the name, image and likeness of Individual in Marketing Materials (as defined below) in connection with marketing, advertising or otherwise promoting the Lifeway products and/or services and for historical reference and display purposes and other internal purposes, including without limitation, internal sales meetings.",
+            "answer_start": 537
+          }
+        ],
+        "id": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement__Affiliate License-Licensee",
+        "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensee\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "Individual grants Lifeway together with its affiliates, subsidiaries, parent companies and their representatives and employees have an unlimited, perpetual, non-exclusive, worldwide and, except as set forth in Section 9, royalty-free, right to use, reuse, publish, reproduce, perform, copy, create derivative works, exhibit, broadcast, and display throughout the world the name, image and likeness of Individual in Marketing Materials (as defined below) in connection with marketing, advertising or otherwise promoting the Lifeway products and/or services and for historical reference and display purposes and other internal purposes, including without limitation, internal sales meetings.",
+            "answer_start": 537
+          }
+        ],
+        "id": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement__Unlimited/All-You-Can-Eat-License",
+        "question": "Highlight the parts (if any) of this contract related to \"Unlimited/All-You-Can-Eat-License\" that should be reviewed by a lawyer. Details: Is there a clause granting one party an \u201centerprise,\u201d \u201call you can eat\u201d or unlimited usage license?",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "Individual grants Lifeway together with its affiliates, subsidiaries, parent companies and their representatives and employees have an unlimited, perpetual, non-exclusive, worldwide and, except as set forth in Section 9, royalty-free, right to use, reuse, publish, reproduce, perform, copy, create derivative works, exhibit, broadcast, and display throughout the world the name, image and likeness of Individual in Marketing Materials (as defined below) in connection with marketing, advertising or otherwise promoting the Lifeway products and/or services and for historical reference and display purposes and other internal purposes, including without limitation, internal sales meetings.",
+            "answer_start": 537
+          }
+        ],
+        "id": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement__Irrevocable Or Perpetual License",
+        "question": "Highlight the parts (if any) of this contract related to \"Irrevocable Or Perpetual License\" that should be reviewed by a lawyer. Details: Does the contract contain a\u00a0 license grant that is irrevocable or perpetual?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement__Source Code Escrow",
+        "question": "Highlight the parts (if any) of this contract related to \"Source Code Escrow\" that should be reviewed by a lawyer. Details: Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,\u00a0 insolvency, etc.)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement__Post-Termination Services",
+        "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement__Audit Rights",
+        "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement__Uncapped Liability",
+        "question": "Highlight the parts (if any) of this contract related to \"Uncapped Liability\" that should be reviewed by a lawyer. Details: Is a party\u2019s liability uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement__Cap On Liability",
+        "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party\u2019s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement__Liquidated Damages",
+        "question": "Highlight the parts (if any) of this contract related to \"Liquidated Damages\" that should be reviewed by a lawyer. Details: Does the contract contain a clause that would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement__Warranty Duration",
+        "question": "Highlight the parts (if any) of this contract related to \"Warranty Duration\" that should be reviewed by a lawyer. Details: What is the duration of any\u00a0 warranty against defects or errors in technology, products, or services\u00a0 provided under the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement__Insurance",
+        "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "Individual hereby releases and discharges Lifeway from any and all claims, demands, or causes of action in law or equity that he or she may have or may hereafter acquire, including without limitation in connection with any prior use, reuse, publication, reproduction, performance, copy, creation of derivative works, exhibition, broadcast, and display of the name, image and likeness of Individual and any and all claims for libel, slander, invasion of privacy, copyright or trademark violation, right of publicity, or false light, that may arise out of or in connection with the use of the Marketing Materials in accordance with this Agreement.",
+            "answer_start": 2484
+          }
+        ],
+        "id": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement__Covenant Not To Sue",
+        "question": "Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty\u2019s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement__Third Party Beneficiary",
+        "question": "Highlight the parts (if any) of this contract related to \"Third Party Beneficiary\" that should be reviewed by a lawyer. Details: Is there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?",
+        "is_impossible": true
+      }
+    ],
+    "context": "EXHIBIT 10.24 ENDORSEMENT AGREEMENT\n\nThis Endorsement Agreement (\"Agreement\") is made this 14th day of March, 2016 (\"Effective Date\"), by and between Lifeway Foods, Inc. (\"Lifeway\") with a principal business address of 6431 West Oakton Street, Morton Grove, IL 60053 and Ludmila Smolyansky(\"Individual\") on her own behalf with an address of 182 N. Harbor Drive, Chicago, IL 60602. Lifeway and Individual are collectively referred to as the \"parties,\" or individually as a \"party.\" The terms of the Agreement are as follows: 1. License - Individual grants Lifeway together with its affiliates, subsidiaries, parent companies and their representatives and employees have an unlimited, perpetual, non-exclusive, worldwide and, except as set forth in Section 9, royalty-free, right to use, reuse, publish, reproduce, perform, copy, create derivative works, exhibit, broadcast, and display throughout the world the name, image and likeness of Individual in Marketing Materials (as defined below) in connection with marketing, advertising or otherwise promoting the Lifeway products and/or services and for historical reference and display purposes and other internal purposes, including without limitation, internal sales meetings. Notwithstanding anything herein to the contrary, Lifeway shall be under no obligation to cause the Marketing Materials to be displayed, published or performed. Individual further waives the right to inspect or approve the Marketing Materials. 2. Marketing Materials - Marketing Materials shall mean those marketing, sales, advertising, publicity and promotional materials produced by Lifeway or produced on Lifeway's behalf that contain Individual's biographical materials, name, nickname, likeness, voice, photograph, signature or facsimile thereof, reviews, endorsements, testimonials, demonstrations, depictions of the same, or other identifying personal characteristics made in any and all forms of media, that reflect the personal opinions and views of the Individual in connection with Lifeway products and/or services in whatever medium whether now known or hereafter created including, without limitation, websites, intranets, social media, radio and television commercials, video and audio tapes, digitally formatted computer media including but not limited to internet and CD-ROMs, product labels, product packaging, point-of-purchase materials, trade, direct mail, magazines, newspapers, coupons, free standing inserts, and posters. 3. Release - Individual hereby releases and discharges Lifeway from any and all claims, demands, or causes of action in law or equity that he or she may have or may hereafter acquire, including without limitation in connection with any prior use, reuse, publication, reproduction, performance, copy, creation of derivative works, exhibition, broadcast, and display of the name, image and likeness of Individual and any and all claims for libel, slander, invasion of privacy, copyright or trademark violation, right of publicity, or false light, that may arise out of or in connection with the use of the Marketing Materials in accordance with this Agreement. 4. Right to Edit - Lifeway may modify and vary the Marketing Materials produced hereunder, as it may elect, and to make additional versions of such Marketing Materials in any manner without approval from Individual; provided that Individual shall not be required to render any services in connection with the production of such modifications or variations. Moreover, Individual understands and agrees that Lifeway may use the Marketing Materials with or without her name.\n\nSource: LIFEWAY FOODS, INC., 10-K, 3/16/2016\n\n\n\n\n\n5. Ownership - Individual agrees that she does not have, and shall not claim to have, either under this Agreement or otherwise, any right, title or interest of any kind or nature in and to the ideas, likenesses, images, announcements, phrases, titles, music or words used in the Marketing Materials, and that all rights therein, including the copyright, are recognized to be owned by Lifeway. 6. Non-Competing Services - Individual agrees that, during the Term hereof, she will not render similar services for, or permit the use of her name, nickname, likeness, voice, live or recorded performance, photograph, signature or facsimile thereof, and biographical materials in advertising or publicizing in any medium for any other Kefir product, yogurt product, cheese, frozen desserts and other products that compete with products manufactured or distributed by Lifeway and its affiliates, subsidiaries and parent companies other than those products manufactured or distributed by Lifeway and its affiliates, subsidiaries, and parent companies. 7. Representation - Individual represents and warrants that any testimonial or review provided reflects her own honest opinions, findings, beliefs, or experiences. Individual represents that she is a bona fide user of Lifeway products and/or services. 8. Indemnification - Individual agrees to indemnify, defend and hold harmless Lifeway from and against any and all claims, actions, causes or other expenses incurred arising from any misrepresentations or false statements made by the Individual in the Marketing Materials. 9. Compensation (a) In consideration of the rights granted by Individual hereunder, Lifeway agrees to pay Individual a royalty (the \"Royalty\") equal to $0.02 for each Lifeway product or individual item sold by Lifeway during each calendar month of the Term bearing Individual's first name, last name or other identifying personal characteristics; provided, however, the Royalty will cease being paid upon the death of Individual. Notwithstanding anything to the contrary herein, the Royalty will not exceed $50,000 in any month. All undisputed Royalty payments shall be made in U.S. dollars in cash or to the order of Individual and shall be due and payable within thirty (30) days after the end of each calendar month for sales during the previous month. (b) All amounts due under this Agreement are net of any applicable taxes, duties, fees or governmental charges, including without limitation, transfer tax, sales tax, use tax, consumption tax, value-added tax, excise tax, import tax, export tax, and custom duties (collectively \"Taxes\"). Accordingly, Lifeway will be solely responsible for the payment of all Taxes, together with any related liabilities (including interest and penalties), imposed upon it by law or any governmental authority for which Lifeway is primarily liable. (c) The Royalty due hereunder shall be paid to Individual at the address set forth above. 10. Confidentiality - With respect to this Agreement and any information supplied in connection with this Agreement and designated by the disclosing party as confidential, the recipient agrees to: (i) protect the confidential information in a reasonable and appropriate manner; (ii) use confidential information only to perform its obligations under this Agreement; and (iii) reproduce confidential information only as required to perform its obligations under this Agreement. This section shall not apply to information that is: (i) publicly known; (ii) already known to the recipient; (iii) disclosed to a third party without restriction; (iv) independently developed; or (v) disclosed pursuant to legal requirement or order.\n\nSource: LIFEWAY FOODS, INC., 10-K, 3/16/2016\n\n\n\n\n\n11. Mutual Representations, Warranties and Covenants - Each party (the \"Warranting Party\"), to induce the other party to enter into this Agreement, represents, warrants and covenants that: (a) the Warranting Party has the full right and authority, and possesses all licenses, permits, authorizations and rights to intellectual property required to enter into this Agreement and to perform the acts required of it hereunder; (b) the performance by the Warranting Party pursuant to this Agreement and/or the rights in this Agreement granted to the other party will not conflict with or result in a breach or violation of any of the terms or provisions, or constitute a default under any agreement by which the Warranting Party is bound; and (c) with respect to the performance of its obligations hereunder, the Warranting Party will comply with all applicable laws, rules and regulation. 12. Assignment - Neither party will assign any of its rights or obligations under this Agreement without the prior written consent of the other party, such consent not to be unreasonably, conditioned, withheld or delayed. 13. Notice - Notices to the parties shall be sent via overnight mail or U.S. Certified Mail or overnight express or priority mail to the addresses listed in the Agreement. Either party may change its address upon written notice to the other party. Written notices for approvals under this agreement may be via email. 14. [Intentionally Omitted.] 15. Choice of Law and Forum - This Agreement will be construed and governed in accordance with the laws of the State of Illinois, without regard to conflict of laws principles. 16. Survival - Unless and to the extent otherwise specified herein, all terms of this Agreement which by their nature extend beyond its termination, remain in effect until fulfilled, and apply to respective successors and assigns. 17. Force Majeure - If performance hereunder is prevented, restricted or interfered with by any act or condition whatsoever beyond the reasonable control of a party, the party so affected, upon giving prompt notice to the other party, will be excused from such performance to the extent of such prevention, restriction or interference. 18. Waiver - The waiver by either party of a breach or a default of any provision of this Agreement by the other party will not be construed as a waiver of any succeeding breach of the same or any other provision.\n\nSource: LIFEWAY FOODS, INC., 10-K, 3/16/2016\n\n\n\n\n\n19. Counterparts and Facsimile Signatures - This Agreement may be executed in multiple counterparts and via facsimile, each of which will be deemed to be an original, but all of which together constitute one and the same instrument. 20. Entire Agreement and Amendment - This Agreement, together with all exhibits, schedules and attachments, constitutes the entire agreement between the parties with respect to the subject matter hereof. This Agreement supersedes, and the terms of this Agreement govern, any prior agreements with respect to the subject matter hereof with the exception of any prior confidentiality agreements between the parties. This Agreement may only be changed by mutual agreement of authorized representatives of the parties in writing. IN WITNESS WHEREOF Lifeway has caused its duly authorized representatives to execute this Agreement and Individual has signed the Agreement on her own behalf as of the Effective Date. Lifeway Foods, Inc. Ludmila Smolyansky By: /s/ Julie Smolyansky By: /s/ Ludmila Smolyansky Name: Julie Smolyansky Title: CEO Date: March 14, 2016 Date: March 14, 2016\n\nSource: LIFEWAY FOODS, INC., 10-K, 3/16/2016"
+  }
+]

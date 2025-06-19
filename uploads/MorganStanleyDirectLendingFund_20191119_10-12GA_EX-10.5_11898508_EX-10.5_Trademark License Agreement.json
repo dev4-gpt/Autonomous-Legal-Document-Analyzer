@@ -1,0 +1,377 @@
+[
+  {
+    "qas": [
+      {
+        "answers": [
+          {
+            "text": "TRADEMARK LICENSE AGREEMENT",
+            "answer_start": 46
+          }
+        ],
+        "id": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement__Document Name",
+        "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "Morgan Stanley Investment Management Inc.",
+            "answer_start": 163
+          },
+          {
+            "text": "Licensor",
+            "answer_start": 207
+          },
+          {
+            "text": "Licensee",
+            "answer_start": 284
+          },
+          {
+            "text": "Morgan Stanley Direct Lending Fund",
+            "answer_start": 223
+          }
+        ],
+        "id": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement__Parties",
+        "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "[\u00b7] day of [\u00b7], 2019",
+            "answer_start": 115
+          }
+        ],
+        "id": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement__Agreement Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "[\u00b7] day of [\u00b7], 2019",
+            "answer_start": 115
+          }
+        ],
+        "id": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement__Effective Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Effective Date\" that should be reviewed by a lawyer. Details: The date when the contract is effective\u00a0",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "The term of this Agreement commences on the Effective Date and continues in perpetuity, unless termination occurs pursuant to Sections 4.2 through 4.4.",
+            "answer_start": 5095
+          }
+        ],
+        "id": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement__Expiration Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement__Renewal Term",
+        "question": "Highlight the parts (if any) of this contract related to \"Renewal Term\" that should be reviewed by a lawyer. Details: What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement__Notice Period To Terminate Renewal",
+        "question": "Highlight the parts (if any) of this contract related to \"Notice Period To Terminate Renewal\" that should be reviewed by a lawyer. Details: What is the notice period required to terminate renewal?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "THIS AGREEMENT SHALL BE GOVERNED BY, AND CONSTRUED AND INTERPRETED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK.",
+            "answer_start": 13541
+          }
+        ],
+        "id": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement__Governing Law",
+        "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement__Most Favored Nation",
+        "question": "Highlight the parts (if any) of this contract related to \"Most Favored Nation\" that should be reviewed by a lawyer. Details: Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement__Non-Compete",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Compete\" that should be reviewed by a lawyer. Details: Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement__Exclusivity",
+        "question": "Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing\u00a0 commitment with the counterparty? This includes a commitment to procure all \u201crequirements\u201d from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on\u00a0 collaborating or working with other parties), whether during the contract or\u00a0 after the contract ends (or both).",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement__No-Solicit Of Customers",
+        "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Customers\" that should be reviewed by a lawyer. Details: Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement__Competitive Restriction Exception",
+        "question": "Highlight the parts (if any) of this contract related to \"Competitive Restriction Exception\" that should be reviewed by a lawyer. Details: This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement__No-Solicit Of Employees",
+        "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Employees\" that should be reviewed by a lawyer. Details: Is there a restriction on a party\u2019s soliciting or hiring employees and/or contractors from the\u00a0 counterparty, whether during the contract or after the contract ends (or both)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement__Non-Disparagement",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Disparagement\" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "Licensor reserves the right to terminate this Agreement immediately upon written notice for any reason, including if the usage of the Brand is not in compliance with the standards and policies.",
+            "answer_start": 5289
+          }
+        ],
+        "id": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement__Termination For Convenience",
+        "question": "Highlight the parts (if any) of this contract related to \"Termination For Convenience\" that should be reviewed by a lawyer. Details: Can a party terminate this\u00a0 contract without cause (solely by giving a notice and allowing a waiting\u00a0 period to expire)?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement__Rofr/Rofo/Rofn",
+        "question": "Highlight the parts (if any) of this contract related to \"Rofr/Rofo/Rofn\" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "For the avoidance of doubt, a merger, change of control, reorganization or sale of all or substantially all of the stock of Licensee shall be deemed an \"assignment\" requiring the above consent, regardless of whether Licensee is the surviving entity or whether such transaction constitutes an assignment under applicable law.",
+            "answer_start": 11649
+          },
+          {
+            "text": "Licensee may not assign, transfer, pledge, mortgage or otherwise encumber this Agreement or its right to use the Brand (or assume this Agreement in bankruptcy), in whole or in part, without the prior written consent of Licensor in its sole discretion, except for an assignment outside of bankruptcy to a successor organization that is solely the result of a name change by Licensee.",
+            "answer_start": 11266
+          },
+          {
+            "text": "be amended, modified or otherwise restated, the \"Investment Advisory Agreement\"), or a similar agreement, or (b) the Advisor is no longer an affiliate of Licensor.",
+            "answer_start": 6662
+          },
+          {
+            "text": "This Agreement shall terminate automatically without notice and immediately (a) if MS Capital Partners Adviser Inc. or another affiliate of Licensor is no longer acting as the investment adviser (any such entity, the \"Advisor\") to Licensee under the Investment Advisory Agreement, dated as of [\u00b7], 201[9] (as the same may",
+            "answer_start": 6267
+          }
+        ],
+        "id": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement__Change Of Control",
+        "question": "Highlight the parts (if any) of this contract related to \"Change Of Control\" that should be reviewed by a lawyer. Details: Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "Licensee may not assign, transfer, pledge, mortgage or otherwise encumber this Agreement or its right to use the Brand (or assume this Agreement in bankruptcy), in whole or in part, without the prior written consent of Licensor in its sole discretion, except for an assignment outside of bankruptcy to a successor organization that is solely the result of a name change by Licensee.",
+            "answer_start": 11266
+          }
+        ],
+        "id": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement__Anti-Assignment",
+        "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement__Revenue/Profit Sharing",
+        "question": "Highlight the parts (if any) of this contract related to \"Revenue/Profit Sharing\" that should be reviewed by a lawyer. Details: Is one party required to share revenue or profit with the counterparty for any technology, goods, or\u00a0services?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement__Price Restrictions",
+        "question": "Highlight the parts (if any) of this contract related to \"Price Restrictions\" that should be reviewed by a lawyer. Details: Is there a restriction on the\u00a0 ability of a party to raise or reduce prices of technology, goods, or\u00a0 services provided?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement__Minimum Commitment",
+        "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement__Volume Restriction",
+        "question": "Highlight the parts (if any) of this contract related to \"Volume Restriction\" that should be reviewed by a lawyer. Details: Is there a fee increase or consent requirement, etc. if one party\u2019s use of the product/services exceeds certain threshold?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "The parties intend that any and all goodwill in the Brand arising from Licensee's or any applicable sublicensees' Permitted Activity shall inure solely to the benefit of Licensor.",
+            "answer_start": 3594
+          },
+          {
+            "text": "Notwithstanding the foregoing, in the event that Licensee or any sublicensee is deemed to own any rights in the Brand, Licensee hereby irrevocably assigns (or shall cause such sublicensees to assign), without further consideration, such rights to Licensor together with all goodwill associated therewith.",
+            "answer_start": 3774
+          }
+        ],
+        "id": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement__Ip Ownership Assignment",
+        "question": "Highlight the parts (if any) of this contract related to \"Ip Ownership Assignment\" that should be reviewed by a lawyer. Details: Does intellectual property created\u00a0 by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement__Joint Ip Ownership",
+        "question": "Highlight the parts (if any) of this contract related to \"Joint Ip Ownership\" that should be reviewed by a lawyer. Details: Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "Subject to the terms and conditions herein, Licensor hereby grants to Licensee a non-exclusive, non- transferable, and (subject to Section 1.2 hereof) non-sublicensable license for the use of the Brand solely for the Permitted Activity.",
+            "answer_start": 1498
+          }
+        ],
+        "id": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement__License Grant",
+        "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "Licensee may sublicense its rights under Section 1.1 solely to a current or future wholly owned subsidiary of Licensee, and then only with the prior written consent of Licensor (which shall not be unreasonably withheld), provided that any such sublicense shall terminate automatically, with no need for written notice to the sublicensee, if (a) such entity ceases to be a wholly owned subsidiary of Licensee, (b) this Agreement terminates for any reason or (c) such sublicensee materially breaches its sublicense in a manner that harms the Brand and does not cure the same within 15 days after notice from Licensor or Licensee.",
+            "answer_start": 1762
+          },
+          {
+            "text": "Subject to the terms and conditions herein, Licensor hereby grants to Licensee a non-exclusive, non- transferable, and (subject to Section 1.2 hereof) non-sublicensable license for the use of the Brand solely for the Permitted Activity.",
+            "answer_start": 1498
+          }
+        ],
+        "id": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement__Non-Transferable License",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Transferable License\" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement__Affiliate License-Licensor",
+        "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensor\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "Licensee may sublicense its rights under Section 1.1 solely to a current or future wholly owned subsidiary of Licensee, and then only with the prior written consent of Licensor (which shall not be unreasonably withheld), provided that any such sublicense shall terminate automatically, with no need for written notice to the sublicensee, if (a) such entity ceases to be a wholly owned subsidiary of Licensee, (b) this Agreement terminates for any reason or (c) such sublicensee materially breaches its sublicense in a manner that harms the Brand and does not cure the same within 15 days after notice from Licensor or Licensee.",
+            "answer_start": 1762
+          }
+        ],
+        "id": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement__Affiliate License-Licensee",
+        "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensee\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement__Unlimited/All-You-Can-Eat-License",
+        "question": "Highlight the parts (if any) of this contract related to \"Unlimited/All-You-Can-Eat-License\" that should be reviewed by a lawyer. Details: Is there a clause granting one party an \u201centerprise,\u201d \u201call you can eat\u201d or unlimited usage license?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement__Irrevocable Or Perpetual License",
+        "question": "Highlight the parts (if any) of this contract related to \"Irrevocable Or Perpetual License\" that should be reviewed by a lawyer. Details: Does the contract contain a\u00a0 license grant that is irrevocable or perpetual?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement__Source Code Escrow",
+        "question": "Highlight the parts (if any) of this contract related to \"Source Code Escrow\" that should be reviewed by a lawyer. Details: Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,\u00a0 insolvency, etc.)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement__Post-Termination Services",
+        "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement__Audit Rights",
+        "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "INTERRUPTION AND THE LIKE) RELATING TO THIS AGREEMENT, EVEN IF IT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.",
+            "answer_start": 9646
+          },
+          {
+            "text": "EXCEPT WITH RESPECT TO LICENSEE'S INDEMNIFICATION OBLIGATIONS UNDER SECTION 7, NEITHER PARTY WILL BE LIABLE TO THE OTHER PARTY FOR SPECIAL, INDIRECT, CONSEQUENTIAL, EXEMPLARY, PUNITIVE OR INCIDENTAL DAMAGES (INCLUDING LOST PROFITS OR GOODWILL, BUSINESS",
+            "answer_start": 9320
+          }
+        ],
+        "id": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement__Uncapped Liability",
+        "question": "Highlight the parts (if any) of this contract related to \"Uncapped Liability\" that should be reviewed by a lawyer. Details: Is a party\u2019s liability uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation.",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "INTERRUPTION AND THE LIKE) RELATING TO THIS AGREEMENT, EVEN IF IT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.",
+            "answer_start": 9646
+          },
+          {
+            "text": "EXCEPT WITH RESPECT TO LICENSEE'S INDEMNIFICATION OBLIGATIONS UNDER SECTION 7, NEITHER PARTY WILL BE LIABLE TO THE OTHER PARTY FOR SPECIAL, INDIRECT, CONSEQUENTIAL, EXEMPLARY, PUNITIVE OR INCIDENTAL DAMAGES (INCLUDING LOST PROFITS OR GOODWILL, BUSINESS",
+            "answer_start": 9320
+          }
+        ],
+        "id": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement__Cap On Liability",
+        "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party\u2019s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement__Liquidated Damages",
+        "question": "Highlight the parts (if any) of this contract related to \"Liquidated Damages\" that should be reviewed by a lawyer. Details: Does the contract contain a clause that would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement__Warranty Duration",
+        "question": "Highlight the parts (if any) of this contract related to \"Warranty Duration\" that should be reviewed by a lawyer. Details: What is the duration of any\u00a0 warranty against defects or errors in technology, products, or services\u00a0 provided under the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement__Insurance",
+        "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "Licensee agrees not to do anything inconsistent with such ownership, including (i) filing to register any trademark or service mark containing the Brand or (ii) directly or indirectly challenging, contesting or otherwise",
+            "answer_start": 3023
+          },
+          {
+            "text": "disputing the validity, enforceability or Licensor's ownership of the Brand (and the associated goodwill), including without limitation, in any claim, allegation, action, demand, proceeding or suit (\"Action\") regarding enforcement of this Agreement or involving any third party.",
+            "answer_start": 3315
+          }
+        ],
+        "id": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement__Covenant Not To Sue",
+        "question": "Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty\u2019s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement__Third Party Beneficiary",
+        "question": "Highlight the parts (if any) of this contract related to \"Third Party Beneficiary\" that should be reviewed by a lawyer. Details: Is there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?",
+        "is_impossible": true
+      }
+    ],
+    "context": "Exhibit 10.5 TRADEMARK LICENSE AGREEMENT This TRADEMARK LICENSE AGREEMENT (the \"Agreement\") is effective as of the [\u00b7] day of [\u00b7], 2019 (\"Effective Date\") between Morgan Stanley Investment Management Inc. (\"Licensor\"), and Morgan Stanley Direct Lending Fund, a Delaware corporation (\"Licensee\"). WHEREAS, Licensor is the owner of all rights to the trademark \"Morgan Stanley\" and the \"Morgan Stanley\" design (collectively, the \"Brand\"); WHEREAS, Licensee is a closed-end investment company that has elected to be treated as a business development company under the Investment Company Act of 1940, as amended (together with the rules promulgated thereunder) (the \"Licensee Business\"); WHEREAS, in connection with Licensee's public filings, requests for information from state and federal regulators, offering materials and advertising materials, and press releases, Licensee desires to state in such materials that investment advisory services are being provided by Licensor (or an affiliate thereof) to Licensee (collectively, the \"Permitted Activity\"); and WHEREAS, Licensor is willing to permit Licensee to use the Brand for the Permitted Activity, subject to the terms and conditions herein. NOW, THEREFORE, in consideration of the premises and the mutual promises and covenants contained herein and for other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the parties agree as follows: 1. Grant of Rights; Sublicensing. Section 1.1. License Grant. Subject to the terms and conditions herein, Licensor hereby grants to Licensee a non-exclusive, non- transferable, and (subject to Section 1.2 hereof) non-sublicensable license for the use of the Brand solely for the Permitted Activity. Section 1.2. Sublicensing. Licensee may sublicense its rights under Section 1.1 solely to a current or future wholly owned subsidiary of Licensee, and then only with the prior written consent of Licensor (which shall not be unreasonably withheld), provided that any such sublicense shall terminate automatically, with no need for written notice to the sublicensee, if (a) such entity ceases to be a wholly owned subsidiary of Licensee, (b) this Agreement terminates for any reason or (c) such sublicensee materially breaches its sublicense in a manner that harms the Brand and does not cure the same within 15 days after notice from Licensor or Licensee. Licensee shall notify Licensor promptly after becoming aware that any sublicensee has breached its sublicense and shall ensure that all sublicenses provide (i) for the foregoing termination rights of Licensor and (ii) obligations for sublicensee with respect to the Brand that are consistent with those of Licensee herein. Any act or omission by a sublicensee that would breach this Agreement if committed by Licensee shall constitute a breach of this Agreement by Licensee. 2. Ownership. Licensee acknowledges and agrees that, as between the parties, Licensor is the sole owner of all right, title and interest in and to the Brand. Licensee agrees not to do anything inconsistent with such ownership, including (i) filing to register any trademark or service mark containing the Brand or (ii) directly or indirectly challenging, contesting or otherwise\n\nSource: MORGAN STANLEY DIRECT LENDING FUND, 10-12G/A, 11/19/2019\n\n\n\n\n\ndisputing the validity, enforceability or Licensor's ownership of the Brand (and the associated goodwill), including without limitation, in any claim, allegation, action, demand, proceeding or suit (\"Action\") regarding enforcement of this Agreement or involving any third party. The parties intend that any and all goodwill in the Brand arising from Licensee's or any applicable sublicensees' Permitted Activity shall inure solely to the benefit of Licensor. Notwithstanding the foregoing, in the event that Licensee or any sublicensee is deemed to own any rights in the Brand, Licensee hereby irrevocably assigns (or shall cause such sublicensees to assign), without further consideration, such rights to Licensor together with all goodwill associated therewith. 3. Use of the Permitted Activity. Section 3.1. Quality Control. Licensee's Permitted Activity shall be in a manner consistent with Licensor's high standards of and reputation for quality, and in accordance with good trademark practice wherever any of the same are used. Licensee shall not take any action that could reasonably be expected to harm the Brand or the goodwill associated therewith. Licensee shall use with the Brand any applicable trademark notices as may be requested by Licensor or required under applicable laws, regulations, stock exchange and other rules (\"Laws\") and reputable industry practice. Section 3.2. Prior Written Approval. Prior to using the Brand in any manner, Licensee shall submit all proposed uses to Licensor for prior written approval. Section 3.3. Compliance with Laws. Licensee shall, at its sole expense, comply at all times with all applicable Laws and reputable industry practice pertaining to the Licensee Business and Permitted Activity. 4. Termination. Section 4.1. Term. The term of this Agreement commences on the Effective Date and continues in perpetuity, unless termination occurs pursuant to Sections 4.2 through 4.4. Section 4.2. Termination for Convenience. Licensor reserves the right to terminate this Agreement immediately upon written notice for any reason, including if the usage of the Brand is not in compliance with the standards and policies. Section 4.3. Termination for Breach. If either party materially breaches one or more of its obligations hereunder, the other party may terminate this Agreement, effective upon written notice, if the breaching party does not cure such breach within 15 days after written notice thereof (or any mutually agreed extension). Licensor may terminate this Agreement immediately, effective upon written notice, if (i) Licensee attempts to violate Section 8 or (ii) a sublicensee materially breaches its sublicense in a manner that harms the Brand, and (a) such sublicensee does not cure the same within 15 days after notice from Licensor or Licensee or (b) Licensee does not terminate such sublicense within 15 days after notice from Licensor. Section 4.4. Termination of Advisory Agreement. This Agreement shall terminate automatically without notice and immediately (a) if MS Capital Partners Adviser Inc. or another affiliate of Licensor is no longer acting as the investment adviser (any such entity, the \"Advisor\") to Licensee under the Investment Advisory Agreement, dated as of [\u00b7], 201[9] (as the same may 2\n\nSource: MORGAN STANLEY DIRECT LENDING FUND, 10-12G/A, 11/19/2019\n\n\n\n\n\nbe amended, modified or otherwise restated, the \"Investment Advisory Agreement\"), or a similar agreement, or (b) the Advisor is no longer an affiliate of Licensor. Further, Licensor may terminate this Agreement, effective upon written notice, at any time after 30 days from the date that Licensee notifies Licensor that the Investment Advisory Agreement has terminated or is not being renewed. The term \"affiliate\" as used herein shall have the meaning given to such term in the Investment Advisory Agreement. Section 4.5. Effect of Termination; Survival. Upon termination of this Agreement for any reason, (a) Licensee shall immediately, except as required by applicable Law, (i) cease all use of the Permitted Activity; and (b) the parties shall cooperate so as to best preserve the value of the Brand. Section 2, this Section 4.5, and Sections 6.2, 6.3, 7 and 9 shall survive termination of this Agreement. 5. Infringement. Licensee shall notify Licensor promptly after it becomes aware of any actual or threatened infringement, imitation, dilution, misappropriation or other unauthorized use or conduct in derogation (\"Infringement\") of the Brand. Licensor shall have the sole right to bring any Action to remedy the foregoing, and Licensee shall cooperate with Licensor in same, at Licensor's expense. 6. Representations and Warranties; Limitations. Section 6.1. Each party represents and warrants to the other party that: (a) This Agreement is a legal, valid and binding obligation of the warranting party, enforceable against such party in accordance with its terms, subject to the effect of any applicable bankruptcy, insolvency, reorganization, moratorium or similar laws affecting creditors' rights and remedies generally, and subject, as to enforceability, to the effect of general principles of equity (regardless of whether enforcement is considered in a proceeding at law or in equity); (b) The warranting party is not subject to any judgment, order, injunction, decree or award that would interfere with its performance of any of its obligations hereunder; and (c) The warranting party has full power and authority to enter into and perform its obligations under this Agreement in accordance with its terms. Section 6.2. EXCEPT AS EXPRESSLY SET FORTH IN SECTION 6.1, LICENSOR MAKES NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED, WITH RESPECT TO THIS AGREEMENT AND THE BRAND, AND EXPRESSLY DISCLAIMS ALL SUCH REPRESENTATIONS AND WARRANTIES, INCLUDING ANY WITH RESPECT TO TITLE, NON-INFRINGEMENT, MERCHANTABILITY, VALUE, RELIABILITY OR FITNESS FOR USE. LICENSEE'S USE OF THE PERMITTED ACTIVITY IS SOLELY ON AN \"AS-IS\" BASIS. Section 6.3. EXCEPT WITH RESPECT TO LICENSEE'S INDEMNIFICATION OBLIGATIONS UNDER SECTION 7, NEITHER PARTY WILL BE LIABLE TO THE OTHER PARTY FOR SPECIAL, INDIRECT, CONSEQUENTIAL, EXEMPLARY, PUNITIVE OR INCIDENTAL DAMAGES (INCLUDING LOST PROFITS OR GOODWILL, BUSINESS 3\n\nSource: MORGAN STANLEY DIRECT LENDING FUND, 10-12G/A, 11/19/2019\n\n\n\n\n\nINTERRUPTION AND THE LIKE) RELATING TO THIS AGREEMENT, EVEN IF IT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 7. Indemnification. Section 7.1. Indemnity by Licensee. Licensee will defend at its expense, indemnify and hold harmless Licensor and its affiliates and its and their respective directors, officers, employees, shareholders, investors, agents and representatives from any losses, liabilities, obligations, damages, awards, settlements, judgments, fees, costs or expenses (including reasonable attorneys' fees and costs of suit) arising out of or relating to any third-party Action against any of them that arises out of or relates to (i) any breach by Licensee of this Agreement or its warranties, representations, covenants and undertakings hereunder, (ii) Licensee's operation of the Licensee Business or (iii) any claim that Licensee's use of the Brand, other than as explicitly authorized by this Agreement, Infringes the rights of a third party. Section 7.2. Indemnification Procedure. Licensor will promptly notify Licensee in writing of any indemnified claim and promptly as practicable tender its defense to Licensee. Any delay in such notice or tender will not relieve Licensee from its obligations to the extent it is not prejudiced thereby. Licensor will cooperate with Licensee at Licensee's expense in the defense of any indemnified claim. Licensee may not settle any indemnified claim without Licensor's prior written consent in Licensor's sole discretion. Licensor may participate in its defense of an indemnified claim with counsel of its own choice at its own expense. 8. Assignments. Licensee may not assign, transfer, pledge, mortgage or otherwise encumber this Agreement or its right to use the Brand (or assume this Agreement in bankruptcy), in whole or in part, without the prior written consent of Licensor in its sole discretion, except for an assignment outside of bankruptcy to a successor organization that is solely the result of a name change by Licensee. For the avoidance of doubt, a merger, change of control, reorganization or sale of all or substantially all of the stock of Licensee shall be deemed an \"assignment\" requiring the above consent, regardless of whether Licensee is the surviving entity or whether such transaction constitutes an assignment under applicable law. Licensee acknowledges that its identity is a material condition that induced Licensor to enter into this Agreement. Any attempted action in violation of the foregoing shall be null and void ab initio and of no force or effect, and shall result in immediate termination of this Agreement. In the event of a permitted assignment hereunder, this Agreement shall be binding upon and inure to the benefit of the parties and their respective permitted assigns. 9. Miscellaneous. Section 9.1. Notice. Any notices herein shall be deemed to have been duly given if (i) delivered or delivered by facsimile, when received, (ii) sent by U.S. Express Mail or recognized overnight courier, on the following business day or (iii) delivered by electronic mail, when received: 4\n\nSource: MORGAN STANLEY DIRECT LENDING FUND, 10-12G/A, 11/19/2019\n\n\n\n\n\nLICENSOR: Morgan Stanley Investment Management Inc. 1585 Broadway New York, NY 10036 Attention: [\u00b7] Facsimile: [\u00b7] Email: [\u00b7]\n\nLICENSEE: Morgan Stanley Direct Lending Fund 1585 Broadway New York, NY 10036 Attention: [\u00b7] Facsimile: [\u00b7] Email: [\u00b7] Section 9.2. Integration. This Agreement contains the entire agreement among the parties with respect to the subject matter hereof, and supersedes all prior and contemporaneous agreements and understandings (including, without limitation, any prior agreements between Licensee and Licensor), with respect thereto. Section 9.3. Amendments. Neither this Agreement, nor any terms hereof, may be amended except in an instrument in writing executed by the parties. Section 9.4. Governing Law. THIS AGREEMENT SHALL BE GOVERNED BY, AND CONSTRUED AND INTERPRETED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK. EACH OF THE PARTIES IRREVOCABLY AND UNCONDITIONALLY SUBMITS TO THE EXCLUSIVE JURISDICTION OF THE STATE AND FEDERAL COURTS LOCATED IN NEW YORK CITY FOR THE PURPOSE OF ANY ACTION RELATING TO OR ARISING OUT OF THIS AGREEMENT. Section 9.5. Waiver of Jury Trial. EACH PARTY HEREBY IRREVOCABLY AND UNCONDITIONALLY WAIVES TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY RIGHT SUCH PARTY MAY HAVE TO A TRIAL BY JURY IN RESPECT TO ANY ACTION RELATING TO OR ARISING OUT OF THIS AGREEMENT. LICENSEE AGREES THAT LICENSOR WOULD BE IRREPARABLY HARMED BY ANY BREACH OF THIS AGREEMENT BY LICENSEE THAT HARMS THE BRAND, AND THAT LICENSOR MAY (IN ADDITION TO ITS OTHER RIGHTS AND REMEDIES HEREIN) SEEK TEMPORARY, PRELIMINARY OR PERMANENT INJUNCTIVE RELIEF (INCLUDING SPECIFIC PERFORMANCE) TO ENJOIN OR PREVENT ANY SUCH BREACH, WITHOUT POSTING BOND OR OTHER SECURITY. Section 9.6. No Waiver; Cumulative Remedies. No failure or delay by a party to exercise any right hereunder, in whole or in part, shall operate as a waiver thereof. The parties' rights and remedies herein are cumulative and not exclusive of any other rights and remedies provided by applicable Law. Section 9.7. Costs and Expenses. Each party shall bear its own costs and expenses (including the fees and disbursements of counsel) incurred in connection with the negotiations and preparation of this Agreement. Section 9.8. Section Headings. The section headings in this Agreement are for convenience only and shall not affect its interpretation. This Agreement shall be construed as if it were drafted jointly by the parties. 5\n\nSource: MORGAN STANLEY DIRECT LENDING FUND, 10-12G/A, 11/19/2019\n\n\n\n\n\nSection 9.9. Counterparts. This Agreement may be executed in counterparts. PDF or facsimile signatures shall serve as originals to bind the parties to the Agreement. Section 9.10. Severability. Any provision of this Agreement that is held to be invalid or unenforceable shall not invalidate or render unenforceable any other provision hereof. [REMAINDER OF PAGE INTENTIONALLY LEFT BLANK] 6\n\nSource: MORGAN STANLEY DIRECT LENDING FUND, 10-12G/A, 11/19/2019\n\n\n\n\n\nIN WITNESS WHEREOF, each of the parties has executed this Agreement as of the date first written above. MORGAN STANLEY DIRECT LENDING FUND a Delaware corporation By: Name: Title: MORGAN STANLEY INVESTMENT MANAGEMENT INC. a Delaware corporation By: Name: Title: [Signature Page to Trademark License Agreement]\n\nSource: MORGAN STANLEY DIRECT LENDING FUND, 10-12G/A, 11/19/2019"
+  }
+]

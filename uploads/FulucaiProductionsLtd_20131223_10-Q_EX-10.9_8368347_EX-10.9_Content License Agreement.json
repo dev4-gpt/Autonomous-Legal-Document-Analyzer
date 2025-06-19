@@ -1,0 +1,377 @@
+[
+  {
+    "qas": [
+      {
+        "answers": [
+          {
+            "text": "CONTENT DISTRIBUTION AND LICENSE AGREEMENT",
+            "answer_start": 895
+          }
+        ],
+        "id": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement__Document Name",
+        "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "CONVERGTV, INC.",
+            "answer_start": 1625
+          },
+          {
+            "text": "Fulucai Productions Ltd.",
+            "answer_start": 1251
+          },
+          {
+            "text": "Producer",
+            "answer_start": 1220
+          },
+          {
+            "text": "ConvergTV",
+            "answer_start": 122
+          }
+        ],
+        "id": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement__Parties",
+        "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "November 15, 2012",
+            "answer_start": 770
+          }
+        ],
+        "id": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement__Agreement Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "November 15, 2012",
+            "answer_start": 770
+          }
+        ],
+        "id": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement__Effective Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Effective Date\" that should be reviewed by a lawyer. Details: The date when the contract is effective\u00a0",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement__Expiration Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "License Term Perpetual, unlimited runs x Other: 2 years Commencing: November 15, 2012",
+            "answer_start": 702
+          }
+        ],
+        "id": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement__Renewal Term",
+        "question": "Highlight the parts (if any) of this contract related to \"Renewal Term\" that should be reviewed by a lawyer. Details: What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement__Notice Period To Terminate Renewal",
+        "question": "Highlight the parts (if any) of this contract related to \"Notice Period To Terminate Renewal\" that should be reviewed by a lawyer. Details: What is the notice period required to terminate renewal?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "All questions with respect to the construction of this Agreement, and the rights and liabilities of the Parties hereto, shall be governed by the laws of the State of Florida.",
+            "answer_start": 15422
+          }
+        ],
+        "id": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement__Governing Law",
+        "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement__Most Favored Nation",
+        "question": "Highlight the parts (if any) of this contract related to \"Most Favored Nation\" that should be reviewed by a lawyer. Details: Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement__Non-Compete",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Compete\" that should be reviewed by a lawyer. Details: Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "During the License Term (which is identified in the Deal Terms), Producer agrees that ConvergTV has the exclusive right to exercise the rights granted to it under this Agreement with respect to the Program, including those in Section 1, within the Licensed Territory.",
+            "answer_start": 6977
+          }
+        ],
+        "id": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement__Exclusivity",
+        "question": "Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing\u00a0 commitment with the counterparty? This includes a commitment to procure all \u201crequirements\u201d from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on\u00a0 collaborating or working with other parties), whether during the contract or\u00a0 after the contract ends (or both).",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement__No-Solicit Of Customers",
+        "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Customers\" that should be reviewed by a lawyer. Details: Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement__Competitive Restriction Exception",
+        "question": "Highlight the parts (if any) of this contract related to \"Competitive Restriction Exception\" that should be reviewed by a lawyer. Details: This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement__No-Solicit Of Employees",
+        "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Employees\" that should be reviewed by a lawyer. Details: Is there a restriction on a party\u2019s soliciting or hiring employees and/or contractors from the\u00a0 counterparty, whether during the contract or after the contract ends (or both)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement__Non-Disparagement",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Disparagement\" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement__Termination For Convenience",
+        "question": "Highlight the parts (if any) of this contract related to \"Termination For Convenience\" that should be reviewed by a lawyer. Details: Can a party terminate this\u00a0 contract without cause (solely by giving a notice and allowing a waiting\u00a0 period to expire)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement__Rofr/Rofo/Rofn",
+        "question": "Highlight the parts (if any) of this contract related to \"Rofr/Rofo/Rofn\" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement__Change Of Control",
+        "question": "Highlight the parts (if any) of this contract related to \"Change Of Control\" that should be reviewed by a lawyer. Details: Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement__Anti-Assignment",
+        "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "Revenue Share as specified in this CONTENT DISTRIBUTION AND LICENSE AGREEMENT.",
+            "answer_start": 860
+          },
+          {
+            "text": "The revenue share for the Program is stated in Exhibit B.",
+            "answer_start": 6665
+          }
+        ],
+        "id": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement__Revenue/Profit Sharing",
+        "question": "Highlight the parts (if any) of this contract related to \"Revenue/Profit Sharing\" that should be reviewed by a lawyer. Details: Is one party required to share revenue or profit with the counterparty for any technology, goods, or\u00a0services?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement__Price Restrictions",
+        "question": "Highlight the parts (if any) of this contract related to \"Price Restrictions\" that should be reviewed by a lawyer. Details: Is there a restriction on the\u00a0 ability of a party to raise or reduce prices of technology, goods, or\u00a0 services provided?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement__Minimum Commitment",
+        "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement__Volume Restriction",
+        "question": "Highlight the parts (if any) of this contract related to \"Volume Restriction\" that should be reviewed by a lawyer. Details: Is there a fee increase or consent requirement, etc. if one party\u2019s use of the product/services exceeds certain threshold?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement__Ip Ownership Assignment",
+        "question": "Highlight the parts (if any) of this contract related to \"Ip Ownership Assignment\" that should be reviewed by a lawyer. Details: Does intellectual property created\u00a0 by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement__Joint Ip Ownership",
+        "question": "Highlight the parts (if any) of this contract related to \"Joint Ip Ownership\" that should be reviewed by a lawyer. Details: Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "For the License Term and within the Licensed Territory, Producer hereby grants to ConvergTV a right and license to Distribute the program, file or video listed on the Deal Terms above (the \"Program\") consisting of",
+            "answer_start": 2317
+          },
+          {
+            "text": "episodes (series) or",
+            "answer_start": 2545
+          },
+          {
+            "text": "The grant of rights and license pursuant to this Section 1 shall include, but not be limited to, the right of ConvergTV to Distribute and re-Distribute all or any portions of the Program and Promotional Works, including excerpts therefrom, and any new and different versions of the Program, on simultaneous internet transmission or streaming, internet protocol television and any television networks and stations, and/or other distribution outlets, via domestic or foreign television signals, as well as through CATV and DBS systems, satellite, microwave, fiber optic and/or other modes of Distribution yet to be developed, but which may be utilized by ConvergTV in the future.",
+            "answer_start": 5136
+          },
+          {
+            "text": "Producer further grants to ConvergTV the right and license to Distribute and re-Distribute, including relicensing or sublicensing, the Program at such dates and times as are determined by ConvergTV in its sole discretion.",
+            "answer_start": 4196
+          },
+          {
+            "text": "Producer further grants to ConvergTV the right and license to utilize any and all footage from the Program for promotional and marketing purposes related to the Distribution of the Program and for promotion of channels or other distribution methods.",
+            "answer_start": 4879
+          },
+          {
+            "text": "Producer further grants to ConvergTV the right and license to Distribute the Program on any ConvergTV channel, and/or other distribution outlets, that exists today or that is created or developed in the future and this right includes the right to Distribute on any channels of a ConvergTV affiliate and/or other distribution outlets without limitation.",
+            "answer_start": 3836
+          },
+          {
+            "text": "\"Licensed Rights\" to ConvergTV and ConvergTV Channels and/or Distribution Outlets x All, including but not limited to: xSimultaneous Internet Streaming x OTT Television x Internet Protocol Television x Radio, short wave, microwave, fiber optic x Alternative, secondary and specialty distribution x Stored as VOD, Content Distribution Networks/Company Servers x Full Television Broadcast Rights: x Free: Terrestrial, Cable, Satellite x Pay: Terrestrial, Cable, Satellite x Direct Satellite IP Distribution Systems",
+            "answer_start": 101
+          },
+          {
+            "text": "one-offs, for unlimited runs for the License Term through ConvergTV channels and/or other distribution outlets, in accordance with the License Rights.",
+            "answer_start": 2568
+          },
+          {
+            "text": "Producer further grants to ConvergTV the right and license to create (re-edit), at its sole cost and expense, new and different versions of the Program, create foreign language, subtitled or translated versions of the Program as well as to create closed captioned versions of the Program, including NTCS, PAL, SEACAM standards, or other standards, including those yet to be developed.",
+            "answer_start": 4425
+          }
+        ],
+        "id": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement__License Grant",
+        "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement__Non-Transferable License",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Transferable License\" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement__Affiliate License-Licensor",
+        "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensor\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "Producer further grants to ConvergTV the right and license to Distribute the Program on any ConvergTV channel, and/or other distribution outlets, that exists today or that is created or developed in the future and this right includes the right to Distribute on any channels of a ConvergTV affiliate and/or other distribution outlets without limitation.",
+            "answer_start": 3836
+          }
+        ],
+        "id": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement__Affiliate License-Licensee",
+        "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensee\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "For the License Term and within the Licensed Territory, Producer hereby grants to ConvergTV a right and license to Distribute the program, file or video listed on the Deal Terms above (the \"Program\") consisting of",
+            "answer_start": 2317
+          },
+          {
+            "text": "episodes (series) or",
+            "answer_start": 2545
+          },
+          {
+            "text": "License Term Perpetual, unlimited runs x Other: 2 years Commencing: November 15, 2012",
+            "answer_start": 702
+          },
+          {
+            "text": "Producer further grants to ConvergTV the right and license to Distribute the Program on any ConvergTV channel, and/or other distribution outlets, that exists today or that is created or developed in the future and this right includes the right to Distribute on any channels of a ConvergTV affiliate and/or other distribution outlets without limitation.",
+            "answer_start": 3836
+          },
+          {
+            "text": "one-offs, for unlimited runs for the License Term through ConvergTV channels and/or other distribution outlets, in accordance with the License Rights.",
+            "answer_start": 2568
+          }
+        ],
+        "id": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement__Unlimited/All-You-Can-Eat-License",
+        "question": "Highlight the parts (if any) of this contract related to \"Unlimited/All-You-Can-Eat-License\" that should be reviewed by a lawyer. Details: Is there a clause granting one party an \u201centerprise,\u201d \u201call you can eat\u201d or unlimited usage license?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement__Irrevocable Or Perpetual License",
+        "question": "Highlight the parts (if any) of this contract related to \"Irrevocable Or Perpetual License\" that should be reviewed by a lawyer. Details: Does the contract contain a\u00a0 license grant that is irrevocable or perpetual?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement__Source Code Escrow",
+        "question": "Highlight the parts (if any) of this contract related to \"Source Code Escrow\" that should be reviewed by a lawyer. Details: Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,\u00a0 insolvency, etc.)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement__Post-Termination Services",
+        "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "Each of the Parties may, at its own expense, audit the other Party's compliance with this Agreement, including but not limited to, auditing the other Party's representations and warranties.",
+            "answer_start": 17542
+          }
+        ],
+        "id": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement__Audit Rights",
+        "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement__Uncapped Liability",
+        "question": "Highlight the parts (if any) of this contract related to \"Uncapped Liability\" that should be reviewed by a lawyer. Details: Is a party\u2019s liability uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement__Cap On Liability",
+        "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party\u2019s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement__Liquidated Damages",
+        "question": "Highlight the parts (if any) of this contract related to \"Liquidated Damages\" that should be reviewed by a lawyer. Details: Does the contract contain a clause that would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement__Warranty Duration",
+        "question": "Highlight the parts (if any) of this contract related to \"Warranty Duration\" that should be reviewed by a lawyer. Details: What is the duration of any\u00a0 warranty against defects or errors in technology, products, or services\u00a0 provided under the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement__Insurance",
+        "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement__Covenant Not To Sue",
+        "question": "Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty\u2019s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement__Third Party Beneficiary",
+        "question": "Highlight the parts (if any) of this contract related to \"Third Party Beneficiary\" that should be reviewed by a lawyer. Details: Is there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?",
+        "is_impossible": true
+      }
+    ],
+    "context": "CONTENT DISTRIBUTION AND LICENSE AGREEMENT   Deal Terms   Licensed Program/ Film or Video Inevitable \"Licensed Rights\" to ConvergTV and ConvergTV Channels and/or Distribution Outlets x All, including but not limited to: xSimultaneous Internet Streaming x OTT Television x Internet Protocol Television x Radio, short wave, microwave, fiber optic x Alternative, secondary and specialty distribution x Stored as VOD, Content Distribution Networks/Company Servers x Full Television Broadcast Rights: x Free: Terrestrial, Cable, Satellite x Pay: Terrestrial, Cable, Satellite x Direct Satellite IP Distribution Systems Licensed Territory x Worldwide \u00a8 Other: _______________________________________________ License Term Perpetual, unlimited runs x Other: 2 years Commencing: November 15, 2012 Run Dates Within ConvergTV determined parameters. License Consideration Revenue Share as specified in this CONTENT DISTRIBUTION AND LICENSE AGREEMENT. Authorized Language Primary: x All \u00a8 Other (specify): ________________________________________ May be subtitled or translated by ConvergTV into foreign language(s). Additional Terms Closed Captioned Version, - NTSC, PAL, SEACAM or standards to be developed, provided by ConvergTV. Producer Information Producer: Fulucai Productions Ltd. Name of Contact: James Durward Address: 3632-13 St. SW, Calgary, Alberta, Canada, T2T 3R1 Telephone: 403-689-3901 Email: jimdurward@shaw.ca\n\n\n\n1\n\nSource: FULUCAI PRODUCTIONS LTD., 10-Q, 12/23/2013\n\n\n\n\n\n  This CONTENT DISTRIBUTION AND LICENSE AGREEMENT (the \"Agreement\") is entered into as of November 15, 2012 (the \"Effective Date\") by and between, CONVERGTV, INC., a Delaware Corporation, (\"ConvergTV\"), whose principal place of business is located at 3201 Budinger Ave., St. Cloud, FL 34769, P.O. Box 540817, Merritt Island, Florida 32954, and Fulucai Productions Ltd. (the producer, publisher, content owner, authorized distributor, agent, or assignee of the Program rights, licensor, and grantor, any and all referred to herein as the \"Producer\"), whose principal place of business is located at 3632- 13 St. SW, Calgary, Alberta, Canada, T2T 3R1. The foregoing entities may be individually referred to as a \"Party\" or may be jointly referred to as the \"Parties\".   The Parties agree as follow:   1. Grant of License and Rights.     (a) For the License Term and within the Licensed Territory, Producer hereby grants to ConvergTV a right and license to Distribute the program, file or video listed on the Deal Terms above (the \"Program\") consisting of (check one) \u00a8 episodes (series) or x one-offs, for unlimited runs for the License Term through ConvergTV channels and/or other distribution outlets, in accordance with the License Rights. The terms \"License Term\", \"Licensed Rights\", and \"Licensed Territory\" shall have the meaning specified in the Deal Terms above, which such Deal Terms are part of this Agreement and are hereby incorporated herein by reference. As used in this Agreement and this license, the term \"Distribute\" includes, but is not limited to, any and all License Rights specified in the Deal Terms, all rights of distribution, the right to copy and reproduce the Program, the right to create derivative works of the Program for the purpose of creating branding elements and short form promotional materials (\"Promotional Works\"), the right to sell copies, the right to import and export the Program and the Promotional Works, the right to display the Program and Promotional Works publicity, the right to transmit the Program and Promotional Works through any transmission or delivery method that exists today, or that is created in the future, to any number of devices or users, including transmission through simultaneous delivery or streaming, and the right to sublicense and/or assign some or all of these rights to others.    (b) Producer further grants to ConvergTV the right and license to Distribute the Program on any ConvergTV channel, and/or other distribution outlets, that exists today or that is created or developed in the future and this right includes the right to Distribute on any channels of a ConvergTV affiliate and/or other distribution outlets without limitation.    (c) Producer further grants to ConvergTV the right and license to Distribute and re-Distribute, including relicensing or sublicensing, the Program at such dates and times as are determined by ConvergTV in its sole discretion.    (d) Producer further grants to ConvergTV the right and license to create (re-edit), at its sole cost and expense, new and different versions of the Program, create foreign language, subtitled or translated versions of the Program as well as to create closed captioned versions of the Program, including NTCS, PAL, SEACAM standards, or other standards, including those yet to be developed.\n\n2\n\nSource: FULUCAI PRODUCTIONS LTD., 10-Q, 12/23/2013\n\n\n\n\n\n     (e) Producer further grants to ConvergTV the right and license to utilize any and all footage from the Program for promotional and marketing purposes related to the Distribution of the Program and for promotion of channels or other distribution methods.    (f) The grant of rights and license pursuant to this Section 1 shall include, but not be limited to, the right of ConvergTV to Distribute and re-Distribute all or any portions of the Program and Promotional Works, including excerpts therefrom, and any new and different versions of the Program, on simultaneous internet transmission or streaming, internet protocol television and any television networks and stations, and/or other distribution outlets, via domestic or foreign television signals, as well as through CATV and DBS systems, satellite, microwave, fiber optic and/or other modes of Distribution yet to be developed, but which may be utilized by ConvergTV in the future. ConvergTV shall have the right to insert commercials within the Program.   2. Delivery.    (a) The Program shall be delivered to ConvergTV utilizing English as the primary language unless otherwise specified or as indicated in the Deal Terms.    (b) The Program will conform to and be delivered in accordance with Exhibit A.    (c) The Program must be saved as executable files (NOT as playable DVD/Blu-Ray movies).    (d) The Program materials delivered to ConvergTV shall be duplicate copies, and ConvergTV disclaims liability for any damage or loss to any original master delivered by Producer to ConvergTV.   3. Consideration. The Producer agrees and acknowledges that it will receive no upfront compensation for the rights it has granted herein and that ConvergTV has no obligation to Producer to exercise any of its rights under this Agreement. The revenue share for the Program is stated in Exhibit B. The Producer shall have thirty (30) days from the payment date to dispute the amount of any revenue share payout or any such claim or dispute is hereby waived by the Producer.   4. Program Exclusivity For The License Term Within The Licensed Territory . During the License Term (which is identified in the Deal Terms), Producer agrees that ConvergTV has the exclusive right to exercise the rights granted to it under this Agreement with respect to the Program, including those in Section 1, within the Licensed Territory.\n\n3\n\nSource: FULUCAI PRODUCTIONS LTD., 10-Q, 12/23/2013\n\n\n\n\n\n  5. Producer's Representations and Warranties.   The Producer represents and warrants for the benefit of ConvergTV that:    (a) it: (A) has the right to enter into and perform this Agreement and to grant ConvergTV all the rights and licenses granted by it herein; and (B) either owns the Program or controls the exhibition and distribution rights thereto;    (b) it has or will obtain, at its sole cost and expense, all rights necessary to enter into this Agreement and to permit the exercise by ConvergTV of the rights and licenses herein granted including any and all music synchronization and mechanical rights and licenses as well as any and all performance rights by the artists and/or other material susceptible to performing rights contained in the Program and that such rights that Producer does not have or cannot obtain are within the public domain and are free to exercise by ConvergTV;    (c) neither the Program, nor the production or use of the Program, or any element of the Program hereunder, will: (A) violate any right of privacy or any other right of any person, firm, corporation or other entity; (B) be defamatory; or (C) infringe upon or violate any copyright, trademark, trade name, patent or any proprietary rights of any third parties;    (d) there are no agreements, contracts, commitments or licenses, nor shall Producer enter into any agreements, contracts, commitments or grant any licenses, which would prevent the fulfillment of this Agreement or impair or conflict with the rights granted hereunder;    (e) it has all required releases for the Program and to grant the rights and licenses specified in Section 1, including but not limited to personal appearance, voice, location, sync, mechanical and for any other use requiring authorization of a person, place or thing;    (f) it will not permit its Programs, other than as provided in this Agreement, to be displayed in full length, or nearly full length, on or through any channel, distribution or other platforms or services, or by any other means, including but not limited to the distribution or viewing platforms or services of ConvergTV's competitors;    (g) it has not violated any law, rule, or regulation in connection with the creation or distribution of the Program; and    (h) it shall comply with the Producer Performance Standards set forth in Exhibit C.   6. Insurance. The Producer has no insurance requirement.   7. Indemnification. Producer shall indemnify, defend and hold harmless ConvergTV and its parents, subsidiaries, divisions, officers, directors, employees, attorneys and agents, and their respective successors or assigns, from all costs, expenses and damages arising from any breach or alleged breach of the warranties made by it in this Agreement.   Producer shall further indemnify, defend and hold harmless ConvergTV and its parents, subsidiaries, divisions, officers, directors, employees, attorneys and agents, and their respective successors or assigns, from all costs, expenses and damages arising from any costs, errors, omissions, slander, losses, liability or for any other cause as a direct or indirect result of the Distribution, transmission or publication of the Producer's Program or content.\n\n4\n\nSource: FULUCAI PRODUCTIONS LTD., 10-Q, 12/23/2013\n\n\n\n\n\n    8. Protection of Copyright.    (a) Producer shall take all reasonable steps to protect all copyrights pertaining to each Program from infringement and will institute such actions and proceedings as may be reasonable to prevent any unauthorized use, reproduction, exhibition or exploitation by third parties of the Program or any part thereof, or the material on which the Program is based which may be in contravention of the rights and license granted to ConvergTV herein.    (b) If the Producer does not fulfill its obligation in Section 8(a) above, ConvergTV shall have the right, but not the obligation, to take such action as ConvergTV deems reasonable under the circumstances. For this purpose, Producer hereby appoints ConvergTV its attorney-in-fact to act in its name to prevent any unauthorized use, reproduction, exhibition, or exploitation of any Program or any part thereof. Any damages awarded or settlement payments made as a result of any action taken by ConvergTV shall belong to ConvergTV.   9. Non-Disclosure. The Producer agrees to not disclose, discuss, transcribe, publish or share: (i) any information contained in this Agreement; or (ii) any non-public, confidential or proprietary information as it relates to ConvergTV with any third party, including but not limited to any individual, person, corporation, company, or distributor, except that Producer may disclose such information or materials, to the extent reasonably necessary, to its attorneys, auditors, consultants, shareholders, and other fiduciaries who are themselves bound by confidentiality obligations with regarding any such disclosed information or materials.   10. Security of Content. For Programs licensed by and/or through ConvergTV and that are resident in the ConvergTV distribution platform, ConvergTV shall provide reasonable protections for the ConvergTV distribution platform to prevent the unauthorized distribution, unauthorized licensing, unauthorized sub-licensing, piracy, theft of content and/or unauthorized monetization of the Programs from the ConvergTV distribution platform.   11. Monetization of Content. The Producer agrees and authorizes ConvergTV, its subsidiaries, agents and/or assigns to monetize the Producer's Program and content by traditional ad (commercial) insertion; product placement; branded programming; overlays; interactive advertising; merchandise; utilization of brand value; syndication (theatrical, televised, mobile, OTT, Internet, IPTV); social media television; interactive television; mobile app sales; cable, satellite, OTT, IPTV, mobile subscriber fees; subscription and premium distribution and any and all methods of content monetization that may now or in the future exist, by and on any and all known or future means of content distribution.   12. Force Majeure: If either Party is prevented from performing its obligations hereunder as a result of a force majeure event, then the non- performing Party shall not be liable to the other Party for its failure to perform such obligations. As used in this Agreement, force majeure shall mean any act of God, fire, flood, war, public disaster, other calamity, strike, or labor difficulties, or any governmental determination, action, regulation, or order, or any other occurrence beyond the reasonable control of the non-performing Party, which, despite the non- performing Party's reasonable efforts, prevents the performance of its obligations hereunder. In the case of a force majeure event, ConvergTV will not be responsible for payment of any revenue share.\n\n5\n\nSource: FULUCAI PRODUCTIONS LTD., 10-Q, 12/23/2013\n\n\n\n\n\n\n\n  13. Entire Agreement . This Agreement, which includes the Deal Terms and any and all exhibits, schedules or attachments to this Agreement, contains the entire agreement of the Parties, and supersedes any prior written or oral agreements between them concerning the subject matter contained herein. There are no representations, agreements, arrangements, or understandings, oral or written, between and among the Parties hereto, relating to the subject matter contained in this Agreement that are not fully expressed herein.   14.. Notices. All notices, statements or requests for approvals (\"Notices\") that either Party hereto is required or may desire to give to the other shall be given in writing by addressing the same to the other at the addresses set forth herein, or at such other address as may be designated, in writing, by any such Party in a Notice to the other. Notices shall be made by personal delivery, overnight courier, first class registered mail (postage prepaid and return receipt requested), facsimile or e-mail. A Notice shall be deemed served and received on the date executed on a receipt of acceptance or if by personal delivery, upon physical delivery of the same.   15. Governing Law. All questions with respect to the construction of this Agreement, and the rights and liabilities of the Parties hereto, shall be governed by the laws of the State of Florida. The Parties also agree that the venue for this Agreement shall be in the County of Brevard, Florida. The Parties expressly waive any claim to jurisdiction in any federal or other state forum or venue in any other county or place. In the event of any controversy, claim or dispute between the Parties hereto, including, but not limited to, any action at law or in equity, including any action for declaratory or injunctive relief, arising out of or relating to this Agreement or the breach thereof, the prevailing Party shall be entitled to recover from the losing Party all of his or her actual attorney's fees and costs in bringing, prosecuting, or defending said action.   16. Successors and Assigns. Subject to the restrictions against assignment as herein contained, this Agreement shall be binding upon and inure to the benefit of the Parties, their predecessors, assigns, successors in interest, personal representatives, their past and present attorneys, principals, employees, independent contractors, officers, directors, shareholders, parents, issue, subsidiaries, agents, servants, estates, heirs, administrators, executors, conservators, trustees, legatees, and other affiliated entities of each of the Parties hereto.   17. Modification, Severability & Waiver . This Agreement may not be altered, modified, or changed in any manner except by a writing executed by the Party against whom it is to be enforced. Waiver of the breach of any of the provisions of this Agreement shall not be deemed to be a waiver of any other breach of the same or any other provision of this Agreement. If any term, provision, covenant or condition of this Agreement is held by a court of competent jurisdiction to be invalid, void or unenforceable, the remainder of the provisions shall remain in full force and effect and shall in no way be affected, impaired or invalidated.\n\n6\n\nSource: FULUCAI PRODUCTIONS LTD., 10-Q, 12/23/2013\n\n\n\n\n\n    18. Audit. Each of the Parties may, at its own expense, audit the other Party's compliance with this Agreement, including but not limited to, auditing the other Party's representations and warranties.   19. Counterparts. This Agreement may be executed in any number of counterparts, each of which shall be deemed an original and all of which together shall be deemed to be one and the same instrument. All counterparts so executed shall constitute one agreement binding upon all Parties, notwithstanding that all Parties are signatory to the original or the same counterpart. The Parties may execute this Agreement by facsimile and/or electronic means and such signatures shall be treated as original signatures for all purposes.   IN WITNESS WHEREOF the Parties hereto have caused this Agreement as of the Effective Date.\n\nCONVERGTV, INC. by     Name:  Title:   FULUCAI PRODUCTIONS LTD.(PRODUCER) by     Name:  Title:\n\n7\n\nSource: FULUCAI PRODUCTIONS LTD., 10-Q, 12/23/2013\n\n\n\n\n\n\n\nSource: FULUCAI PRODUCTIONS LTD., 10-Q, 12/23/2013"
+  }
+]

@@ -1,0 +1,344 @@
+[
+  {
+    "qas": [
+      {
+        "answers": [
+          {
+            "text": "CONTENT LICENSE AGREEMENT",
+            "answer_start": 14
+          }
+        ],
+        "id": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement__Document Name",
+        "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "Emdeon Corporation",
+            "answer_start": 167
+          },
+          {
+            "text": "WebMD, Inc.",
+            "answer_start": 302
+          },
+          {
+            "text": "WebMD",
+            "answer_start": 302
+          },
+          {
+            "text": "Emdeon",
+            "answer_start": 167
+          }
+        ],
+        "id": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement__Parties",
+        "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "October 1, 2005",
+            "answer_start": 106
+          }
+        ],
+        "id": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement__Agreement Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "October 1, 2005",
+            "answer_start": 106
+          }
+        ],
+        "id": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement__Effective Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Effective Date\" that should be reviewed by a lawyer. Details: The date when the contract is effective\u00a0",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "This Agreement shall be effective as of the Effective Date and shall expire on the Expiration Date set forth above (the \"Initial Term\"), unless earlier terminated in accordance with Section 3(b).",
+            "answer_start": 4469
+          },
+          {
+            "text": "Expiration Date: August 31, 2006",
+            "answer_start": 849
+          }
+        ],
+        "id": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement__Expiration Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement__Renewal Term",
+        "question": "Highlight the parts (if any) of this contract related to \"Renewal Term\" that should be reviewed by a lawyer. Details: What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement__Notice Period To Terminate Renewal",
+        "question": "Highlight the parts (if any) of this contract related to \"Notice Period To Terminate Renewal\" that should be reviewed by a lawyer. Details: What is the notice period required to terminate renewal?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "This Agreement shall be governed by and construed in accordance with the laws of the State of New York, without application of conflict of laws principles.",
+            "answer_start": 12740
+          }
+        ],
+        "id": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement__Governing Law",
+        "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement__Most Favored Nation",
+        "question": "Highlight the parts (if any) of this contract related to \"Most Favored Nation\" that should be reviewed by a lawyer. Details: Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement__Non-Compete",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Compete\" that should be reviewed by a lawyer. Details: Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement__Exclusivity",
+        "question": "Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing\u00a0 commitment with the counterparty? This includes a commitment to procure all \u201crequirements\u201d from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on\u00a0 collaborating or working with other parties), whether during the contract or\u00a0 after the contract ends (or both).",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement__No-Solicit Of Customers",
+        "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Customers\" that should be reviewed by a lawyer. Details: Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement__Competitive Restriction Exception",
+        "question": "Highlight the parts (if any) of this contract related to \"Competitive Restriction Exception\" that should be reviewed by a lawyer. Details: This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement__No-Solicit Of Employees",
+        "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Employees\" that should be reviewed by a lawyer. Details: Is there a restriction on a party\u2019s soliciting or hiring employees and/or contractors from the\u00a0 counterparty, whether during the contract or after the contract ends (or both)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement__Non-Disparagement",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Disparagement\" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement__Termination For Convenience",
+        "question": "Highlight the parts (if any) of this contract related to \"Termination For Convenience\" that should be reviewed by a lawyer. Details: Can a party terminate this\u00a0 contract without cause (solely by giving a notice and allowing a waiting\u00a0 period to expire)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement__Rofr/Rofo/Rofn",
+        "question": "Highlight the parts (if any) of this contract related to \"Rofr/Rofo/Rofn\" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement__Change Of Control",
+        "question": "Highlight the parts (if any) of this contract related to \"Change Of Control\" that should be reviewed by a lawyer. Details: Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "Any such purported assignment or delegation without such prior written consent shall be null and void and have no force and effect.",
+            "answer_start": 11972
+          },
+          {
+            "text": "Neither party shall have the right to sell, assign, transfer or hypothecate (all hereinafter referred to as \"assign\" or \"assignment\") this Agreement, or delegate any of its obligations hereunder, voluntarily or by operation of law, without the prior written consent of the other party.",
+            "answer_start": 11686
+          }
+        ],
+        "id": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement__Anti-Assignment",
+        "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement__Revenue/Profit Sharing",
+        "question": "Highlight the parts (if any) of this contract related to \"Revenue/Profit Sharing\" that should be reviewed by a lawyer. Details: Is one party required to share revenue or profit with the counterparty for any technology, goods, or\u00a0services?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement__Price Restrictions",
+        "question": "Highlight the parts (if any) of this contract related to \"Price Restrictions\" that should be reviewed by a lawyer. Details: Is there a restriction on the\u00a0 ability of a party to raise or reduce prices of technology, goods, or\u00a0 services provided?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement__Minimum Commitment",
+        "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement__Volume Restriction",
+        "question": "Highlight the parts (if any) of this contract related to \"Volume Restriction\" that should be reviewed by a lawyer. Details: Is there a fee increase or consent requirement, etc. if one party\u2019s use of the product/services exceeds certain threshold?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement__Ip Ownership Assignment",
+        "question": "Highlight the parts (if any) of this contract related to \"Ip Ownership Assignment\" that should be reviewed by a lawyer. Details: Does intellectual property created\u00a0 by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement__Joint Ip Ownership",
+        "question": "Highlight the parts (if any) of this contract related to \"Joint Ip Ownership\" that should be reviewed by a lawyer. Details: Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "Subject to Emdeon's compliance with the provisions of this Agreement, Emdeon is hereby authorized and licensed to use the Content by making such Content available to third parties verbatim or as source material via the Software.",
+            "answer_start": 1833
+          },
+          {
+            "text": "Emdeon is hereby granted a non-exclusive and worldwide right to use WebMD's trademarks and logos (\"Marks\") for the purpose of identifying the origin of the Content during the term of this Agreement.",
+            "answer_start": 6443
+          },
+          {
+            "text": "Such license is a non-exclusive, non-transferrable and worldwide license and shall include the right to use, reproduce, copy and publish the Content solely in connection with the Software.",
+            "answer_start": 2062
+          },
+          {
+            "text": "WebMD agrees to grant, and Emdeon agrees to accept, a license to use the Content (as defined below) in connection with various software products it has all right title and interest to (the \"Software\") in accordance with the terms of this Agreement.",
+            "answer_start": 511
+          }
+        ],
+        "id": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement__License Grant",
+        "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "Such license is a non-exclusive, non-transferrable and worldwide license and shall include the right to use, reproduce, copy and publish the Content solely in connection with the Software.",
+            "answer_start": 2062
+          }
+        ],
+        "id": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement__Non-Transferable License",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Transferable License\" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement__Affiliate License-Licensor",
+        "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensor\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement__Affiliate License-Licensee",
+        "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensee\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement__Unlimited/All-You-Can-Eat-License",
+        "question": "Highlight the parts (if any) of this contract related to \"Unlimited/All-You-Can-Eat-License\" that should be reviewed by a lawyer. Details: Is there a clause granting one party an \u201centerprise,\u201d \u201call you can eat\u201d or unlimited usage license?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement__Irrevocable Or Perpetual License",
+        "question": "Highlight the parts (if any) of this contract related to \"Irrevocable Or Perpetual License\" that should be reviewed by a lawyer. Details: Does the contract contain a\u00a0 license grant that is irrevocable or perpetual?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement__Source Code Escrow",
+        "question": "Highlight the parts (if any) of this contract related to \"Source Code Escrow\" that should be reviewed by a lawyer. Details: Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,\u00a0 insolvency, etc.)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "Upon any expiration or termination of this Agreement, Emdeon shall have a reasonable period of time to remove the Content from the Software",
+            "answer_start": 5376
+          }
+        ],
+        "id": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement__Post-Termination Services",
+        "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement__Audit Rights",
+        "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement__Uncapped Liability",
+        "question": "Highlight the parts (if any) of this contract related to \"Uncapped Liability\" that should be reviewed by a lawyer. Details: Is a party\u2019s liability uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation.",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "WEBMD'S AGGREGATE LIABILITY FOR ALL DAMAGES, LOSSES AND CAUSES OF ACTION IN ANY WAY RELATED TO THIS AGREEMENT OR THE CONTENT, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, EITHER JOINTLY OR SEVERALLY, SHALL NOT EXCEED FIFTY DOLLARS ($50).",
+            "answer_start": 7692
+          },
+          {
+            "text": "IN NO EVENT WILL WEBMD OR ITS SUPPLIERS OR LICENSORS BE LIABLE UNDER ANY THEORY OF LIABILITY, HOWEVER ARISING, FOR ANY COSTS OF COVER OR FOR INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY KIND ARISING OUT OF THIS AGREEMENT, OR THE PROVISION OR USE OF CONTENT, EVEN IF WEBMD HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.",
+            "answer_start": 7349
+          }
+        ],
+        "id": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement__Cap On Liability",
+        "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party\u2019s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement__Liquidated Damages",
+        "question": "Highlight the parts (if any) of this contract related to \"Liquidated Damages\" that should be reviewed by a lawyer. Details: Does the contract contain a clause that would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement__Warranty Duration",
+        "question": "Highlight the parts (if any) of this contract related to \"Warranty Duration\" that should be reviewed by a lawyer. Details: What is the duration of any\u00a0 warranty against defects or errors in technology, products, or services\u00a0 provided under the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement__Insurance",
+        "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement__Covenant Not To Sue",
+        "question": "Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty\u2019s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "WebmdHealthCorp_20050908_S-1A_EX-10.7_1027007_EX-10.7_Content License Agreement__Third Party Beneficiary",
+        "question": "Highlight the parts (if any) of this contract related to \"Third Party Beneficiary\" that should be reviewed by a lawyer. Details: Is there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?",
+        "is_impossible": true
+      }
+    ],
+    "context": "Exhibit 10.7\n\nCONTENT LICENSE AGREEMENT\n\nThis Content License Agreement (this \"Agreement\") is dated as of October 1, 2005 (the \"Effective Date\") and is by and between Emdeon Corporation a Delaware corporation (\"Emdeon\"), with offices at at 669 River Drive, Center 2, Elmwood Park, New Jersey 07407 and WebMD, Inc. a Georgia Corporation (\"WebMD\"), with offices at 111 Eighth Avenue, New York, NY 10011. Emdeon and WebMD expressly agree that this Agreement incorporates the Terms and Conditions attached hereto.\n\nWebMD agrees to grant, and Emdeon agrees to accept, a license to use the Content (as defined below) in connection with various software products it has all right title and interest to (the \"Software\") in accordance with the terms of this Agreement.\n\nContent to be provided under this Agreement is specified on Exhibit A (the \"Content\").\n\nExpiration Date: August 31, 2006\n\nAGREED TO AND ACCEPTED:               WebMD, Inc.   Emdeon Corporation               By:     By:\n\n              Name:    Name:\n\n              Title:     Title:\n\n\n\nSource: WEBMD HEALTH CORP., S-1/A, 9/8/2005\n\n\n\n\n\n\n\nEXHIBIT A\n\nCONTENT TO BE PROVIDED\n\nWebMD shall provide Content as follows:\n\nThe entire set of Anatomical Line Drawings. Anatomical Line Drawings are printable line drawings intended for physicians to draw on and illustrate diseases and conditions to patients.\n\n-2-\n\nSource: WEBMD HEALTH CORP., S-1/A, 9/8/2005\n\n\n\n\n\n\n\nEXHIBIT B\n\nFEES\n\nFees for the Content shall be $5,000 per year.\n\nAdditional anatomical line drawings shall be licensed to Emdeon at an incremental charge of $150 per drawing.\n\n-3-\n\nSource: WEBMD HEALTH CORP., S-1/A, 9/8/2005\n\n\n\n\n\n\n\nTERMS AND CONDITIONS\n\n1. Content.\n\n(a) Description. WebMD hereby agrees to provide Emdeon the Content described on Exhibit A in accordance with the terms of this Agreement.\n\n(b) License. Subject to Emdeon's compliance with the provisions of this Agreement, Emdeon is hereby authorized and licensed to use the Content by making such Content available to third parties verbatim or as source material via the Software. Such license is a non-exclusive, non-transferrable and worldwide license and shall include the right to use, reproduce, copy and publish the Content solely in connection with the Software. Emdeon may determine the placement and formatting of the Content in the Software, but may not change the substance of the Content to any extent whatsoever without WebMD's written approval of the change.\n\n(c) Updates. If WebMD should reprint, issue a new edition, change or modify the edition, or otherwise enhance or edit the Content Emdeon has licensed (collectively, \"Updates\"), Emdeon has the option, at no additional cost, to receive the most recent Update. WebMD shall promptly notify Emdeon when a new Update is available.\n\n(d) Format. WebMD agrees to provide Emdeon the Content, including any Updates, in a mutually agreeable format (the \"Format\"). WebMD shall bear the cost of any reformatting necessary to provide the Content in the Format. Emdeon shall bear all the cost associated with the integration of the Content into the Software.\n\n(e) WebMD retains absolute editorial control over the Content. Nothing in this Agreement shall restrict WebMD's right to place other marks (such as third party marks) within the Content.\n\n(f) From time to time, WebMD will provide Content that supersedes and replaces Content previously provided (for example, a corrected news article). Promptly after receipt of replacement Content, Emdeon will either (a) remove the superseded Content and replace it with the replacement Content or (b) note at the top of the superseded Content that it has been replaced and give a hypertext link to the replacement Content.\n\n(g) WebMD does not provide medical or diagnostic advice or services. Emdeon agrees that the Content is to be used for informational and educational purposes only. Emdeon agrees that it shall not rely, or promote reliance, on the Content as a substitute for the professional judgment of a health care professional in diagnosing and treating patients.\n\n2. Intellectual Property. As between WebMD and Emdeon, WebMD or its suppliers retain all worldwide right, title, and interest in and to the Content. All rights in the Content not expressly granted by WebMD to Emdeon are reserved to WebMD. Except as expressly provided, no rights or licenses are intended or conveyed herein, whether by implication, estoppel, or otherwise.\n\n3. Term and Termination.\n\n(a) Term. This Agreement shall be effective as of the Effective Date and shall expire on the Expiration Date set forth above (the \"Initial Term\"), unless earlier terminated in accordance with Section 3(b). Upon mutual agreement, this Agreement may be renewed for one (1) additional one (1) year term upon the expiration of the Initial Term.\n\n(b) Termination. In addition to expiration of this Agreement as set forth in Section 3(a) hereof in the event either party fails to perform any of its material obligations hereunder, the other party may terminate this Agreement at its election after thirty (30) days written notice to the party of such breach, if such breach is not cured by the party within such thirty (30) day period.\n\n(c) Survival. All representations, warranties and indemnities shall survive the execution, delivery, suspension, expiration and/or termination of this Agreement or any provision hereof. Upon any expiration or termination of this Agreement, Emdeon shall have a reasonable period of time to remove the Content from the Software.\n\n4. Fees and Payment.\n\n-4-\n\nSource: WEBMD HEALTH CORP., S-1/A, 9/8/2005\n\n\n\n\n\n\n\n(a) Payments. In consideration for provision of the Content and all rights granted hereunder, Emdeon hereby agreed to pay WebMD the amounts set forth on Exhibit B of this Agreement. All amounts payable shall be due be due thirty (30) days after the receipt of WebMD's invoice.\n\n(b) Taxes. All payments under the Agreement are exclusive of all federal, state, local and foreign taxes, levies and assessments. Emdeon agrees to bear and be responsible for the payment of all such taxes, levies and assessments imposed on WebMD arising out of this Agreement, excluding any tax based on WebMD's net income. All fees charged hereunder by WebMD are net of any such taxes.\n\n(c) Late payments are subject to an interest charge, at the lower rate of (i) one and one-half percent (1.5%) per month, or (ii) the maximum legal rate.\n\n5. Trademark License.\n\n(a) Emdeon is hereby granted a non-exclusive and worldwide right to use WebMD's trademarks and logos (\"Marks\") for the purpose of identifying the origin of the Content during the term of this Agreement. These Marks may be used by Emdeon, in its sole discretion, in connection with the Content in the Software, and in any form, format, forum, media, medium, means or method by which the Content is delivered. Notwithstanding the foregoing, portions of the Software that contain Content shall include a WebMD Mark in appearance and format mutually agreed to by the parties.\n\n6. Disclaimer. WebMD MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, WITH RESPECT TO THE CONTENT OR THE ACCURACY OF THE CONTENT. WEBMD EXPRESSLY DISCLAIMS ALL WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE AND ALL WARRANTIES ARISING FROM CONDUCT, COURSE OF DEALING OR CUSTOM OF TRADE. IN NO EVENT WILL WEBMD OR ITS SUPPLIERS OR LICENSORS BE LIABLE UNDER ANY THEORY OF LIABILITY, HOWEVER ARISING, FOR ANY COSTS OF COVER OR FOR INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY KIND ARISING OUT OF THIS AGREEMENT, OR THE PROVISION OR USE OF CONTENT, EVEN IF WEBMD HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. WEBMD'S AGGREGATE LIABILITY FOR ALL DAMAGES, LOSSES AND CAUSES OF ACTION IN ANY WAY RELATED TO THIS AGREEMENT OR THE CONTENT, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, EITHER JOINTLY OR SEVERALLY, SHALL NOT EXCEED FIFTY DOLLARS ($50). THIS SECTION REFLECTS AN ALLOCATION OF RISK BETWEEN THE PARTIES, IS NOT A PENALTY, AND SHALL BE EXCLUSIVE. THIS SECTION SHALL APPLY DESPITE ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED WARRANTY OR REMEDY.\n\n6. Confidentiality.\n\n(a) Confidential Information. \"Confidential Information\" means any data, materials or information that is disclosed by either party to the other party during the term hereof, in oral or written form, and which is marked or otherwise reasonably identified as \"confidential\" or \"proprietary\". Confidential Information also includes any information described in this Section which either party obtains from a third party under an obligation of confidentiality. Confidential Information does not include any data or information which the receiving party can demonstrate with competent written proof: (i) was already known to it at the time of disclosure; (ii) was independently developed by it without reference to the disclosing party's Confidential Information; (iii) is in the public domain; (iv) was rightfully disclosed to it by a third party without obligation of confidentiality; or (v) is required to be disclosed pursuant to any statutory or regulatory authority or court order, provided the disclosing party is given prompt written notice of such requirement and the scope of such disclosure is limited to the extent possible.\n\n(b) Trade Secrets. \"Trade Secrets\" shall mean Confidential Information, including but not limited to technical or non-technical data, a formula, a pattern, a compilation, a program, a device, a method, a technique, a drawing, a process, financial data, financial plans, product plans, or a list of actual or potential customers or suppliers, in any form or format, which is not commonly known by or available to the public and which: (i) derives economic value, actual or potential, from not being generally known to and not being readily ascertainable by proper means by other persons who can obtain economic value from its disclosure or use, and (ii) is the subject of efforts that are reasonable under the circumstances to maintain its secrecy.\n\n(c) Requirements. During the term of this Agreement and for so long as such information remains a trade secret under applicable law, neither party will, except as otherwise expressly directed by the other\n\n-5-\n\nSource: WEBMD HEALTH CORP., S-1/A, 9/8/2005\n\n\n\n\n\n\n\nparty, use, copy, or disclose, or permit any unauthorized person access to, any of the other party's Trade Secrets, except as expressly permitted herein and necessary for accomplishment of activities required hereby. During the term of this Agreement and for a period of two (2) years after termination hereof, neither party will use, copy, or disclose, or permit any unauthorized person access to, any of the other party's Confidential Information, except as expressly directed by such party or as permitted herein. The receiving party agrees to take reasonable precautions (no less rigorous than the receiving party takes with respect to its own comparable Confidential Information and Trade Secrets) to prevent unauthorized or inadvertent disclosure of the Confidential Information and Trade Secrets of the disclosing party.\n\n(d) Return of Information. The receiving party will, at the request of the disclosing party, during the term of this Agreement or thereafter (i) promptly return all Confidential Information and Trade Secrets held or used by the receiving party in whatever form, or (ii) at the discretion of the disclosing party, promptly destroy all such Confidential Information and Trade Secrets, including all copies thereof, and those portions of all documents that incorporate such Confidential Information and/or Trade Secrets.\n\n7. Assignment. Neither party shall have the right to sell, assign, transfer or hypothecate (all hereinafter referred to as \"assign\" or \"assignment\") this Agreement, or delegate any of its obligations hereunder, voluntarily or by operation of law, without the prior written consent of the other party. Any such purported assignment or delegation without such prior written consent shall be null and void and have no force and effect.\n\n8. General.\n\n(a) Notices. All material notices and other communications required or permitted under this Agreement shall be in writing and notices will be deemed given three (3) days after they are sent by first class mail, return receipt requested, and one (1) day after they are sent by overnight courier or upon receipt if delivered by hand delivery, to the receiving party's address as set forth in the first paragraph above, or to such other address that the receiving party may have provided in writing to the other party for purposes of receiving notices as provided in this Section.\n\n(b) Governing Law, Venue and Jurisdiction. This Agreement shall be governed by and construed in accordance with the laws of the State of New York, without application of conflict of laws principles.\n\n(c) Force Majeure. Neither party shall be held responsible for any inability to perform occasioned by labor strife, war, riot, fires, embargoes, floods, government requirements, or other similar events beyond the control of such party.\n\n(d) Relationship. WebMD's relationship to Emdeon shall be that of an independent contractor. Nothing herein shall create any association, partnership, joint venture or agency relationship between WebMD and Emdeon. Without limiting the generality of the foregoing, it is expressly understood and agreed that WebMD shall have no authority whatsoever to make any representations or commitments to or enter into any agreements with any third party on behalf of Emdeon.\n\n(e) Severability and Non-Waiver. In the event any provision of this Agreement shall be found to be contrary to any law or regulation of any federal, state or municipal administrative agency or body, the other provisions of this Agreement shall not be affected thereby but shall notwithstanding continue in full force and effect. No waiver by either party hereto of any breach or default by the other party shall be construed to be a waiver of any other breach or default by such other party. Resort to any remedies referred to herein shall not be construed as a waiver of any other rights and remedies to which either party is entitled under this Agreement or otherwise nor shall an election to terminate be deemed an election of remedies or a waiver of any claim for damages or otherwise.\n\n(f) Counterparts. This Agreement may be executed in one or more counterparts, each of which will be deemed original, but all of which will constitute one and the same instrument.\n\n(g) Complete Agreement. This Agreement, including the attached Exhibits, constitutes the entire understanding between the parties with respect to the subject matter hereof and all prior understandings, whether oral or written, have been merged herein and are superseded hereby. This Agreement may not be altered or modified except in writing signed by both parties hereto.\n\n-6-\n\nSource: WEBMD HEALTH CORP., S-1/A, 9/8/2005"
+  }
+]

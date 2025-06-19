@@ -1,0 +1,310 @@
+[
+  {
+    "qas": [
+      {
+        "answers": [
+          {
+            "text": "BLOCKCHAIN ADMINISTRATION AND DEVELOPMENT AGREEMENT",
+            "answer_start": 25
+          }
+        ],
+        "id": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement__Document Name",
+        "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "Blockchain Administrator",
+            "answer_start": 355
+          },
+          {
+            "text": "Fund",
+            "answer_start": 270
+          },
+          {
+            "text": "ARCA CAPITAL MANAGEMENT, LLC",
+            "answer_start": 113
+          },
+          {
+            "text": "ARCA U.S. TREASURY FUND,",
+            "answer_start": 212
+          }
+        ],
+        "id": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement__Parties",
+        "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "[___], 2020",
+            "answer_start": 185
+          }
+        ],
+        "id": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement__Agreement Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "This Agreement shall become effective as of the first date above written",
+            "answer_start": 12172
+          }
+        ],
+        "id": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement__Effective Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Effective Date\" that should be reviewed by a lawyer. Details: The date when the contract is effective\u00a0",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "This Agreement shall continue in effect for two years from the date hereof, and thereafter shall continue automatically for successive annual periods, provided that such continuance is specifically approved at least annually by (A) the vote of the Board, or by the vote of a majority of the outstanding voting securities of the Fund and (B) the vote of a majority of the Fund's directors who are not parties to this Agreement or \"interested persons\" (as such term is defined in Section 2(a)(19) of the Investment Fund Act) of any such party, in accordance with the requirements of the Investment Fund Act.",
+            "answer_start": 13148
+          }
+        ],
+        "id": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement__Expiration Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "This Agreement shall continue in effect for two years from the date hereof, and thereafter shall continue automatically for successive annual periods, provided that such continuance is specifically approved at least annually by (A) the vote of the Board, or by the vote of a majority of the outstanding voting securities of the Fund and (B) the vote of a majority of the Fund's directors who are not parties to this Agreement or \"interested persons\" (as such term is defined in Section 2(a)(19) of the Investment Fund Act) of any such party, in accordance with the requirements of the Investment Fund Act.",
+            "answer_start": 13148
+          }
+        ],
+        "id": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement__Renewal Term",
+        "question": "Highlight the parts (if any) of this contract related to \"Renewal Term\" that should be reviewed by a lawyer. Details: What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement__Notice Period To Terminate Renewal",
+        "question": "Highlight the parts (if any) of this contract related to \"Notice Period To Terminate Renewal\" that should be reviewed by a lawyer. Details: What is the notice period required to terminate renewal?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "This Agreement shall be construed in accordance with the laws of the State of New York applicable to contracts formed and to be performed entirely within the State of New York, without regard to conflict of laws principles, and in accordance with the applicable provisions of the Investment Fund Act.",
+            "answer_start": 14408
+          }
+        ],
+        "id": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement__Governing Law",
+        "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement__Most Favored Nation",
+        "question": "Highlight the parts (if any) of this contract related to \"Most Favored Nation\" that should be reviewed by a lawyer. Details: Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement__Non-Compete",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Compete\" that should be reviewed by a lawyer. Details: Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement__Exclusivity",
+        "question": "Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing\u00a0 commitment with the counterparty? This includes a commitment to procure all \u201crequirements\u201d from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on\u00a0 collaborating or working with other parties), whether during the contract or\u00a0 after the contract ends (or both).",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement__No-Solicit Of Customers",
+        "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Customers\" that should be reviewed by a lawyer. Details: Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement__Competitive Restriction Exception",
+        "question": "Highlight the parts (if any) of this contract related to \"Competitive Restriction Exception\" that should be reviewed by a lawyer. Details: This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement__No-Solicit Of Employees",
+        "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Employees\" that should be reviewed by a lawyer. Details: Is there a restriction on a party\u2019s soliciting or hiring employees and/or contractors from the\u00a0 counterparty, whether during the contract or after the contract ends (or both)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement__Non-Disparagement",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Disparagement\" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement__Termination For Convenience",
+        "question": "Highlight the parts (if any) of this contract related to \"Termination For Convenience\" that should be reviewed by a lawyer. Details: Can a party terminate this\u00a0 contract without cause (solely by giving a notice and allowing a waiting\u00a0 period to expire)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement__Rofr/Rofo/Rofn",
+        "question": "Highlight the parts (if any) of this contract related to \"Rofr/Rofo/Rofn\" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement__Change Of Control",
+        "question": "Highlight the parts (if any) of this contract related to \"Change Of Control\" that should be reviewed by a lawyer. Details: Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "This Agreement will automatically terminate in the event of its \"assignment\" (as such term is defined for purposes of Section 15(a) (4) of the Investment Fund Act).",
+            "answer_start": 13758
+          }
+        ],
+        "id": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement__Anti-Assignment",
+        "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "In full consideration of the provision of the services of the Blockchain Administrator set forth herein, the Fund shall pay the Blockchain Administrator a fees calculated at the annual rate of 0.20% of the value of the Fund's average annual net assets.",
+            "answer_start": 7555
+          }
+        ],
+        "id": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement__Revenue/Profit Sharing",
+        "question": "Highlight the parts (if any) of this contract related to \"Revenue/Profit Sharing\" that should be reviewed by a lawyer. Details: Is one party required to share revenue or profit with the counterparty for any technology, goods, or\u00a0services?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement__Price Restrictions",
+        "question": "Highlight the parts (if any) of this contract related to \"Price Restrictions\" that should be reviewed by a lawyer. Details: Is there a restriction on the\u00a0 ability of a party to raise or reduce prices of technology, goods, or\u00a0 services provided?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement__Minimum Commitment",
+        "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement__Volume Restriction",
+        "question": "Highlight the parts (if any) of this contract related to \"Volume Restriction\" that should be reviewed by a lawyer. Details: Is there a fee increase or consent requirement, etc. if one party\u2019s use of the product/services exceeds certain threshold?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement__Ip Ownership Assignment",
+        "question": "Highlight the parts (if any) of this contract related to \"Ip Ownership Assignment\" that should be reviewed by a lawyer. Details: Does intellectual property created\u00a0 by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement__Joint Ip Ownership",
+        "question": "Highlight the parts (if any) of this contract related to \"Joint Ip Ownership\" that should be reviewed by a lawyer. Details: Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement__License Grant",
+        "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement__Non-Transferable License",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Transferable License\" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement__Affiliate License-Licensor",
+        "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensor\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement__Affiliate License-Licensee",
+        "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensee\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement__Unlimited/All-You-Can-Eat-License",
+        "question": "Highlight the parts (if any) of this contract related to \"Unlimited/All-You-Can-Eat-License\" that should be reviewed by a lawyer. Details: Is there a clause granting one party an \u201centerprise,\u201d \u201call you can eat\u201d or unlimited usage license?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement__Irrevocable Or Perpetual License",
+        "question": "Highlight the parts (if any) of this contract related to \"Irrevocable Or Perpetual License\" that should be reviewed by a lawyer. Details: Does the contract contain a\u00a0 license grant that is irrevocable or perpetual?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement__Source Code Escrow",
+        "question": "Highlight the parts (if any) of this contract related to \"Source Code Escrow\" that should be reviewed by a lawyer. Details: Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,\u00a0 insolvency, etc.)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement__Post-Termination Services",
+        "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement__Audit Rights",
+        "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement__Uncapped Liability",
+        "question": "Highlight the parts (if any) of this contract related to \"Uncapped Liability\" that should be reviewed by a lawyer. Details: Is a party\u2019s liability uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement__Cap On Liability",
+        "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party\u2019s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement__Liquidated Damages",
+        "question": "Highlight the parts (if any) of this contract related to \"Liquidated Damages\" that should be reviewed by a lawyer. Details: Does the contract contain a clause that would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement__Warranty Duration",
+        "question": "Highlight the parts (if any) of this contract related to \"Warranty Duration\" that should be reviewed by a lawyer. Details: What is the duration of any\u00a0 warranty against defects or errors in technology, products, or services\u00a0 provided under the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement__Insurance",
+        "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement__Covenant Not To Sue",
+        "question": "Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty\u2019s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement__Third Party Beneficiary",
+        "question": "Highlight the parts (if any) of this contract related to \"Third Party Beneficiary\" that should be reviewed by a lawyer. Details: Is there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?",
+        "is_impossible": true
+      }
+    ],
+    "context": "Exhibit 99(k)(5) FORM OF BLOCKCHAIN ADMINISTRATION AND DEVELOPMENT AGREEMENT BETWEEN ARCA U.S. TREASURY FUND AND ARCA CAPITAL MANAGEMENT, LLC This Agreement (\"Agreement\") is made as of [___], 2020 by and between ARCA U.S. TREASURY FUND, a Delaware statutory trust (the \"Fund\"), and ARCA CAPITAL MANAGEMENT, LLC, a Delaware limited liability company (the \"Blockchain Administrator\"). WHEREAS, the Fund is a closed-end management investment fund that has registered as an investment company under the Investment Company Act of 1940, as amended (the \"Investment Company Act\") and that intends to operate as an interval fund pursuant to Rule 23c-3 under the Investment Company Act; WHEREAS, the Fund desires to retain the Blockchain Administrator to provide services related to the development of ERC-1404 compatible digital securities and administration of the smart contracts underlying the Fund's digital securities in the manner and on the terms set forth herein; WHEREAS, the Blockchain Administrator is willing to provide such services to the Fund on the terms and conditions set forth herein; WHEREAS, the Blockchain Administrator will also serve as the Fund's investment adviser (the \"Adviser\") pursuant to an Investment Advisory Agreement entered into by and between the Fund and the Adviser (as amended from time to time, the \"Advisory Agreement\"); and WHEREAS, the Fund bears all costs and expenses incurred in its operation, administration and transactions which are not specifically assumed by the Adviser pursuant to the Advisory Agreement or this Agreement. NOW, THEREFORE, in consideration of the premises and the covenants hereinafter contained and for other good and valuable consideration, the receipt and adequacy of which is hereby acknowledged, the Fund and the Blockchain Administrator hereby agree as follows: 1. Duties of the Blockchain Administrator (a) The Fund hereby employs the Blockchain Administrator to act as the blockchain administrator of the Fund, and to furnish, or arrange for others to furnish, the services, personnel and facilities described below, subject to review by and the overall control of the Fund's Board of Trustees (the \"Board\"), for the period and on the terms and conditions set forth in this Agreement. (b) The Blockchain Administrator hereby accepts such employment and agrees during such period to render, or arrange for the rendering of, such services and to assume the obligations herein set forth subject to the reimbursement of costs and expenses provided for below. (c) The Blockchain Administrator shall perform (or oversee, or arrange for, the performance of) development and administrative services necessary for the issuance of the Fund's shares as ERC-1404 compatible digital securities (\"Shares\") and the on-going maintenance and administration of the smart contracts underlying such Shares. Without limiting the generality of the foregoing, the Blockchain Administrator shall provide the Fund with facilities, equipment, technology, coding and such other services as the Blockchain Administrator, subject to review by the Board, shall from time to time determine to be necessary or useful to perform its obligations under this Agreement.\n\n1\n\nSource: ARCA U.S. TREASURY FUND, N-2, 2/7/2020\n\n\n\n\n\n(d) The Blockchain Administrator shall also, on behalf of the Fund, conduct relations with custodians, depositories, transfer agents, dividend disbursing agents, other stockholder servicing agents, accountants, attorneys, underwriters, brokers and dealers, corporate fiduciaries, insurers, banks and such other persons as the Blockchain Administrator shall deem to be necessary or desirable in connection with the issuance and transfer of the Fund's ERC-1404 compatible digital security,. (e) The Blockchain Administrator shall make reports to the Board of its performance of obligations hereunder and furnish advice and recommendations with respect to such other aspects of the business and affairs of the Fund as it shall determine to be desirable; provided that nothing herein shall be construed to require the Blockchain Administrator to, and the Blockchain Administrator shall not, in its capacity as Blockchain Administrator pursuant to this Agreement, provide any advice or recommendation relating to the securities and other assets that the Fund should purchase, retain or sell or any other investment advisory services to the Fund. (f) The Blockchain Administrator shall for all purposes herein be deemed to be an independent contractor and shall, unless otherwise expressly provided or authorized herein, have no authority to act for or represent the Fund in any way or otherwise be deemed an agent of the Fund. (g) The Blockchain Administrator is hereby authorized to enter into agreements with other service providers pursuant to which the Blockchain Administrator may obtain the services of the service providers in fulfilling its responsibilities hereunder. The Blockchain Administrator shall ensure that any such service provider shall operate in conformity with the requirements of the Investment Company Act and other applicable federal and state law and shall maintain books and records of the Fund (if any) in a manner substantially similar to Section 2 of this Agreement. 2. Maintenance of Records The Blockchain Administrator agrees to maintain and keep all books, accounts and other records of the Fund that relate to activities performed by the Blockchain Administrator hereunder and will maintain and keep such books, accounts and records in accordance with the Investment Company Act. In compliance with the requirements of Rule 31a-3 under the Investment Company Act, the Blockchain Administrator agrees that all records which it maintains for the Fund shall at all times remain the property of the Fund, shall be readily accessible during normal business hours, and shall be promptly surrendered upon the termination of the Agreement or otherwise on written request. The Blockchain Administrator further agrees that all records which it maintains for the Fund pursuant to Rule 31a-1 under the Investment Company Act will be preserved for the periods prescribed by Rule 31a-2 under the Investment Company Act unless any such records are earlier surrendered as provided above. Records shall be surrendered in usable machine-readable form. The Blockchain Administrator shall have the right to retain copies of such records subject to observance of its confidentiality obligations under this Agreement. 3. Confidentiality The parties hereto agree that each shall treat confidentially the terms and conditions of this Agreement and all information provided by each party to the other regarding its business and operations. All confidential information provided by a party hereto, including nonpublic personal information (regulated pursuant to Regulation S-P), shall be used by any other party hereto solely for the purpose of rendering services pursuant to this Agreement and, except as may be required in carrying out this Agreement, shall not be disclosed to any third party, without the prior consent of such providing party. The foregoing shall not be applicable to any information that is publicly available when provided or thereafter becomes publicly available other than through a breach of this Agreement, or that is required to be disclosed by any regulatory authority, any authority or legal counsel of the parties hereto, by judicial or administrative process or otherwise by applicable law or regulation. 4. Compensation; Allocation of Costs and Expenses (a) In full consideration of the provision of the services of the Blockchain Administrator set forth herein, the Fund shall pay the Blockchain Administrator a fees calculated at the annual rate of 0.20% of the value of the Fund's average annual net assets. Such fee shall be accrued daily and paid monthly in arrears.\n\n2\n\nSource: ARCA U.S. TREASURY FUND, N-2, 2/7/2020\n\n\n\n\n\n(b) The Fund shall bear all fees, costs and expenses incurred in connection with its operation, administration and transactions that are not specifically assumed by the Blockchain Administrator (or the Adviser, if not the Blockchain Administrator, pursuant to the Advisory Agreement), including but not limited to: (i) compensation of the Fund's Trustees who are not affiliated with the Fund's Adviser or the Fund's principal underwriter/distributor or any of their respective affiliates; (ii) taxes and governmental fees; (iii) interest charges; (iv) fees and expenses of the Fund's independent accountants and legal counsel; (v) trade association membership dues; (vi) fees and expenses of any custodian (including maintenance of books and accounts and calculation of the net asset value of shares of the Fund), transfer agent, registrar and dividend disbursing agent of the Fund; (vii) expenses of issuing, redeeming, registering and qualifying for sale shares of beneficial interest in the Fund; (viii) expenses of preparing prospectuses and reports to shareholders, notices, proxy statements and reports to regulatory agencies; (ix) the cost of office supplies, including stationery; travel expenses of all officers, Trustees and employees; (x) insurance premiums; (xi) brokerage and other expenses of executing portfolio transactions; (xii) expenses of shareholders' meetings; (xiii) organizational expenses; and (xiv) extraordinary expenses. 5. Limitation of Liability of the Blockchain Administrator; Indemnification The Blockchain Administrator (and its officers, managers, partners, agents, employees, controlling persons, members and any other person or entity affiliated with the Blockchain Administrator) shall not be liable to the Fund for any action taken or omitted to be taken by the Blockchain Administrator in connection with the performance of any of its duties or obligations under this Agreement or otherwise as blockchain administrator of the Fund, and the Fund shall indemnify, defend and protect the Blockchain Administrator (and its officers, managers, partners, agents, employees, controlling persons, members and any other person or entity affiliated with the Blockchain Administrator) (collectively, the \"Indemnified Parties\") and hold them harmless from and against all damages, liabilities, costs and expenses (including reasonable attorneys' fees and amounts reasonably paid in settlement) incurred by the Indemnified Parties in or by reason of any pending, threatened or completed action, suit, investigation or other proceeding (including an action or suit by or in the right of the Fund or its security holders) arising out of or otherwise based upon the performance of any of the Blockchain Administrator's duties or obligations under this Agreement or otherwise as administrator of the Fund. Notwithstanding the preceding sentence of this Section 5 to the contrary, nothing contained herein shall protect or be deemed to protect the Indemnified Parties against or entitle or be deemed to entitle the Indemnified Parties to indemnification in respect of, any liability to the Fund or its security holders to which the Indemnified Parties would otherwise be subject by reason of criminal conduct, willful misfeasance, bad faith or gross negligence in the performance of the Blockchain Administrator's duties or by reason of the reckless disregard of the Blockchain Administrator's duties and obligations under this Agreement. 6. Activities of the Blockchain Administrator The services of the Blockchain Administrator to the Fund are not to be deemed to be exclusive, and the Blockchain Administrator and its affiliates are free to render services to others. It is understood that trustees, officers, employees and stockholders of the Fund are or may become interested in the Blockchain Administrator and its affiliates, as directors, officers, members, managers, employees, partners, stockholders or otherwise, and that the Blockchain Administrator and directors, officers, members, managers, employees, partners and stockholders of the Blockchain Administrator and its affiliates are or may become similarly interested in the Fund as stockholders or otherwise. 7. Duration and Termination of this Agreement (a) This Agreement shall become effective as of the first date above written. This Agreement may be terminated at any time, without the payment of any penalty, upon 60 days' written notice, by the vote of a majority of the outstanding voting securities of the Fund or by the vote of the Fund's Trustees or by the Blockchain Administrator. The provisions of Section 5 of this Agreement shall remain in full force and effect, and the Blockchain Administrator shall remain entitled to the benefits thereof, notwithstanding any termination of this Agreement. Further, notwithstanding the termination or expiration of this Agreement as aforesaid, the Blockchain Administrator shall be entitled to any amounts owed under Section 4 through the date of termination or expiration, and Section 5 shall continue in force and effect and apply to the Blockchain Administrator and its representatives as and to the extent applicable.\n\n3\n\nSource: ARCA U.S. TREASURY FUND, N-2, 2/7/2020\n\n\n\n\n\n(b) This Agreement shall continue in effect for two years from the date hereof, and thereafter shall continue automatically for successive annual periods, provided that such continuance is specifically approved at least annually by (A) the vote of the Board, or by the vote of a majority of the outstanding voting securities of the Fund and (B) the vote of a majority of the Fund's directors who are not parties to this Agreement or \"interested persons\" (as such term is defined in Section 2(a)(19) of the Investment Fund Act) of any such party, in accordance with the requirements of the Investment Fund Act. (c) This Agreement will automatically terminate in the event of its \"assignment\" (as such term is defined for purposes of Section 15(a) (4) of the Investment Fund Act). 8. Notices Any notice under this Agreement shall be given in writing, addressed and delivered or mailed, postage prepaid, to the other party at its principal office. 9. Amendments This Agreement may be amended pursuant to a written instrument by mutual consent of the parties. 10. Entire Agreement; Governing Law This Agreement contains the entire agreement of the parties and supersedes all prior agreements, understandings and arrangements with respect to the subject matter hereof. This Agreement shall be construed in accordance with the laws of the State of New York applicable to contracts formed and to be performed entirely within the State of New York, without regard to conflict of laws principles, and in accordance with the applicable provisions of the Investment Fund Act. In such case, to the extent the applicable laws of the State of New York, or any of the provisions herein, conflict with the provisions of the Investment Fund Act, the latter shall control. [Remainder of Page Intentionally Left Blank]\n\n4\n\nSource: ARCA U.S. TREASURY FUND, N-2, 2/7/2020\n\n\n\n\n\nIN WITNESS WHEREOF, the parties hereto have executed and delivered this Agreement as of the date first above written. ARCA U.S. TREASURY FUND By: Name: Philip Liu Title: President ARCA CAPITAL MANAGEMENT, LLC By: Name: J. Rayne Steinberg Title: Chief Executive Officer 5\n\nSource: ARCA U.S. TREASURY FUND, N-2, 2/7/2020"
+  }
+]

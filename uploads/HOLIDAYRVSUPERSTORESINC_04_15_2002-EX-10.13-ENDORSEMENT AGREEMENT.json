@@ -1,0 +1,332 @@
+[
+  {
+    "qas": [
+      {
+        "answers": [
+          {
+            "text": "ENDORSEMENT AGREEMENT",
+            "answer_start": 44
+          }
+        ],
+        "id": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT__Document Name",
+        "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "Affinity Group, Inc.",
+            "answer_start": 350
+          },
+          {
+            "text": "d/b/a Recreation USA",
+            "answer_start": 184
+          },
+          {
+            "text": "(each a \"Party\" and collectively the \"Parties\").",
+            "answer_start": 494
+          },
+          {
+            "text": "Company",
+            "answer_start": 211
+          },
+          {
+            "text": "AGI",
+            "answer_start": 373
+          },
+          {
+            "text": "Holiday RV Superstores, Inc.",
+            "answer_start": 154
+          }
+        ],
+        "id": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT__Parties",
+        "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "20th day of March 2002",
+            "answer_start": 115
+          }
+        ],
+        "id": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT__Agreement Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "Unless otherwise provided for in this Agreement, the term of this Agreement shall be three years, commencing on the date of this Agreement and expiring on the third anniversary date of this Agreement (the \"Termination\n\n\n\n\n\nDate\").",
+            "answer_start": 4885
+          },
+          {
+            "text": "20th day of March 2002",
+            "answer_start": 115
+          }
+        ],
+        "id": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT__Effective Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Effective Date\" that should be reviewed by a lawyer. Details: The date when the contract is effective\u00a0",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "Unless otherwise provided for in this Agreement, the term of this Agreement shall be three years, commencing on the date of this Agreement and expiring on the third anniversary date of this Agreement (the \"Termination\n\n\n\n\n\nDate\").",
+            "answer_start": 4885
+          }
+        ],
+        "id": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT__Expiration Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT__Renewal Term",
+        "question": "Highlight the parts (if any) of this contract related to \"Renewal Term\" that should be reviewed by a lawyer. Details: What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT__Notice Period To Terminate Renewal",
+        "question": "Highlight the parts (if any) of this contract related to \"Notice Period To Terminate Renewal\" that should be reviewed by a lawyer. Details: What is the notice period required to terminate renewal?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "This Agreement has been made in the State of California and shall be governed by and construed in accordance with the laws thereof without regard to principles of conflicts of laws.",
+            "answer_start": 10347
+          }
+        ],
+        "id": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT__Governing Law",
+        "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT__Most Favored Nation",
+        "question": "Highlight the parts (if any) of this contract related to \"Most Favored Nation\" that should be reviewed by a lawyer. Details: Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT__Non-Compete",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Compete\" that should be reviewed by a lawyer. Details: Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT__Exclusivity",
+        "question": "Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing\u00a0 commitment with the counterparty? This includes a commitment to procure all \u201crequirements\u201d from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on\u00a0 collaborating or working with other parties), whether during the contract or\u00a0 after the contract ends (or both).",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT__No-Solicit Of Customers",
+        "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Customers\" that should be reviewed by a lawyer. Details: Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT__Competitive Restriction Exception",
+        "question": "Highlight the parts (if any) of this contract related to \"Competitive Restriction Exception\" that should be reviewed by a lawyer. Details: This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT__No-Solicit Of Employees",
+        "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Employees\" that should be reviewed by a lawyer. Details: Is there a restriction on a party\u2019s soliciting or hiring employees and/or contractors from the\u00a0 counterparty, whether during the contract or after the contract ends (or both)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT__Non-Disparagement",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Disparagement\" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "In the event that the Company desires to terminate the Agreement prior to the Termination Date, it shall provide AGI with at least 60 days prior written notice of its intention to terminate this Agreement and this Agreement shall so terminate following the expiration of this 60-day period, without any further responsibility by either Party except as provided in Section 5.",
+            "answer_start": 5116
+          }
+        ],
+        "id": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT__Termination For Convenience",
+        "question": "Highlight the parts (if any) of this contract related to \"Termination For Convenience\" that should be reviewed by a lawyer. Details: Can a party terminate this\u00a0 contract without cause (solely by giving a notice and allowing a waiting\u00a0 period to expire)?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT__Rofr/Rofo/Rofn",
+        "question": "Highlight the parts (if any) of this contract related to \"Rofr/Rofo/Rofn\" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT__Change Of Control",
+        "question": "Highlight the parts (if any) of this contract related to \"Change Of Control\" that should be reviewed by a lawyer. Details: Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "Neither this Agreement nor the rights of either Party hereunder shall be assigned by either Party without the prior written consent of the other Party.",
+            "answer_start": 10557
+          }
+        ],
+        "id": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT__Anti-Assignment",
+        "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT__Revenue/Profit Sharing",
+        "question": "Highlight the parts (if any) of this contract related to \"Revenue/Profit Sharing\" that should be reviewed by a lawyer. Details: Is one party required to share revenue or profit with the counterparty for any technology, goods, or\u00a0services?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT__Price Restrictions",
+        "question": "Highlight the parts (if any) of this contract related to \"Price Restrictions\" that should be reviewed by a lawyer. Details: Is there a restriction on the\u00a0 ability of a party to raise or reduce prices of technology, goods, or\u00a0 services provided?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT__Minimum Commitment",
+        "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT__Volume Restriction",
+        "question": "Highlight the parts (if any) of this contract related to \"Volume Restriction\" that should be reviewed by a lawyer. Details: Is there a fee increase or consent requirement, etc. if one party\u2019s use of the product/services exceeds certain threshold?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT__Ip Ownership Assignment",
+        "question": "Highlight the parts (if any) of this contract related to \"Ip Ownership Assignment\" that should be reviewed by a lawyer. Details: Does intellectual property created\u00a0 by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT__Joint Ip Ownership",
+        "question": "Highlight the parts (if any) of this contract related to \"Joint Ip Ownership\" that should be reviewed by a lawyer. Details: Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "AGI hereby grants a non-exclusive license (the \"License\") to the Company and its operating subsidiaries now or hereafter existing to use the Good Sam name and logo, including trademarks, trade names, or service marks as designated by AGI (the \"Trademarks\"), in connection with the sale of such new and used vehicles by the Company that have satisfied such criteria and standards as are established from time to time by AGI (the \"Approved Use\").",
+            "answer_start": 1596
+          }
+        ],
+        "id": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT__License Grant",
+        "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT__Non-Transferable License",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Transferable License\" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT__Affiliate License-Licensor",
+        "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensor\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "AGI hereby grants a non-exclusive license (the \"License\") to the Company and its operating subsidiaries now or hereafter existing to use the Good Sam name and logo, including trademarks, trade names, or service marks as designated by AGI (the \"Trademarks\"), in connection with the sale of such new and used vehicles by the Company that have satisfied such criteria and standards as are established from time to time by AGI (the \"Approved Use\").",
+            "answer_start": 1596
+          }
+        ],
+        "id": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT__Affiliate License-Licensee",
+        "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensee\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT__Unlimited/All-You-Can-Eat-License",
+        "question": "Highlight the parts (if any) of this contract related to \"Unlimited/All-You-Can-Eat-License\" that should be reviewed by a lawyer. Details: Is there a clause granting one party an \u201centerprise,\u201d \u201call you can eat\u201d or unlimited usage license?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT__Irrevocable Or Perpetual License",
+        "question": "Highlight the parts (if any) of this contract related to \"Irrevocable Or Perpetual License\" that should be reviewed by a lawyer. Details: Does the contract contain a\u00a0 license grant that is irrevocable or perpetual?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT__Source Code Escrow",
+        "question": "Highlight the parts (if any) of this contract related to \"Source Code Escrow\" that should be reviewed by a lawyer. Details: Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,\u00a0 insolvency, etc.)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "In the event of such withdrawal, the Company agrees forthwith to take such action as AGI may request to publicly evidence that the Endorsement has been withdrawn and the Company agrees not to hold the Business out as having the Endorsement.",
+            "answer_start": 9302
+          }
+        ],
+        "id": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT__Post-Termination Services",
+        "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT__Audit Rights",
+        "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT__Uncapped Liability",
+        "question": "Highlight the parts (if any) of this contract related to \"Uncapped Liability\" that should be reviewed by a lawyer. Details: Is a party\u2019s liability uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT__Cap On Liability",
+        "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party\u2019s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT__Liquidated Damages",
+        "question": "Highlight the parts (if any) of this contract related to \"Liquidated Damages\" that should be reviewed by a lawyer. Details: Does the contract contain a clause that would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT__Warranty Duration",
+        "question": "Highlight the parts (if any) of this contract related to \"Warranty Duration\" that should be reviewed by a lawyer. Details: What is the duration of any\u00a0 warranty against defects or errors in technology, products, or services\u00a0 provided under the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT__Insurance",
+        "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT__Covenant Not To Sue",
+        "question": "Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty\u2019s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT__Third Party Beneficiary",
+        "question": "Highlight the parts (if any) of this contract related to \"Third Party Beneficiary\" that should be reviewed by a lawyer. Details: Is there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?",
+        "is_impossible": true
+      }
+    ],
+    "context": "EXHIBIT 10.13\n\n                             ENDORSEMENT AGREEMENT\n\n               This Agreement is made as of the 20th day of March 2002, by and between Holiday RV Superstores, Inc., d/b/a Recreation USA (the \"Company\"), a Delaware corporation having its principal office at 200 East Broward Boulevard, Suite 920, Ft. Lauderdale, Florida 33301, and Affinity Group, Inc. (\"AGI\"), a Delaware corporation having its principal office located at 2575 Vista Del Mar Drive, Ventura, California 93001 (each a \"Party\" and collectively the \"Parties\").\n\n               WHEREAS, the Company is a multi-state chain of dealerships engaged in the retail sales of service of recreational vehicles (the \"Business\"); and\n\n               WHEREAS, AGI, either directly or through subsidiaries, operates the \"Good Sam\" club for recreational vehicle enthusiasts; and\n\n               WHEREAS, the Company has determined that it would be beneficial sell vehicles with the Good Sam endorsement; and\n\n               WHEREAS, the Company has raised capital that it represents will be sufficient to fund its operations as projected for at least the next year and AGI is willing to make the Good Sam name available as an endorsement for certain vehicles sold by the Company on the terms and for the consideration set forth herein.\n\n               NOW THEREFORE, in consideration of the foregoing and the promises contained herein and other good and valuable consideration, the receipt and sufficiency of which are acknowledged, the parties agree as follows:\n\n        1. License of Good Sam Name and Logo.\n\n               A. AGI hereby grants a non-exclusive license (the \"License\") to the Company and its operating subsidiaries now or hereafter existing to use the Good Sam name and logo, including trademarks, trade names, or service marks as designated by AGI (the \"Trademarks\"), in connection with the sale of such new and used vehicles by the Company that have satisfied such criteria and standards as are established from time to time by AGI (the \"Approved Use\"). AGI warrants that it has the right and ability to grant the License to the Company to use the Trademarks for the Approved Use in accordance with the terms of this Agreement and, provided that the Company uses the Trademarks for the Approved Use in accordance with the terms of this Agreement, such grant will not infringe upon the rights of any other party. If the Company promptly notifies AGI in writing of a third party claim against the Company alleging that the Company's use of the Trademarks infringes a United States registered trademark, and if such claim of infringement is not caused in whole or in part by the Company having used the Trademarks other than for the Approved Use or other than strictly in the manner approved by AGI in accordance with the terms of this\n\n                                      -1-\n\nAgreement, AGI will defend such claim at its expense and will indemnify the Company, its agents and representatives, for all losses, claims, charges, costs and expenses incurred by the Company as a result of such claim. The Company hereby agrees to reimburse and indemnify and hold AGI harmless from and against all losses, claims, charges, costs and expenses (including reasonable attorneys' fees) incurred by AGI as a result of any claim involving or arising in connection with any use other than an Approved Use or a use otherwise approved by AGI in accordance with the terms of this Agreement.\n\n               B. In order to protect the good will of AGI and the Good Sam club, AGI retains the right to review and approve in advance and in its sole discretion, all uses of the Trademarks and the Good Sam name and logo. Therefore, the Company shall give AGI at least ten business days prior written notice and description of intended use by the Company of the Trademark and the Good Sam name and logo, and the Company's use of the Trademarks and the Good Sam name and logo is subject to approval of AGI.\n\n               C. The Company agrees that its use of the Trademarks and the Good Sam name and logo is restricted to the Approved Use, and the Company shall not use the Trademarks or the Good Sam name or logo for any other purpose. In connection with the Approved Use, the Company shall not use the Trademarks or the Good Sam name or logo in any manner that is detrimental to AGI, the Good Sam Club or any of their affiliates or any of their respective goodwill or business. Upon the termination of this Agreement, whether by expiration of its term pursuant to Paragraph 6A or otherwise, the Company shall cease all uses of the Trademarks and the Good Sam logo and name in any fashion.\n\n        2. Endorsement. Subject to the Terms of Section 7 hereof, AGI hereby grants the Company the right to hold the Business out as having the License (the \"Endorsement\").\n\n        3. Term and Termination.\n\n               A. Unless otherwise provided for in this Agreement, the term of this Agreement shall be three years, commencing on the date of this Agreement and expiring on the third anniversary date of this Agreement (the \"Termination\n\n\n\n\n\nDate\"). In the event that the Company desires to terminate the Agreement prior to the Termination Date, it shall provide AGI with at least 60 days prior written notice of its intention to terminate this Agreement and this Agreement shall so terminate following the expiration of this 60-day period, without any further responsibility by either Party except as provided in Section 5.\n\n               B. Either Party may terminate this Agreement at any time in the event of a material breach by the other Party which remains uncured after thirty days written notice thereof.\n\n                                      -2-\n\n               C. Either Party may terminate this Agreement immediately following written notice to the other Party if the other Party:\n\n                                (i) ceases to do business in the normal course;                suffers the entry of an order for relief declaring such Party                insolvent or bankrupt;\n\n                                (ii) is the subject of any proceeding related to                its liquidation or insolvency (whether voluntary or involuntary)                which is not dismissed within ninety calendar days;\n\n                                (iii) makes an assignment for the benefit of                creditors.\n\n               D. Notwithstanding any termination of this Agreement for any reason, AGI has earned and shall be entitled to retain all royalties paid prior to termination and, in addition AGI shall be entitled to payment from the Company of all compensation and unreimbursed expenses, if any, outstanding as of the date of termination.\n\n        4. Royalties. As consideration of Endorsement, concurrently with the execution of this Agreement, the Company shall pay to AGI a fee in the amount of $1,500,000. This fee shall be fully earned by AGI upon the receipt thereof and shall not be refundable for any reason. As consideration for the License, the Company shall pay to AGI such fees as may be established from time to time by mutual agreement of the Company and AGI.\n\n        5. Marketing of Products. AGI and the Company agree to develop and implement a program for marketing certain products and services offered by AGI through the Good Sam program, including, without limitation, the emergency road service program and the extended warranty program offered through Good Sam. Such marketing program will be on terms acceptable to AGI and the Company and shall be subject to standards and procedures designated by AGI. The terms of the marketing program will be set forth in a marketing agreement between AGI and the Company. The marketing agreement will provide, among other things, the terms pursuant to which the Company shall make \"Fulfillment Deposits\" for warranty products sold as a part of the marketing program.\n\n        6. Relationship. This Agreement shall not create a partnership or a joint venture between AGI and the Company, and neither party hereto shall have any authority to act for or represent the other party hereto or bind it to any agreements or obligations.\n\n        7. Public Disclosure Requirement. The Company may cause the release of a public announcement of the Endorsement which sets forth, in pertinent part, a\n\n                                      -3-\n\ndescription of this Agreement, including without limitation, the name of AGI and the nature of the License. At least three business days prior to the dissemination of any such public announcement or filing containing the above-required description, the Company shall submit to AGI for its review and comment the proposed public announcement or description. AGI shall thereafter have three business days within which to submit its editions or amendments to the public announcement and/or description for inclusion therein, and the Company shall in its reasonable judgment and subject to the advice of its counsel attempt to incorporate such editions and amendments in the final version disseminated by the Company.\n\n               In the event of a breach of this Agreement by the Company, the Endorsement may be withdrawn by AGI in its sole discretion and this Agreement terminated pursuant to the terms of Section 3B. In the event of such withdrawal, the Company agrees forthwith to take such action as AGI may request to publicly evidence that the Endorsement has been withdrawn and the Company agrees not to hold the Business out as having the Endorsement.\n\n        8. Notices. Any notices hereunder shall be sent to the Company and AGI at their respective address above set forth. Any notice shall be given by registered or certified mail, postage prepaid, and shall be deemed to have been given when deposited in the United States mail. Either party may designate any other address to which notice shall be given, by giving written notice to the other of such address in the manner herein provided.\n\n        9. Entire Agreement. This Agreement contains the entire agreement and understanding between the Parties with respect to its subject matter and supersedes all prior discussion, agreements and understandings between them with respect thereto. This Agreement may not be modified except in a writing signed by the Parties.\n\n\n\n\n\n        10. Governing Law. This Agreement has been made in the State of California and shall be governed by and construed in accordance with the laws thereof without regard to principles of conflicts of laws.\n\n        11. No Assignment. Neither this Agreement nor the rights of either Party hereunder shall be assigned by either Party without the prior written consent of the other Party.\n\n        12. Counterparts. This Agreement may be executed in one or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument.\n\n        13. Non-Compliance. If any provision of this Agreement conflicts with any law, rule or regulation of any federal, state or self-regulatory organization, or any other governmental authority having jurisdiction over the activities or services described\n\n                                      -4-\n\nherein, then in that event, the Company and AGI shall amend this Agreement to bring any affected provision into compliance with such regulations.\n\n        14. No Third-Party Beneficiaries. Both Parties intent that this Agreement shall not benefit or create any right or cause of action in or on behalf of any person or entity other than the Parties hereto.\n\n        15. No Party Deemed Drafter. Both Parties agree that they have each materially and fully participated in the negotiation and drafting of this Agreement and, if this Agreement ever should be the subject of interpretation by a court or arbitrator, it shall not be construed or interpreted against either Party for the reason that it was drafted by only one Party.\n\n        16. Headings. The headings in this Agreement are for reference purposes only and shall not in any way affect the meaning or interpretation of this Agreement. Whenever the context so requires or permits, all references to the masculine herein shall include the feminine and neuter, all references to the neuter herein shall include the masculine and feminine, all references to the plural shall include the singular and all references to the singular shall include the plural.\n\n        17. Attorneys' Fees. If legal action shall be necessary to enforce any of the provisions of this Agreement, the prevailing party shall be entitled to reasonable attorneys' fees and costs incurred thereby.\n\n        18. Further Assurances. At any time and from time to time, both Parties agree, without further consideration, to take such actions and to execute and deliver such documents as may be reasonably necessary to effectuate the purposes of this Agreement.\n\n        19. No Implied Waivers. This Agreement may be amended, modified, superseded, cancelled, renewed or extended, and the terms and conditions hereof may be waived, only by a written instrument signed by the Parties or, in the case of a waiver, by the Party waiving compliance. No delay on the part of any Party in exercising any right, power or privilege hereunder shall operate as a waiver thereof, nor shall any waiver on the part of any Party of any right, power or privilege hereunder, nor any single or partial exercise of any right, power or privilege hereunder, preclude any other or further exercise thereof or the exercise of any other right, power or privilege hereunder.\n\n              [The balance of this page intentionally left blank.]\n\n                                      -5-\n\n               IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed the day and year first above written.\n\nAffinity Group, Inc.\n\nBy:  /s/ Paul E. Schedler     ------------------------------- Name: Paul E. Schedler Title: Vice President\n\nHoliday RV Superstores, Inc.\n\nBy: /s/ Marcus A. Lemonis     ------------------------------- Name:   Marcus A. Lemonis Title:  Chief Executive Officer\n\n                                      -6-"
+  }
+]

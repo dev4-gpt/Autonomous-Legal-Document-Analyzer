@@ -1,0 +1,334 @@
+[
+  {
+    "qas": [
+      {
+        "answers": [
+          {
+            "text": "MARINE TRANSPORTATION AGREEMENT",
+            "answer_start": 54
+          }
+        ],
+        "id": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT__Document Name",
+        "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "Midstream Fuel Service LLC",
+            "answer_start": 246
+          },
+          {
+            "text": "Charterer",
+            "answer_start": 313
+          },
+          {
+            "text": "Owner",
+            "answer_start": 233
+          },
+          {
+            "text": "Martin Operating Partnership L.P.",
+            "answer_start": 165
+          }
+        ],
+        "id": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT__Parties",
+        "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "23rd day of December, 2003",
+            "answer_start": 122
+          }
+        ],
+        "id": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT__Agreement Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "23rd day of December, 2003",
+            "answer_start": 122
+          }
+        ],
+        "id": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT__Effective Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Effective Date\" that should be reviewed by a lawyer. Details: The date when the contract is effective\u00a0",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "The initial term of this Agreement shall be for 3 years (the \"Initial Term\") commencing on the date first set forth above (the \"Commencement Date\") and ending on the 3rd anniversary of the Commencement Date.",
+            "answer_start": 597
+          }
+        ],
+        "id": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT__Expiration Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "This Agreement will automatically renew for successive one year terms (each a \"Renewal Term\", and together with the Initial Term, the \"Term\"), unless either Charterer or Owner elects not to renew this Agreement by providing the other party with written notice of such election 30 days prior to the expiration of the Initial Term or Renewal Term, as applicable, at which point this Agreement will automatically terminate.",
+            "answer_start": 805
+          }
+        ],
+        "id": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT__Renewal Term",
+        "question": "Highlight the parts (if any) of this contract related to \"Renewal Term\" that should be reviewed by a lawyer. Details: What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "This Agreement will automatically renew for successive one year terms (each a \"Renewal Term\", and together with the Initial Term, the \"Term\"), unless either Charterer or Owner elects not to renew this Agreement by providing the other party with written notice of such election 30 days prior to the expiration of the Initial Term or Renewal Term, as applicable, at which point this Agreement will automatically terminate.",
+            "answer_start": 805
+          }
+        ],
+        "id": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT__Notice Period To Terminate Renewal",
+        "question": "Highlight the parts (if any) of this contract related to \"Notice Period To Terminate Renewal\" that should be reviewed by a lawyer. Details: What is the notice period required to terminate renewal?",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "This Agreement shall be governed by and construed in accordance with the laws of the State of Texas.",
+            "answer_start": 5666
+          }
+        ],
+        "id": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT__Governing Law",
+        "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT__Most Favored Nation",
+        "question": "Highlight the parts (if any) of this contract related to \"Most Favored Nation\" that should be reviewed by a lawyer. Details: Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT__Non-Compete",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Compete\" that should be reviewed by a lawyer. Details: Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "During the Term, Charterer agrees that Owner will be the sole and exclusive provider of marine transportation services for #2 fuel oil and high sulfur diesel owned by Charterer or owned by others and in transit for sale to Charterer so long as Owner has the required equipment available.",
+            "answer_start": 2145
+          }
+        ],
+        "id": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT__Exclusivity",
+        "question": "Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing\u00a0 commitment with the counterparty? This includes a commitment to procure all \u201crequirements\u201d from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on\u00a0 collaborating or working with other parties), whether during the contract or\u00a0 after the contract ends (or both).",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT__No-Solicit Of Customers",
+        "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Customers\" that should be reviewed by a lawyer. Details: Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT__Competitive Restriction Exception",
+        "question": "Highlight the parts (if any) of this contract related to \"Competitive Restriction Exception\" that should be reviewed by a lawyer. Details: This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT__No-Solicit Of Employees",
+        "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Employees\" that should be reviewed by a lawyer. Details: Is there a restriction on a party\u2019s soliciting or hiring employees and/or contractors from the\u00a0 counterparty, whether during the contract or after the contract ends (or both)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT__Non-Disparagement",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Disparagement\" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT__Termination For Convenience",
+        "question": "Highlight the parts (if any) of this contract related to \"Termination For Convenience\" that should be reviewed by a lawyer. Details: Can a party terminate this\u00a0 contract without cause (solely by giving a notice and allowing a waiting\u00a0 period to expire)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT__Rofr/Rofo/Rofn",
+        "question": "Highlight the parts (if any) of this contract related to \"Rofr/Rofo/Rofn\" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT__Change Of Control",
+        "question": "Highlight the parts (if any) of this contract related to \"Change Of Control\" that should be reviewed by a lawyer. Details: Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "Neither party shall assign this Agreement without the express written consent of the other party.",
+            "answer_start": 5188
+          },
+          {
+            "text": "Charterer shall not be permitted to sublet the use of any vessels to any third party.",
+            "answer_start": 12142
+          }
+        ],
+        "id": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT__Anti-Assignment",
+        "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT__Revenue/Profit Sharing",
+        "question": "Highlight the parts (if any) of this contract related to \"Revenue/Profit Sharing\" that should be reviewed by a lawyer. Details: Is one party required to share revenue or profit with the counterparty for any technology, goods, or\u00a0services?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT__Price Restrictions",
+        "question": "Highlight the parts (if any) of this contract related to \"Price Restrictions\" that should be reviewed by a lawyer. Details: Is there a restriction on the\u00a0 ability of a party to raise or reduce prices of technology, goods, or\u00a0 services provided?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT__Minimum Commitment",
+        "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT__Volume Restriction",
+        "question": "Highlight the parts (if any) of this contract related to \"Volume Restriction\" that should be reviewed by a lawyer. Details: Is there a fee increase or consent requirement, etc. if one party\u2019s use of the product/services exceeds certain threshold?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT__Ip Ownership Assignment",
+        "question": "Highlight the parts (if any) of this contract related to \"Ip Ownership Assignment\" that should be reviewed by a lawyer. Details: Does intellectual property created\u00a0 by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT__Joint Ip Ownership",
+        "question": "Highlight the parts (if any) of this contract related to \"Joint Ip Ownership\" that should be reviewed by a lawyer. Details: Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT__License Grant",
+        "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT__Non-Transferable License",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Transferable License\" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT__Affiliate License-Licensor",
+        "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensor\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT__Affiliate License-Licensee",
+        "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensee\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT__Unlimited/All-You-Can-Eat-License",
+        "question": "Highlight the parts (if any) of this contract related to \"Unlimited/All-You-Can-Eat-License\" that should be reviewed by a lawyer. Details: Is there a clause granting one party an \u201centerprise,\u201d \u201call you can eat\u201d or unlimited usage license?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT__Irrevocable Or Perpetual License",
+        "question": "Highlight the parts (if any) of this contract related to \"Irrevocable Or Perpetual License\" that should be reviewed by a lawyer. Details: Does the contract contain a\u00a0 license grant that is irrevocable or perpetual?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT__Source Code Escrow",
+        "question": "Highlight the parts (if any) of this contract related to \"Source Code Escrow\" that should be reviewed by a lawyer. Details: Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,\u00a0 insolvency, etc.)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT__Post-Termination Services",
+        "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT__Audit Rights",
+        "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT__Uncapped Liability",
+        "question": "Highlight the parts (if any) of this contract related to \"Uncapped Liability\" that should be reviewed by a lawyer. Details: Is a party\u2019s liability uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation.",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "The foregoing indemnities shall expressly exclude any liability for consequential, punitive, special or similar damages, including, without limitation, lost profits.",
+            "answer_start": 9938
+          }
+        ],
+        "id": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT__Cap On Liability",
+        "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party\u2019s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT__Liquidated Damages",
+        "question": "Highlight the parts (if any) of this contract related to \"Liquidated Damages\" that should be reviewed by a lawyer. Details: Does the contract contain a clause that would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [
+          {
+            "text": "Owner shall, before and at commencement of each voyage by any vessel under this Agreement, exercise commercially reasonable efforts to ensure that such vessel is seaworthy and in good operating condition, properly manned, equipped and supplied for the voyage, to ensure that the pipes, pumps and coils tight, staunch, are in good operating condition and fit for the voyage, and to ensure that the tanks and other spaces in which product is to be carried are in good operating condition and fit for the carriage and preservation of the same.",
+            "answer_start": 11241
+          }
+        ],
+        "id": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT__Warranty Duration",
+        "question": "Highlight the parts (if any) of this contract related to \"Warranty Duration\" that should be reviewed by a lawyer. Details: What is the duration of any\u00a0 warranty against defects or errors in technology, products, or services\u00a0 provided under the contract?",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "Owner covenants that it will maintain at all times during the Term of this Agreement insurance coverage for sudden and accidental pollution of $500,000,000.",
+            "answer_start": 10474
+          }
+        ],
+        "id": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT__Insurance",
+        "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT__Covenant Not To Sue",
+        "question": "Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty\u2019s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT__Third Party Beneficiary",
+        "question": "Highlight the parts (if any) of this contract related to \"Third Party Beneficiary\" that should be reviewed by a lawyer. Details: Is there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?",
+        "is_impossible": true
+      }
+    ],
+    "context": "EXHIBIT 10.3\n\nTRANSPORTATION SERVICES AGREEMENT\n\nTHIS MARINE TRANSPORTATION AGREEMENT (this \"Agreement\") is executed this 23rd day of December, 2003, by and between Martin Operating Partnership L.P., a Delaware limited partnership (\"Owner\"), and Midstream Fuel Service LLC, an Alabama limited liability company (\"Charterer\"), in order to evidence the agreement of such parties with respect to Owner's provision of marine transportation services with respect to #2 fuel oil and high sulfur diesel on board its marine vessels under the following terms and conditions.\n\n      1. TERM; TERMINATION\n\n\n\nThe initial term of this Agreement shall be for 3 years (the \"Initial Term\") commencing on the date first set forth above (the \"Commencement Date\") and ending on the 3rd anniversary of the Commencement Date. This Agreement will automatically renew for successive one year terms (each a \"Renewal Term\", and together with the Initial Term, the \"Term\"), unless either Charterer or Owner elects not to renew this Agreement by providing the other party with written notice of such election 30 days prior to the expiration of the Initial Term or Renewal Term, as applicable, at which point this Agreement will automatically terminate.\n\n\n\nWithin 30 days of the end of the Initial Term, and within 30 days of the end of each Renewal Term, both parties hereto shall have the right renegotiate the fee specified below for the use of the vessels. If no such agreement on such fee is reached by such parties by the commencement of a Renewal Term, this Agreement shall automatically terminate.\n\n\n\nEither party hereto shall have the right to terminate this Agreement in the event of a breach by the other party of its obligations hereunder, subject to 10 days prior written notice of such breach given by the non-breaching party to the breaching party and the opportunity for such breaching party to cure such breach during such 10 day period.           Upon any such termination, this Agreement shall thereafter have no further force or effect except as to already accrued rights and obligations, which shall continue until satisfied.       2. GENERAL TERMS\n\n\n\nDuring the Term, Charterer agrees that Owner will be the sole and exclusive provider of marine transportation services for #2 fuel oil and high sulfur diesel owned by Charterer or owned by others and in transit for sale to Charterer so long as Owner has the required equipment available. Owner shall at all times provide sufficient and proper equipment for Charterer's performance of such transportation. Said equipment shall be manned, equipped, supplied and operated by Owner. The master and crew of said vessels shall be fully qualified, experience and, where necessary, certified and licensed. Owner agrees that said equipment shall be maintained in a seaworthy, staunch, tight and suitable condition and, to the best of Owner's knowledge, in compliance with all applicable laws and regulations.\n\n\n\nIn connection with its use of any vessel, Charterer will follow Owner's normal scheduling, loading and offloading protocols established from time to time, subject to Owner's obligations set forth in this Agreement.\n\n1\n\n\n\n\n\n\n\n\n\n      3. RATE\n\n\n\nCharterer agrees to pay to Owner a fee of $______ per gallon of product transported. Owner will invoice such fees to Charterer on a monthly basis and Charterer will pay such invoiced amounts within 30 days of invoice date.\n\n\n\nThe fee stated above, unless otherwise adjusted by the parties pursuant to Section 1 above, shall be adjusted annually (both upward and downward), by a factor equal to the amount of increase or decrease, as the case may be, in the Consumer Price Index for the immediately proceeding month of November, over the Consumer Price Index for November of the preceding year. For purposes hereof, the term \"Consumer Price Index\" shall mean the \"Consumer Price Index for Urban Wage Earners and Clerical Workers (1967=100)\" specified for \"All Items. United States\" compiled by the Bureau of Labor Statistics of the United States Department of Labor (the \"Index\"). In the event the Consumer Price Index shall be converted to a different standard reference base or otherwise revised, the determination of the percentage change shall be made with the use of such conversion factor, formula or table for converting the Consumer Price Index as may be published by the Bureau of Labor Statistics or, if said Bureau shall not publish the same, then as shall be reasonably determined by the parties.       4. LOAD AND DISCHARGE\n\n\n\nThe Load Port shall be FOB Refinery Offtake in the U.S. Gulf of Mexico. The Discharge Port shall be at the Owner's terminals located at Venice, LA; Port Forrochon, LA; Berwick, LA; Intracoastal City, LA; Cameron, LA; Sabine Pass, TX; Beaumont, TX; Galveston, TX; Houston, TX; Freeport, TX; Port O'Connor, TX; and Harbor Island, TX.       5. TITLE TO PRODUCT\n\n\n\nTitle to all product handled shall remain at all times in the name of the Charterer. The Charterer agrees not to tender for load any product injurious to the vessels or which product would render the vessels unfit, after cleaning, for the proper storage of similar product.       6. ASSIGNMENT   Neither party shall assign this Agreement without the express written consent of the other party.       7. ENTIRE AGREEMENT\n\n\n\nThis Agreement shall constitute the entire agreement concerning the subject hereof between the parties superseding all previous agreements, negotiations and representations made prior or contemporaneous to the date hereof. This Agreement shall be modified or amended only by written agreement executed by both parties hereto.       8. GOVERNING LAW   This Agreement shall be governed by and construed in accordance with the laws of the State of Texas.       9. ADDITIONAL TERMS   The \"Additional Terms\" attached hereto as Exhibit A shall be deemed to be incorporated into this Agreement by this reference.\n\n2\n\n\n\n\n\n\n\nIN WITNESS WHEREOF, the parties have executed this Agreement as of the date first set forth above.\n\n          MARTIN OPERATING PARTNERSHIP L.P.           By: Martin Operating GP LLC, Its General Partner         By: Martin Midstream Partners L.P., Its Sole Member         By: Martin Midstream GP LLC, Its General Partner           By: /s/ RUBEN S. MARTIN         Ruben S. Martin     Chief Executive Officer and President               MIDSTREAM FUEL SERVICE LLC               By:   Martin Resource Management Corporation, its Sole Member                         By: /s/ RUBEN S. MARTIN\n\n        Name: Ruben S. Martin                 Title: Chief Executive Officer and President\n\n3\n\n\n\n\n\n\n\nEXHIBIT A\n\nADDITIONAL TERMS\n\nThese additional terms are deemed to be incorporated by reference into this Agreement.\n\n1. INVOICING & PAYMENT. All monthly Owner invoices to Charterer for rates and cost items will be paid by Charterer within 30 days of invoice date in accordance with Owner's normal payment protocols, which will be specified in the applicable invoice. Each monthly invoice shall be itemized to include charges by applicable vessel by day.\n\n2. DEMISE OF CHARTER. The Master of an applicable vessel, although appointed by and in the employ of Owner and subject to Owner's direction and control, shall observe the reasonable instructions of Charterer in connection with Charterer's transportation needs under this Agreement; PROVIDED, HOWEVER, THAT NOTHING IN THIS CLAUSE OR ELSEWHERE IN THIS AGREEMENT SHALL BE CONSTRUED AS CREATING A DEMISE OF THE APPLICABLE VESSEL TO CHARTERER OR AS VESTING CHARTERER WITH ANY CONTROL OVER THE PHYSICAL OPERATION OR NAVIGATION OF THE APPLICABLE VESSEL.\n\n3. POLLUTION PREVENTION. Owner will, in the case of an escape or discharge of products or threat of escape or discharge of same from the applicable vessel into the navigable waters of the United States, promptly undertake such measures as are reasonably necessary or which may be required by applicable laws, rules and regulations to mitigate the resultant pollution damage; provided, however, that Charterer may at its option, and upon notice to Owner and on the conditions hereinafter set forth, undertake such measures. Charterer shall keep Owner advised of any such measures to be undertaken by it under such circumstances. Any of such measures actually undertaken by Charterer shall be at Owner's expense (except to the extent that such escape or discharge was caused or contributed to by Charterer). If Owner believes that any such measures undertaken by Charterer should not be undertaken or should be discontinued, Owner may so notify Charterer and thereafter Charterer, if it elects to continue such measures, shall do so at its own risk and expense.\n\n4. INDEMNITY. Owner covenants and agrees to fully defend, protect, indemnify and hold harmless Charterer and its affiliates from and against each and every claim, demand, cause of action, liability, damage, cost or expense (including, but not limited to, reasonable attorney's fees and expenses incurred in the defense of Charterer), resulting from any damage to property or injury or death to persons caused, directly or indirectly, by Owner's acts or omissions in connection with Owner's provision of marine transportation services hereunder, except to the extent caused, directly or indirectly, by the acts or omissions of Charterer.\n\nCharterer covenants and agrees to fully defend, protect, indemnify and hold harmless Owner and its affiliates from and against each and every claim, demand, cause of action, liability, damage, cost or expense (including, but not limited to, reasonable attorney's fees and expenses incurred in the defense of Owner), resulting from any damage to property or injury or death to persons caused, directly or indirectly, by Charterer's acts or omissions in connection with Charterer's use of marine transportation services hereunder, except to the extent caused, directly or indirectly, by the acts or omissions of Owner.\n\nThe foregoing indemnities shall expressly exclude any liability for consequential, punitive, special or similar damages, including, without limitation, lost profits.\n\n5. COMPLIANCE WITH LAW; INSURANCE: During the Term of this Agreement, Owner shall comply in all material respects with applicable laws, including, without limitation applicable environmental, health, safety and financial responsibility laws, rules and regulations, applicable to the use of the Vessel for bulk crude oil or finished lubricating products transportation. Owner covenants that it will maintain at all times during the Term of this Agreement insurance coverage for sudden and accidental pollution of $500,000,000.\n\n4\n\n\n\n\n\n\n\n6. CHARTERER'S REPRESENTATIVES: Charterer's representatives may board any vessel used under this Agreement at any convenient place to observe cargo-handling operations, to inspect logs and certificates, and to confirm that Owner is fulfilling its obligations under this Agreement.\n\n7. DRUG & ALCOHOL ABUSE POLICY: Owner warrants that it will maintain and enforce at all times during the Term of this Agreement a drug and alcohol abuse policy applicable to the vessels which complies in all material respects with the minimum standards promulgated by the U.S. Coast Guard.\n\n8. CONDITION OF EQUIPMENT: Owner shall, before and at commencement of each voyage by any vessel under this Agreement, exercise commercially reasonable efforts to ensure that such vessel is seaworthy and in good operating condition, properly manned, equipped and supplied for the voyage, to ensure that the pipes, pumps and coils tight, staunch, are in good operating condition and fit for the voyage, and to ensure that the tanks and other spaces in which product is to be carried are in good operating condition and fit for the carriage and preservation of the same. To the extent required by applicable law, Owner will maintain at all times during the Term of this Agreement a valid and subsisting certificate or other permit issued by the U.S. Coast Guard (or other governmental bureau or department having jurisdiction) approving the applicable vessel for the transportation and carriage of inflammable liquids.\n\n9. SUBLET: Charterer shall not be permitted to sublet the use of any vessels to any third party.\n\n10. FORCE MAJEURE: The vessels, their captains and Owner shall not, unless otherwise in this Agreement expressly provided, be responsible for any loss or damage arising or resulting from: any act, default or barratry of the captain, pilots, mariners, or other servants of Owner in the navigation or management of such vessel; fire, unless caused by the personal design or neglect of Owner; collision, stranding or peril, danger or accident of navigable waters; saving or attempting to save life or property; wastage in weight or bulk, or any other loss or damage arising from inherent defect, quality or vice of the cargo; any act or omission of Charterer, Owner, any other shipper or any consignee of the cargo, their agents or representatives; insufficiency or inadequacy of marks; explosion, bursting of boilers, breakage of shafts, or any latent defect in hull, equipment or machinery; unseaworthiness of any vessel unless caused by want or due diligence on the part of Owner to make such vessel seaworthy or to have it properly manned, equipped and supplied; or from any other cause of whatsoever kind arising without the actual fault of Owner. And neither the vessels, their captains or Owner, nor the Charterer, shall, unless otherwise in this Agreement expressly provided, be responsible for any loss or damage or delay or failure in performing hereunder arising or resulting from; act of God, act of war; act of public enemies, pirates or assailing thieves; acts of terrorism; arrest or restraint of princes, rulers of people, or seizure under legal process provided bond is promptly furnished to release such vessel or cargo; strike or lockout or stoppage or restraint of labor from whatever cause, either partial or general, or riot or civil commotion.\n\n5"
+  }
+]

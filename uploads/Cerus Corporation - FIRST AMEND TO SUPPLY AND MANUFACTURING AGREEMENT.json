@@ -1,0 +1,285 @@
+[
+  {
+    "qas": [
+      {
+        "answers": [
+          {
+            "text": "FIRST AMENDMENT TO SUPPLY AND MANUFACTURING AGREEMENT",
+            "answer_start": 257
+          }
+        ],
+        "id": "Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__Document Name",
+        "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "Porex",
+            "answer_start": 448
+          },
+          {
+            "text": "Cerus Corporation",
+            "answer_start": 416
+          },
+          {
+            "text": "Porex Corporation",
+            "answer_start": 448
+          },
+          {
+            "text": "Cerus",
+            "answer_start": 416
+          }
+        ],
+        "id": "Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__Parties",
+        "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "22 day of June 2018",
+            "answer_start": 507
+          }
+        ],
+        "id": "Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__Agreement Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract",
+        "is_impossible": false
+      },
+      {
+        "answers": [
+          {
+            "text": "April 1, 2018",
+            "answer_start": 2187
+          }
+        ],
+        "id": "Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__Effective Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Effective Date\" that should be reviewed by a lawyer. Details: The date when the contract is effective\u00a0",
+        "is_impossible": false
+      },
+      {
+        "answers": [],
+        "id": "Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__Expiration Date",
+        "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__Renewal Term",
+        "question": "Highlight the parts (if any) of this contract related to \"Renewal Term\" that should be reviewed by a lawyer. Details: What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__Notice Period To Terminate Renewal",
+        "question": "Highlight the parts (if any) of this contract related to \"Notice Period To Terminate Renewal\" that should be reviewed by a lawyer. Details: What is the notice period required to terminate renewal?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__Governing Law",
+        "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__Most Favored Nation",
+        "question": "Highlight the parts (if any) of this contract related to \"Most Favored Nation\" that should be reviewed by a lawyer. Details: Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__Non-Compete",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Compete\" that should be reviewed by a lawyer. Details: Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__Exclusivity",
+        "question": "Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing\u00a0 commitment with the counterparty? This includes a commitment to procure all \u201crequirements\u201d from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on\u00a0 collaborating or working with other parties), whether during the contract or\u00a0 after the contract ends (or both).",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__No-Solicit Of Customers",
+        "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Customers\" that should be reviewed by a lawyer. Details: Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__Competitive Restriction Exception",
+        "question": "Highlight the parts (if any) of this contract related to \"Competitive Restriction Exception\" that should be reviewed by a lawyer. Details: This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__No-Solicit Of Employees",
+        "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Employees\" that should be reviewed by a lawyer. Details: Is there a restriction on a party\u2019s soliciting or hiring employees and/or contractors from the\u00a0 counterparty, whether during the contract or after the contract ends (or both)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__Non-Disparagement",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Disparagement\" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__Termination For Convenience",
+        "question": "Highlight the parts (if any) of this contract related to \"Termination For Convenience\" that should be reviewed by a lawyer. Details: Can a party terminate this\u00a0 contract without cause (solely by giving a notice and allowing a waiting\u00a0 period to expire)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__Rofr/Rofo/Rofn",
+        "question": "Highlight the parts (if any) of this contract related to \"Rofr/Rofo/Rofn\" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__Change Of Control",
+        "question": "Highlight the parts (if any) of this contract related to \"Change Of Control\" that should be reviewed by a lawyer. Details: Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__Anti-Assignment",
+        "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__Revenue/Profit Sharing",
+        "question": "Highlight the parts (if any) of this contract related to \"Revenue/Profit Sharing\" that should be reviewed by a lawyer. Details: Is one party required to share revenue or profit with the counterparty for any technology, goods, or\u00a0services?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__Price Restrictions",
+        "question": "Highlight the parts (if any) of this contract related to \"Price Restrictions\" that should be reviewed by a lawyer. Details: Is there a restriction on the\u00a0 ability of a party to raise or reduce prices of technology, goods, or\u00a0 services provided?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__Minimum Commitment",
+        "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__Volume Restriction",
+        "question": "Highlight the parts (if any) of this contract related to \"Volume Restriction\" that should be reviewed by a lawyer. Details: Is there a fee increase or consent requirement, etc. if one party\u2019s use of the product/services exceeds certain threshold?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__Ip Ownership Assignment",
+        "question": "Highlight the parts (if any) of this contract related to \"Ip Ownership Assignment\" that should be reviewed by a lawyer. Details: Does intellectual property created\u00a0 by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__Joint Ip Ownership",
+        "question": "Highlight the parts (if any) of this contract related to \"Joint Ip Ownership\" that should be reviewed by a lawyer. Details: Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__License Grant",
+        "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__Non-Transferable License",
+        "question": "Highlight the parts (if any) of this contract related to \"Non-Transferable License\" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__Affiliate License-Licensor",
+        "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensor\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?\u00a0",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__Affiliate License-Licensee",
+        "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensee\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__Unlimited/All-You-Can-Eat-License",
+        "question": "Highlight the parts (if any) of this contract related to \"Unlimited/All-You-Can-Eat-License\" that should be reviewed by a lawyer. Details: Is there a clause granting one party an \u201centerprise,\u201d \u201call you can eat\u201d or unlimited usage license?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__Irrevocable Or Perpetual License",
+        "question": "Highlight the parts (if any) of this contract related to \"Irrevocable Or Perpetual License\" that should be reviewed by a lawyer. Details: Does the contract contain a\u00a0 license grant that is irrevocable or perpetual?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__Source Code Escrow",
+        "question": "Highlight the parts (if any) of this contract related to \"Source Code Escrow\" that should be reviewed by a lawyer. Details: Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,\u00a0 insolvency, etc.)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__Post-Termination Services",
+        "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__Audit Rights",
+        "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__Uncapped Liability",
+        "question": "Highlight the parts (if any) of this contract related to \"Uncapped Liability\" that should be reviewed by a lawyer. Details: Is a party\u2019s liability uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__Cap On Liability",
+        "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party\u2019s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__Liquidated Damages",
+        "question": "Highlight the parts (if any) of this contract related to \"Liquidated Damages\" that should be reviewed by a lawyer. Details: Does the contract contain a clause that would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__Warranty Duration",
+        "question": "Highlight the parts (if any) of this contract related to \"Warranty Duration\" that should be reviewed by a lawyer. Details: What is the duration of any\u00a0 warranty against defects or errors in technology, products, or services\u00a0 provided under the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__Insurance",
+        "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__Covenant Not To Sue",
+        "question": "Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty\u2019s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+        "is_impossible": true
+      },
+      {
+        "answers": [],
+        "id": "Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__Third Party Beneficiary",
+        "question": "Highlight the parts (if any) of this contract related to \"Third Party Beneficiary\" that should be reviewed by a lawyer. Details: Is there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?",
+        "is_impossible": true
+      }
+    ],
+    "context": "[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. EXHIBIT 10.2 FIRST AMENDMENT TO SUPPLY AND MANUFACTURING AGREEMENT This First Amendment (\"Amendment\") to the Supply and Manufacturing Agreement dated April 1, 2017 between Cerus Corporation (\"Cerus\") and Porex Corporation (\"Porex\") (the \"Agreement\") is made this 22 day of June 2018. RECITALS A. Cerus and Porex have agreed to make certain changes to the raw material and process to develop Components and such changes have resulted in a change to the cost and expense structure originally contemplated by the Agreement; B. Pursuant to Section 3 of the Agreement, Cerus and Porex have mutually agreed to temporarily modify the pricing for Platelet Wafers set forth on Exhibit D and to proactively set a cost structure for non-production related work. NOW THEREFORE, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged and accepted, the parties hereby agree to amend the Agreement as follows: 1. New Exhibits AA-1, AA-2, AA-3 and AA-4, as set forth in Schedule 1 to this Amendment, shall be attached to the Agreement (inserted between Exhibit A-5 and Exhibit B-1) and incorporated therein by reference. The parties acknowledge and agree that Exhibits AA-1, AA-2, AA-3 and AA-4 set forth the revised specifications for Platelet Wafers manufactured by Porex for Cerus (collectively, the \"Revised Wafer Specifications\"). Unless otherwise agreed in writing, Porex shall continue to manufacture and produce Platelet Wafers using the existing specifications for Platelet Wafers until Cerus gives written notice to Porex that Platelet Wafers shall be thereafter manufactured in accordance with the Revised Wafer Specifications. References in the Agreement to \"Specifications\" shall be interpreted to include the Revised Wafer Specifications, as applicable. 2. A new Exhibit D-1, as set forth in Schedule 2 to this Amendment, shall be attached to the Agreement and incorporated therein by reference. As of April 1, 2018 and continuing until Cerus determines, in its sole discretion, that the Protocol EPP-029-886 under which Porex is currently operating can be discontinued, the price for Platelet Wafers shall be the prices set forth in Exhibit D-1. Upon Cerus' determination that the Protocol EPP-029- 886 can be discontinued, Cerus shall provide written notice thereof to Porex, along with a new purchase order for Platelet Wafers (the \"New Pricing PO\"). On and after the date of such notice, the \"Pricing\" table for Platelet Wafers in Exhibit D, as of the date immediately preceding the date of this Amendment, shall be reinstated and apply to Platelet Wafers that are produced pursuant to the New Pricing PO and were also produced after the date of the written notice. References in Section 1.5.1 of the Agreement to \"Exhibit D\" shall be amended to include \"Exhibit D-1,\" as applicable. 3. The penultimate sentence in Section 1.3 shall be deleted in its entirety and replaced with the following: \"In no event shall any Purchase Order: require delivery of more than [*] units of [*] and [*] units of [*] in any [*] (the \"Porex Capacity Limitations\").\" 4. A new Section 1.5.3 shall be added to the Agreement as follows:\n\n\n\n\n\n1.5.3 Porex will invoice Cerus monthly for Services performed by Porex during the prior month. Unless otherwise expressly provided in the applicable Statement of Work payment to Porex of undisputed fees shall be due [*] days following Cerus' receipt of the invoice submitted by Porex. Payment information, including Tax Identification Number will be included on each invoice.\n\nCerus shall have the right to accept or reject the Services, or any portion thereof, in writing within [*] days from Porex's completion of the Services. Such acceptance or rejection shall be consistent with the criteria set forth in the Statement of Work, if any. If Cerus does not reject in writing within [*] days, the Services shall be considered accepted by Cerus. Within [*] days of any notice of rejection, Porex shall present a corrective plan of action to Cerus. Upon approval by Cerus of the corrective plan, Porex, at no additional expense to Cerus, shall then make the corrections and, where applicable, Porex shall resubmit the corrected Services to Cerus. For disputed invoices or the disputed portion of an invoice, Cerus shall use reasonable efforts to provide to Porex, in writing, within [*] days, a description of the disputed amounts. Cerus and Porex shall negotiate in a timely, good faith manner to resolve billing queries. Cerus will not have responsibility to pay for identified errors, incomplete or inaccurate items (collectively the \"invoice errors\") which result in increases to previously invoiced amounts if the aforementioned invoice errors are communicated to Cerus later than [*] days from the original invoice date.\n\n5. A new Section 3a shall be added to the Agreement as follows: \"3a Non-Production Related Work. From time to time, Cerus may submit to Porex written work orders substantially in the form of Schedule 3 that specify development activities, engineering analysis, part, material and/or fixture design and development, or other services or activities that Cerus requests Porex to perform that are not activities or services that are necessary for the then-current manufacture and production of Components for Cerus under the Agreement (collectively, as defined in each work order, the \"Services\"). Each work order shall set forth the terms and conditions (including specifications (if applicable), delivery and performance schedules, and fees) pursuant to which Porex will perform the Services. Upon acceptance of a work order by Porex (in writing), such work order shall become a \"Statement of Work.\" If Porex begins to perform services under a work order that has not been formally agreed in writing, then Porex shall bear the costs of any expenses incurred prior to formal written agreement of the Statement of Work. Cerus hereby consents to Porex's use of the Cerus Dedicated Space and Equipment, as specified in a Statement of Work, solely as necessary to perform the Services under that Statement of Work. Such consent shall automatically terminate upon the completion of the applicable Statement of Work and is limited by the terms of the Agreement. In the event of any conflict between the Agreement and a Statement of Work, the Agreement shall control unless the Statement of Work expressly refers to the Parties' intent to alter the terms of the Agreement with respect to that Statement of Work and shall not be construed as an amendment to the terms of the Agreement.\" 6. A new section titled \"Pricing for Non-Production Related Work Orders from Cerus\" is added to Exhibit D as set forth in Schedule 2 attached. Such pricing, upon mutual agreement of the Parties, shall apply to any Statement of Work mutually agreed by the Parties pursuant to Section 3a. 7. No other changes are made to the Agreement, including without limitation, the original Exhibit D, and the Agreement, the Plasma Disk pricing and related information as set forth in Exhibit D remain the same. Except as amended herein, the Agreement shall remain in full force and effect. Capitalized terms not otherwise defined herein shall have the same meanings as set forth in the Agreement. IN WITNESS WHEREOF, the undersigned have caused this First Amendment to be signed, all as of the date first written above.\n\n[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended.\n\n\n\n\n\nPorex: Porex Corporation By: /s/ Tore Wistedt Name: Tore Wistedt Title: SR VP Global Strategy Marketing\n\nCerus: Cerus Corporation By: /s/ Kevin D. Green Name: Kevin D. Green Title: VP Finance and CFO\n\n[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended.\n\n\n\n\n\nSchedule 1 Exhibit AA-1 SPC 00562 {7 pages omitted}\n\n[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended.\n\n\n\n\n\nExhibit AA-2 SPC 00628 {3 pages omitted}\n\n[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended.\n\n\n\n\n\nExhibit AA-3 SPC 00628A {3 pages omitted}\n\n[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended.\n\n\n\n\n\nExhibit AA-4 SPC 00628B {2 pages omitted}\n\n[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended.\n\n\n\n\n\nSchedule 2 Exhibit D-1 Pricing [*] Pricing [*]\n\n[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended.\n\n\n\n\n\nSCHEDULE 3\n\nFORM STATEMENT OF WORK\n\nThis Statement of Work is incorporated into the Amended and Restated Supply and Manufacturing Agreement dated April 1, 2017 by and between Cerus Corporation and Porex Corporation, as amended by First Amendment to Supply and Manufacturing Agreement, effective April 1, 2018 (for the purposes of this Statement of Work, the \"Agreement\"). This Statement of Work describes Services to be performed and provided by Porex pursuant to the Agreement. All capitalized terms used and not expressly defined in this Statement of Work will have the meanings given to them in the Agreement. Approach Deliverables Obligations of Cerus, if any Specifications Points of Contact For Cerus: Contact name Address Phone Email For Porex: Contact name Address Phone Email Budget Payment Schedule In full consideration for Porex's timely and satisfactory performance of the Services, Porex will be compensated as follows: Term\n\n[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended.\n\n\n\n\n\nThe term of this Statement of Work will begin on ___________ and shall terminate on ____________.\n\nCerus Corporation\n\nSigned: Name: Title: Dated:\n\nPorex Corporation\n\nSigned: Name: Title: Dated:\n\n[*] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended."
+  }
+]
