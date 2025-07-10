@@ -1,0 +1,67 @@
+version: '3.8'
+
+services:
+  legal-analyzer:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: production
+    container_name: legal-document-analyzer
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+      - ./.env:/app/.env
+    environment:
+      - ENVIRONMENT=production
+      - PYTHONPATH=/app/src
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8501/_stcore/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    networks:
+      - legal-analyzer-network
+
+  # Optional: Add Ollama service for local LLM
+  ollama:
+    image: ollama/ollama:latest
+    container_name: ollama-server
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+    restart: unless-stopped
+    networks:
+      - legal-analyzer-network
+    profiles:
+      - ollama
+
+  # Optional: Add PostgreSQL for production database
+  postgres:
+    image: postgres:15-alpine
+    container_name: legal-analyzer-db
+    environment:
+      POSTGRES_DB: legal_analyzer
+      POSTGRES_USER: legal_user
+      POSTGRES_PASSWORD: legal_password
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    restart: unless-stopped
+    networks:
+      - legal-analyzer-network
+    profiles:
+      - postgres
+
+volumes:
+  ollama_data:
+  postgres_data:
+
+networks:
+  legal-analyzer-network:
+    driver: bridge
