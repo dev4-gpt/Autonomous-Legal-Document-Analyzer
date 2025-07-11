@@ -56,22 +56,41 @@ class UITheme:
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
             margin-bottom: 1rem;
             border-left: 4px solid #1f77b4;
+            color: #333333;
         }
-        
+
+        .custom-card h3, .custom-card h4, .custom-card h5 {
+            color: #1f77b4 !important;
+            margin-bottom: 1rem;
+        }
+
+        .custom-card p, .custom-card div, .custom-card span {
+            color: #333333 !important;
+        }
+
+        .custom-card strong {
+            color: #2c3e50 !important;
+            font-weight: 600;
+        }
+
         .risk-card-low {
             border-left-color: #28a745;
+            background-color: #f8fff9;
         }
-        
+
         .risk-card-medium {
             border-left-color: #ffc107;
+            background-color: #fffdf5;
         }
-        
+
         .risk-card-high {
             border-left-color: #fd7e14;
+            background-color: #fff8f5;
         }
-        
+
         .risk-card-critical {
             border-left-color: #dc3545;
+            background-color: #fff5f5;
         }
         
         /* Metric styling */
@@ -81,19 +100,22 @@ class UITheme:
             border-radius: 0.375rem;
             text-align: center;
             margin-bottom: 1rem;
+            border: 1px solid #e9ecef;
         }
-        
+
         .metric-value {
             font-size: 2rem;
             font-weight: bold;
-            color: #1f77b4;
+            color: #1f77b4 !important;
+            margin-bottom: 0.25rem;
         }
-        
+
         .metric-label {
             font-size: 0.875rem;
-            color: #6c757d;
+            color: #495057 !important;
             text-transform: uppercase;
             letter-spacing: 0.05em;
+            font-weight: 500;
         }
         
         /* Status indicators */
@@ -133,6 +155,53 @@ class UITheme:
         #MainMenu {visibility: hidden;}
         footer {visibility: hidden;}
         header {visibility: hidden;}
+
+        /* Improve text readability */
+        .stExpander > div > div > div > div {
+            color: #333333 !important;
+        }
+
+        .stExpander summary {
+            color: #1f77b4 !important;
+            font-weight: 600 !important;
+        }
+
+        .stMarkdown p, .stMarkdown div, .stMarkdown span {
+            color: #333333 !important;
+        }
+
+        .stMarkdown strong {
+            color: #2c3e50 !important;
+            font-weight: 600 !important;
+        }
+
+        /* Risk badge styling */
+        .risk-badge {
+            display: inline-block;
+            padding: 0.25rem 0.75rem;
+            border-radius: 1rem;
+            font-size: 0.875rem;
+            font-weight: 600;
+            color: white !important;
+            margin-left: 0.5rem;
+        }
+
+        .risk-badge-low { background-color: #28a745; }
+        .risk-badge-medium { background-color: #ffc107; color: #212529 !important; }
+        .risk-badge-high { background-color: #fd7e14; }
+        .risk-badge-critical { background-color: #dc3545; }
+
+        /* Clause content styling */
+        .clause-content {
+            background-color: #f8f9fa;
+            padding: 1rem;
+            border-radius: 0.375rem;
+            margin-top: 0.5rem;
+            font-family: 'Courier New', monospace;
+            white-space: pre-wrap;
+            color: #2c3e50 !important;
+            border: 1px solid #e9ecef;
+        }
         </style>
         """
 
@@ -174,7 +243,7 @@ def render_status_indicator(status: str, text: str) -> None:
     st.markdown(f"""
     <div style="display: flex; align-items: center; margin: 0.5rem 0;">
         <span class="status-indicator {status_class}"></span>
-        <span>{text}</span>
+        <span style="color: #2c3e50 !important; font-weight: 500; margin-left: 0.5rem;">{text}</span>
     </div>
     """, unsafe_allow_html=True)
 
@@ -189,25 +258,30 @@ def render_risk_card(clause_type: str, clause_text: str, risk_level: str,
     display_text = clause_text[:500] + "..." if len(clause_text) > 500 else clause_text
     
     with st.expander(f"🔍 {clause_type} - {risk_level} Risk", expanded=expanded):
+        # Determine risk badge color
+        badge_color = risk_color
+        text_color = "white"
+        if risk_level.lower() == "medium":
+            text_color = "#212529"  # Dark text for yellow background
+
         st.markdown(f"""
         <div class="custom-card {risk_class}">
-            <div style="display: flex; justify-content: between; align-items: center; margin-bottom: 1rem;">
-                <h4 style="margin: 0; color: #333;">{clause_type}</h4>
-                <span style="background-color: {risk_color}; color: white; padding: 0.25rem 0.75rem; 
-                           border-radius: 1rem; font-size: 0.875rem; font-weight: 500;">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
+                <h4 style="margin: 0; color: #2c3e50 !important; font-weight: 600;">{clause_type}</h4>
+                <span class="risk-badge risk-badge-{risk_level.lower()}"
+                      style="background-color: {badge_color}; color: {text_color} !important;">
                     {risk_level} Risk
                 </span>
             </div>
             <div style="margin-bottom: 1rem;">
-                <strong>Clause Content:</strong>
-                <div style="background-color: #f8f9fa; padding: 1rem; border-radius: 0.375rem; 
-                           margin-top: 0.5rem; font-family: monospace; white-space: pre-wrap;">
+                <strong style="color: #2c3e50 !important;">Clause Content:</strong>
+                <div class="clause-content">
                     {display_text}
                 </div>
             </div>
             <div>
-                <strong>Risk Assessment:</strong>
-                <p style="margin-top: 0.5rem; color: #555;">{rationale}</p>
+                <strong style="color: #2c3e50 !important;">Risk Assessment:</strong>
+                <p style="margin-top: 0.5rem; color: #495057 !important; line-height: 1.5;">{rationale}</p>
             </div>
         </div>
         """, unsafe_allow_html=True)
@@ -215,25 +289,30 @@ def render_risk_card(clause_type: str, clause_text: str, risk_level: str,
 
 def render_document_summary_card(analysis_data: Dict[str, Any]) -> None:
     """Render document summary card."""
+    overall_risk = analysis_data.get('overall_risk_level', 'Unknown')
+    risk_color = UITheme.RISK_COLORS.get(overall_risk, '#6c757d')
+    risk_text_color = "white" if overall_risk.lower() != "medium" else "#212529"
+
     st.markdown(f"""
     <div class="custom-card">
-        <h3 style="color: #1f77b4; margin-bottom: 1rem;">📄 Document Summary</h3>
+        <h3 style="color: #1f77b4 !important; margin-bottom: 1rem; font-weight: 600;">📄 Document Summary</h3>
         <div style="margin-bottom: 1rem;">
-            <strong>Contract Type:</strong> 
-            <span style="background-color: #e9ecef; padding: 0.25rem 0.5rem; border-radius: 0.25rem;">
+            <strong style="color: #2c3e50 !important;">Contract Type:</strong>
+            <span style="background-color: #e9ecef; padding: 0.25rem 0.5rem; border-radius: 0.25rem;
+                         color: #2c3e50 !important; font-weight: 500;">
                 {analysis_data.get('contract_type', 'Unknown')}
             </span>
         </div>
         <div style="margin-bottom: 1rem;">
-            <strong>Overall Risk Level:</strong>
-            <span style="background-color: {UITheme.RISK_COLORS.get(analysis_data.get('overall_risk_level', 'Unknown'), '#6c757d')}; 
-                         color: white; padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500;">
-                {analysis_data.get('overall_risk_level', 'Unknown')}
+            <strong style="color: #2c3e50 !important;">Overall Risk Level:</strong>
+            <span class="risk-badge risk-badge-{overall_risk.lower()}"
+                  style="background-color: {risk_color}; color: {risk_text_color} !important;">
+                {overall_risk}
             </span>
         </div>
         <div>
-            <strong>Summary:</strong>
-            <p style="margin-top: 0.5rem; line-height: 1.6; color: #555;">
+            <strong style="color: #2c3e50 !important;">Summary:</strong>
+            <p style="margin-top: 0.5rem; line-height: 1.6; color: #495057 !important;">
                 {analysis_data.get('summary', 'No summary available')}
             </p>
         </div>
