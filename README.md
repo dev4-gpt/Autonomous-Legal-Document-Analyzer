@@ -352,6 +352,395 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - **PyMuPDF**: PDF processing capabilities
 - **SQLAlchemy**: Database ORM
 
+## 🛠️ Development Guide
+
+### **Making Changes to the Application**
+
+The application follows a modular architecture that makes it easy to modify and extend:
+
+#### **📁 Project Structure**
+```
+src/
+├── config/          # Configuration management
+│   └── settings.py  # Environment-based settings
+├── core/            # Core business logic
+│   ├── parser.py    # Document parsing engine
+│   ├── llm_manager.py # Multi-LLM provider management
+│   └── agent.py     # Legal analysis agent
+├── database/        # Data persistence layer
+│   ├── models.py    # SQLAlchemy data models
+│   └── database.py  # Database connection management
+├── ui/              # User interface layer
+│   ├── main_app.py  # Main Streamlit application
+│   └── components.py # Reusable UI components
+└── utils/           # Utility functions
+    └── logger.py    # Comprehensive logging system
+```
+
+#### **🎨 Customizing the UI**
+
+**To modify the user interface:**
+
+1. **Update Colors and Styling** (`src/ui/components.py`):
+   ```python
+   class UITheme:
+       PRIMARY = "#1f77b4"        # Change primary color
+       RISK_COLORS = {            # Modify risk color scheme
+           "Low": "#28a745",
+           "Medium": "#ffc107",
+           "High": "#fd7e14",
+           "Critical": "#dc3545"
+       }
+   ```
+
+2. **Add New Pages** (`src/ui/main_app.py`):
+   ```python
+   def render_new_page(self):
+       """Add your new page here."""
+       st.markdown('<h1 style="color: #2c3e50 !important;">🆕 New Page</h1>',
+                   unsafe_allow_html=True)
+       # Your page content here
+
+   # Add to navigation in render_sidebar()
+   pages = {
+       'new_page': '🆕 New Page',  # Add this line
+       # ... existing pages
+   }
+   ```
+
+3. **Modify Components** (`src/ui/components.py`):
+   ```python
+   def render_custom_component(data):
+       """Create reusable UI components."""
+       st.markdown(f"""
+       <div class="custom-card">
+           <h3>{data['title']}</h3>
+           <p>{data['content']}</p>
+       </div>
+       """, unsafe_allow_html=True)
+   ```
+
+#### **🤖 Extending AI Capabilities**
+
+**To add new LLM providers** (`src/core/llm_manager.py`):
+
+1. **Add Provider Configuration**:
+   ```python
+   class LLMProvider(Enum):
+       OPENAI = "openai"
+       ANTHROPIC = "anthropic"
+       OLLAMA = "ollama"
+       YOUR_PROVIDER = "your_provider"  # Add this
+   ```
+
+2. **Implement Provider Logic**:
+   ```python
+   def _initialize_your_provider(self):
+       """Initialize your custom LLM provider."""
+       if config.YOUR_PROVIDER_API_KEY:
+           self.providers[LLMProvider.YOUR_PROVIDER.value] = {
+               "client": YourProviderClient(api_key=config.YOUR_PROVIDER_API_KEY),
+               "model": config.YOUR_PROVIDER_MODEL,
+               "available": True
+           }
+   ```
+
+**To modify analysis logic** (`src/core/agent.py`):
+
+1. **Add New Analysis Types**:
+   ```python
+   def analyze_custom_aspect(self, text: str) -> Dict[str, Any]:
+       """Add your custom analysis logic."""
+       prompt = PromptTemplate(
+           input_variables=["text"],
+           template="Analyze this document for custom aspects: {text}"
+       )
+       # Your analysis logic here
+   ```
+
+2. **Extend Risk Assessment**:
+   ```python
+   def _assess_custom_risk(self, clause_text: str) -> str:
+       """Add custom risk assessment logic."""
+       # Your risk assessment logic here
+   ```
+
+#### **💾 Database Modifications**
+
+**To add new data models** (`src/database/models.py`):
+
+1. **Create New Model**:
+   ```python
+   class CustomData(Base):
+       __tablename__ = "custom_data"
+
+       id = Column(Integer, primary_key=True, index=True)
+       document_id = Column(String(255), ForeignKey("documents.doc_id"))
+       custom_field = Column(String(500))
+       created_at = Column(DateTime, default=datetime.utcnow)
+
+       # Relationships
+       document = relationship("Document", back_populates="custom_data")
+   ```
+
+2. **Update Existing Models**:
+   ```python
+   # In Document class, add:
+   custom_data = relationship("CustomData", back_populates="document")
+   ```
+
+#### **⚙️ Configuration Changes**
+
+**To add new settings** (`src/config/settings.py`):
+
+```python
+# Add your custom configuration
+CUSTOM_SETTING = os.getenv("CUSTOM_SETTING", "default_value")
+CUSTOM_API_KEY = os.getenv("CUSTOM_API_KEY")
+
+class Config:
+    # Add to existing config class
+    CUSTOM_FEATURE_ENABLED = bool(os.getenv("CUSTOM_FEATURE_ENABLED", False))
+```
+
+**Update environment file** (`.env`):
+```env
+# Add your custom environment variables
+CUSTOM_SETTING=your_value
+CUSTOM_API_KEY=your_api_key
+CUSTOM_FEATURE_ENABLED=true
+```
+
+### **🚀 Deployment Instructions**
+
+#### **Method 1: Local Development (Recommended for Testing)**
+
+1. **Clone and Setup**:
+   ```bash
+   git clone https://github.com/dev4-gpt/Autonomous-Legal-Document-Analyzer.git
+   cd Autonomous-Legal-Document-Analyzer
+
+   # Create virtual environment
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+   # Install dependencies
+   pip install -r requirements.txt
+   ```
+
+2. **Configure Environment**:
+   ```bash
+   # Copy environment template
+   cp .env.example .env
+
+   # Edit configuration (use your preferred editor)
+   nano .env  # or vim .env, or code .env
+   ```
+
+3. **Install Ollama (for local LLM)**:
+   ```bash
+   # On macOS/Linux
+   curl -fsSL https://ollama.ai/install.sh | sh
+
+   # Start Ollama service
+   ollama serve
+
+   # In another terminal, pull the model
+   ollama pull llama3
+   ```
+
+4. **Run the Application**:
+   ```bash
+   # Start on port 8501 (default)
+   streamlit run app.py
+
+   # Or specify custom port
+   streamlit run app.py --server.port 8502
+
+   # Access at: http://localhost:8501
+   ```
+
+#### **Method 2: Docker Deployment (Production Ready)**
+
+1. **Build and Run with Docker**:
+   ```bash
+   # Build the image
+   docker build -t legal-analyzer .
+
+   # Run container on port 8501
+   docker run -d \
+     --name legal-document-analyzer \
+     -p 8501:8501 \
+     -v $(pwd)/data:/app/data \
+     -v $(pwd)/logs:/app/logs \
+     -v $(pwd)/.env:/app/.env \
+     legal-analyzer
+
+   # Check container status
+   docker ps
+
+   # View logs
+   docker logs legal-document-analyzer
+   ```
+
+2. **Using Docker Compose (Full Stack)**:
+   ```bash
+   # Start all services (app + database + ollama)
+   docker-compose up -d
+
+   # Check services
+   docker-compose ps
+
+   # View logs
+   docker-compose logs -f legal-analyzer
+
+   # Stop services
+   docker-compose down
+   ```
+
+#### **Method 3: Production Deployment**
+
+1. **Cloud Deployment (AWS/GCP/Azure)**:
+   ```bash
+   # Build for production
+   docker build -t legal-analyzer:prod -f Dockerfile.prod .
+
+   # Tag for registry
+   docker tag legal-analyzer:prod your-registry/legal-analyzer:latest
+
+   # Push to registry
+   docker push your-registry/legal-analyzer:latest
+   ```
+
+2. **Environment Configuration for Production**:
+   ```env
+   # Production .env
+   ENVIRONMENT=production
+   DATABASE_URL=postgresql://user:pass@host:5432/legal_analyzer
+   LLM_PROVIDER=openai
+   OPENAI_API_KEY=your-production-key
+   SECRET_KEY=your-secure-secret-key
+   LOG_LEVEL=INFO
+   ```
+
+### **🧪 Testing Your Changes**
+
+1. **Run Tests**:
+   ```bash
+   # Run all tests
+   pytest
+
+   # Run with coverage
+   pytest --cov=src --cov-report=html
+
+   # Run specific test file
+   pytest tests/test_parser.py -v
+   ```
+
+2. **Test UI Changes**:
+   ```bash
+   # Start development server with auto-reload
+   streamlit run app.py --server.runOnSave true
+
+   # Test on different ports
+   streamlit run app.py --server.port 8502
+   ```
+
+3. **Validate Configuration**:
+   ```bash
+   # Test configuration loading
+   python -c "from src.config import config; print('Config loaded successfully')"
+
+   # Test database connection
+   python -c "from src.database import db_manager; print(f'DB Health: {db_manager.health_check()}')"
+   ```
+
+### **📝 Git Workflow for Changes**
+
+1. **Make Your Changes**:
+   ```bash
+   # Create feature branch
+   git checkout -b feature/your-feature-name
+
+   # Make your modifications
+   # ... edit files ...
+
+   # Test your changes
+   pytest
+   streamlit run app.py
+   ```
+
+2. **Commit and Push**:
+   ```bash
+   # Stage changes
+   git add .
+
+   # Commit with descriptive message
+   git commit -m "feat: Add new feature description
+
+   - Detailed description of changes
+   - What was added/modified
+   - Why the change was made"
+
+   # Push to GitHub
+   git push origin feature/your-feature-name
+   ```
+
+3. **Create Pull Request**:
+   - Go to GitHub repository
+   - Click "New Pull Request"
+   - Select your feature branch
+   - Add description and submit
+
+### **🔧 Troubleshooting Common Issues**
+
+#### **Port 8501 Already in Use**:
+```bash
+# Find process using port 8501
+lsof -i :8501
+
+# Kill the process (replace PID)
+kill -9 <PID>
+
+# Or use different port
+streamlit run app.py --server.port 8502
+```
+
+#### **Ollama Connection Issues**:
+```bash
+# Check if Ollama is running
+curl http://localhost:11434/api/tags
+
+# Restart Ollama service
+pkill ollama
+ollama serve
+
+# Verify model is available
+ollama list
+```
+
+#### **Database Connection Problems**:
+```bash
+# Check database file permissions
+ls -la data/legal_analyzer.db
+
+# Reset database (WARNING: deletes all data)
+rm data/legal_analyzer.db
+python -c "from src.database import init_database; init_database()"
+```
+
+#### **Module Import Errors**:
+```bash
+# Ensure you're in the right directory
+pwd  # Should show your project directory
+
+# Activate virtual environment
+source venv/bin/activate
+
+# Reinstall dependencies
+pip install -r requirements.txt
+```
+
 ---
 
 <div align="center">
