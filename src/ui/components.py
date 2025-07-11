@@ -131,6 +131,37 @@ class UITheme:
         .status-warning { background-color: #ffc107; }
         .status-danger { background-color: #dc3545; }
         .status-info { background-color: #17a2b8; }
+
+        /* System status panel styling */
+        .system-status-panel {
+            background-color: #f8f9fa;
+            padding: 1.5rem;
+            border-radius: 0.5rem;
+            border: 1px solid #e9ecef;
+            margin-bottom: 1rem;
+        }
+
+        .system-status-panel h3 {
+            color: #2c3e50 !important;
+            font-weight: 600 !important;
+            margin-bottom: 1rem !important;
+        }
+
+        .status-item {
+            display: flex;
+            align-items: center;
+            margin: 0.75rem 0;
+            padding: 0.5rem;
+            background-color: #ffffff;
+            border-radius: 0.375rem;
+            border: 1px solid #e9ecef;
+        }
+
+        .status-item span {
+            color: #2c3e50 !important;
+            font-weight: 500 !important;
+            margin-left: 0.5rem;
+        }
         
         /* Button styling */
         .stButton > button {
@@ -149,6 +180,54 @@ class UITheme:
         /* Sidebar styling */
         .css-1d391kg {
             background-color: #343a40;
+        }
+
+        /* Navigation and sidebar text improvements */
+        .stSidebar .stMarkdown h1, .stSidebar .stMarkdown h2, .stSidebar .stMarkdown h3 {
+            color: #ffffff !important;
+            font-weight: 600 !important;
+        }
+
+        .stSidebar .stMarkdown p, .stSidebar .stMarkdown div, .stSidebar .stMarkdown span {
+            color: #f8f9fa !important;
+            font-weight: 500 !important;
+        }
+
+        .stSidebar .stSelectbox label, .stSidebar .stRadio label {
+            color: #ffffff !important;
+            font-weight: 600 !important;
+        }
+
+        /* Main page headers and titles */
+        .main .stMarkdown h1 {
+            color: #1f77b4 !important;
+            font-weight: 700 !important;
+            font-size: 2.5rem !important;
+        }
+
+        .main .stMarkdown h2 {
+            color: #2c3e50 !important;
+            font-weight: 600 !important;
+            font-size: 1.8rem !important;
+        }
+
+        .main .stMarkdown h3 {
+            color: #2c3e50 !important;
+            font-weight: 600 !important;
+            font-size: 1.4rem !important;
+        }
+
+        /* Page section headers */
+        .stMarkdown h1, .stMarkdown h2, .stMarkdown h3, .stMarkdown h4 {
+            color: #2c3e50 !important;
+            font-weight: 600 !important;
+        }
+
+        /* General text improvements */
+        .stMarkdown p {
+            color: #495057 !important;
+            font-weight: 400 !important;
+            line-height: 1.6 !important;
         }
         
         /* Hide Streamlit branding */
@@ -209,13 +288,13 @@ class UITheme:
 def render_header():
     """Render the application header."""
     st.markdown(UITheme.get_custom_css(), unsafe_allow_html=True)
-    
+
     col1, col2, col3 = st.columns([1, 2, 1])
     with col2:
         st.markdown("""
         <div style="text-align: center; padding: 2rem 0;">
-            <h1 style="color: #1f77b4; margin-bottom: 0.5rem;">⚖️ Legal Document Analyzer</h1>
-            <p style="color: #6c757d; font-size: 1.1rem;">Enterprise AI-Powered Contract Analysis</p>
+            <h1 style="color: #1f77b4 !important; margin-bottom: 0.5rem; font-weight: 700; font-size: 2.5rem;">⚖️ Legal Document Analyzer</h1>
+            <p style="color: #2c3e50 !important; font-size: 1.2rem; font-weight: 500;">Enterprise AI-Powered Contract Analysis</p>
         </div>
         """, unsafe_allow_html=True)
 
@@ -391,48 +470,62 @@ def render_processing_timeline(documents: List[Dict[str, Any]]) -> None:
 
 def render_system_health_panel(health_data: Dict[str, Any]) -> None:
     """Render system health monitoring panel."""
-    st.markdown("### 🔧 System Health")
-    
-    col1, col2, col3 = st.columns(3)
-    
-    with col1:
-        db_status = "success" if health_data.get("database", {}).get("healthy", False) else "danger"
-        render_status_indicator(db_status, f"Database: {'Healthy' if db_status == 'success' else 'Unhealthy'}")
-    
-    with col2:
-        llm_status = "success" if health_data.get("llm", {}).get("available", False) else "danger"
-        render_status_indicator(llm_status, f"LLM: {'Available' if llm_status == 'success' else 'Unavailable'}")
-    
-    with col3:
-        storage_status = "success" if health_data.get("storage", {}).get("accessible", False) else "danger"
-        render_status_indicator(storage_status, f"Storage: {'Accessible' if storage_status == 'success' else 'Inaccessible'}")
+    st.markdown("""
+    <div class="system-status-panel">
+        <h3>🔧 System Health</h3>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem;">
+    """, unsafe_allow_html=True)
+
+    # Database status
+    db_status = "success" if health_data.get("database", {}).get("healthy", False) else "danger"
+    db_text = "Database: Healthy" if db_status == "success" else "Database: Unhealthy"
+
+    # LLM status
+    llm_status = "success" if health_data.get("llm", {}).get("available", False) else "danger"
+    llm_text = "LLM: Available" if llm_status == "success" else "LLM: Unavailable"
+
+    # Storage status
+    storage_status = "success" if health_data.get("storage", {}).get("accessible", False) else "danger"
+    storage_text = "Storage: Accessible" if storage_status == "success" else "Storage: Inaccessible"
+
+    # Render status items
+    for status, text in [(db_status, db_text), (llm_status, llm_text), (storage_status, storage_text)]:
+        st.markdown(f"""
+        <div class="status-item">
+            <span class="status-indicator status-{status}"></span>
+            <span>{text}</span>
+        </div>
+        """, unsafe_allow_html=True)
+
+    st.markdown("</div></div>", unsafe_allow_html=True)
 
 
 def render_file_upload_area() -> Optional[List]:
     """Render enhanced file upload area."""
-    st.markdown("### 📁 Upload Documents")
-    
+    st.markdown('<h3 style="color: #2c3e50 !important; font-weight: 600;">📁 Upload Documents</h3>', unsafe_allow_html=True)
+
     uploaded_files = st.file_uploader(
         "Choose legal documents to analyze",
         type=["pdf", "docx", "txt", "html"],
         accept_multiple_files=True,
         help=f"Supported formats: {', '.join(config.SUPPORTED_EXTENSIONS)}. Max size: {config.MAX_FILE_SIZE_MB}MB per file."
     )
-    
+
     if uploaded_files:
-        st.markdown("#### Selected Files:")
+        st.markdown('<h4 style="color: #2c3e50 !important; font-weight: 600;">Selected Files:</h4>', unsafe_allow_html=True)
         for file in uploaded_files:
             file_size_mb = len(file.getvalue()) / (1024 * 1024)
-            size_color = "green" if file_size_mb <= config.MAX_FILE_SIZE_MB else "red"
-            
+            size_color = "#28a745" if file_size_mb <= config.MAX_FILE_SIZE_MB else "#dc3545"
+
             st.markdown(f"""
-            <div style="display: flex; justify-content: space-between; align-items: center; 
-                       padding: 0.5rem; background-color: #f8f9fa; border-radius: 0.375rem; margin-bottom: 0.5rem;">
-                <span>📄 {file.name}</span>
-                <span style="color: {size_color}; font-size: 0.875rem;">{file_size_mb:.1f} MB</span>
+            <div style="display: flex; justify-content: space-between; align-items: center;
+                       padding: 0.75rem; background-color: #f8f9fa; border-radius: 0.375rem;
+                       margin-bottom: 0.5rem; border: 1px solid #e9ecef;">
+                <span style="color: #2c3e50 !important; font-weight: 500;">📄 {file.name}</span>
+                <span style="color: {size_color} !important; font-size: 0.875rem; font-weight: 600;">{file_size_mb:.1f} MB</span>
             </div>
             """, unsafe_allow_html=True)
-    
+
     return uploaded_files
 
 

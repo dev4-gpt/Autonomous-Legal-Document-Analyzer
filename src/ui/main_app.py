@@ -88,8 +88,8 @@ class LegalAnalyzerApp:
     
     def render_sidebar(self):
         """Render the sidebar navigation."""
-        st.markdown("## 📋 Navigation")
-        
+        st.markdown('<h2 style="color: #ffffff !important; font-weight: 600;">📋 Navigation</h2>', unsafe_allow_html=True)
+
         # Navigation buttons
         pages = {
             'dashboard': '📊 Dashboard',
@@ -98,22 +98,22 @@ class LegalAnalyzerApp:
             'analytics': '📈 Analytics',
             'settings': '⚙️ Settings'
         }
-        
+
         for page_key, page_name in pages.items():
             if st.button(page_name, key=f"nav_{page_key}", use_container_width=True):
                 st.session_state.current_page = page_key
                 st.rerun()
-        
+
         st.markdown("---")
-        
+
         # System status
-        st.markdown("## 🔧 System Status")
+        st.markdown('<h2 style="color: #ffffff !important; font-weight: 600;">🔧 System Status</h2>', unsafe_allow_html=True)
         self.render_sidebar_status()
-        
+
         st.markdown("---")
-        
+
         # Quick stats
-        st.markdown("## 📊 Quick Stats")
+        st.markdown('<h2 style="color: #ffffff !important; font-weight: 600;">📊 Quick Stats</h2>', unsafe_allow_html=True)
         self.render_sidebar_stats()
     
     def render_sidebar_status(self):
@@ -153,7 +153,7 @@ class LegalAnalyzerApp:
     
     def render_dashboard(self):
         """Render the main dashboard."""
-        st.markdown("# 📊 Dashboard")
+        st.markdown('<h1 style="color: #2c3e50 !important; font-weight: 700; font-size: 2.5rem;">📊 Dashboard</h1>', unsafe_allow_html=True)
         
         try:
             with next(get_db()) as db:
@@ -198,7 +198,7 @@ class LegalAnalyzerApp:
                     st.info("No processing history available")
             
             # Recent activity
-            st.markdown("## 📋 Recent Activity")
+            st.markdown('<h2 style="color: #2c3e50 !important; font-weight: 600;">📋 Recent Activity</h2>', unsafe_allow_html=True)
             if recent_docs:
                 for doc in recent_docs:
                     with st.expander(f"📄 {doc.filename}", expanded=False):
@@ -219,7 +219,7 @@ class LegalAnalyzerApp:
     
     def render_upload_page(self):
         """Render the document upload page."""
-        st.markdown("# 📁 Upload Documents")
+        st.markdown('<h1 style="color: #2c3e50 !important; font-weight: 700; font-size: 2.5rem;">📁 Upload Documents</h1>', unsafe_allow_html=True)
         
         # File upload area
         uploaded_files = render_file_upload_area()
@@ -288,7 +288,7 @@ class LegalAnalyzerApp:
     
     def render_documents_page(self):
         """Render the documents library page."""
-        st.markdown("# 📄 Document Library")
+        st.markdown('<h1 style="color: #2c3e50 !important; font-weight: 700; font-size: 2.5rem;">📄 Document Library</h1>', unsafe_allow_html=True)
         
         # Search and filter panel
         filters = render_search_and_filter_panel()
@@ -344,7 +344,7 @@ class LegalAnalyzerApp:
     
     def render_analytics_page(self):
         """Render the analytics page."""
-        st.markdown("# 📈 Analytics")
+        st.markdown('<h1 style="color: #2c3e50 !important; font-weight: 700; font-size: 2.5rem;">📈 Analytics</h1>', unsafe_allow_html=True)
         
         try:
             with next(get_db()) as db:
@@ -354,14 +354,14 @@ class LegalAnalyzerApp:
                 col1, col2 = st.columns(2)
                 
                 with col1:
-                    st.markdown("### 📊 Risk Distribution")
+                    st.markdown('<h3 style="color: #2c3e50 !important; font-weight: 600;">📊 Risk Distribution</h3>', unsafe_allow_html=True)
                     if stats["risk_distribution"]:
                         render_risk_distribution_chart(stats["risk_distribution"])
                     else:
                         st.info("No risk data available")
-                
+
                 with col2:
-                    st.markdown("### 📋 Contract Types")
+                    st.markdown('<h3 style="color: #2c3e50 !important; font-weight: 600;">📋 Contract Types</h3>', unsafe_allow_html=True)
                     if stats["contract_types"]:
                         # Create contract types chart
                         import plotly.express as px
@@ -376,7 +376,7 @@ class LegalAnalyzerApp:
                         st.info("No contract type data available")
                 
                 # Performance metrics
-                st.markdown("### ⚡ Performance Metrics")
+                st.markdown('<h3 style="color: #2c3e50 !important; font-weight: 600;">⚡ Performance Metrics</h3>', unsafe_allow_html=True)
                 col1, col2, col3 = st.columns(3)
                 
                 with col1:
@@ -394,25 +394,25 @@ class LegalAnalyzerApp:
     
     def render_settings_page(self):
         """Render the settings page."""
-        st.markdown("# ⚙️ Settings")
+        st.markdown('<h1 style="color: #2c3e50 !important; font-weight: 700; font-size: 2.5rem;">⚙️ Settings</h1>', unsafe_allow_html=True)
         
         # LLM Configuration
-        st.markdown("## 🤖 LLM Configuration")
-        
+        st.markdown('<h2 style="color: #2c3e50 !important; font-weight: 600;">🤖 LLM Configuration</h2>', unsafe_allow_html=True)
+
         try:
             llm_status = get_llm_status()
-            
+
             col1, col2 = st.columns(2)
-            
+
             with col1:
-                st.markdown("### Available Providers")
+                st.markdown('<h3 style="color: #2c3e50 !important; font-weight: 600;">Available Providers</h3>', unsafe_allow_html=True)
                 for provider, status in llm_status.items():
                     status_icon = "✅" if status["available"] else "❌"
                     current_icon = "🔄" if status["current"] else ""
-                    st.write(f"{status_icon} {provider} ({status['model']}) {current_icon}")
-            
+                    st.markdown(f'<p style="color: #495057 !important; font-weight: 500;">{status_icon} {provider} ({status["model"]}) {current_icon}</p>', unsafe_allow_html=True)
+
             with col2:
-                st.markdown("### System Health")
+                st.markdown('<h3 style="color: #2c3e50 !important; font-weight: 600;">System Health</h3>', unsafe_allow_html=True)
                 render_system_health_panel({
                     "database": {"healthy": db_manager.health_check()},
                     "llm": {"available": any(s["available"] for s in llm_status.values())},
@@ -420,7 +420,7 @@ class LegalAnalyzerApp:
                 })
             
             # Configuration options
-            st.markdown("## 🔧 Configuration")
+            st.markdown('<h2 style="color: #2c3e50 !important; font-weight: 600;">🔧 Configuration</h2>', unsafe_allow_html=True)
             
             col1, col2 = st.columns(2)
             
