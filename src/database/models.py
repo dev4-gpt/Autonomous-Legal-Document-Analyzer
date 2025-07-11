@@ -9,8 +9,7 @@ from sqlalchemy import (
     Column, Integer, String, Text, DateTime, Float, Boolean,
     JSON, ForeignKey, Index, UniqueConstraint
 )
-from sqlalchemy.ext.declarative import declarative_base
-from sqlalchemy.orm import relationship, Session
+from sqlalchemy.orm import relationship, Session, declarative_base
 from sqlalchemy.sql import func
 
 Base = declarative_base()
@@ -174,7 +173,7 @@ class SystemMetrics(Base):
     metric_value = Column(Float, nullable=False)
     metric_unit = Column(String(50), nullable=True)
     timestamp = Column(DateTime, default=datetime.utcnow, nullable=False)
-    metadata = Column(JSON, nullable=True)
+    system_metadata = Column(JSON, nullable=True)
     
     # Indexes
     __table_args__ = (

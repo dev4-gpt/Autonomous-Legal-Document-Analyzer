@@ -1,0 +1,46 @@
+CONFIDENTIALITY AGREEMENT
+
+This Confidentiality Agreement ("Agreement") is entered into on January 1, 2024 between 
+TechCorp Inc. ("Disclosing Party") and DataSoft LLC ("Receiving Party").
+
+1. CONFIDENTIAL INFORMATION
+The Receiving Party acknowledges that it may receive confidential and proprietary 
+information from the Disclosing Party, including but not limited to technical data, 
+trade secrets, know-how, research, product plans, products, services, customers, 
+customer lists, markets, software, developments, inventions, processes, formulas, 
+technology, designs, drawings, engineering, hardware configuration information, 
+marketing, finances, or other business information.
+
+2. OBLIGATIONS OF RECEIVING PARTY
+The Receiving Party agrees to:
+a) Hold and maintain the Confidential Information in strict confidence
+b) Not disclose the Confidential Information to any third parties without prior written consent
+c) Use the Confidential Information solely for the purpose of evaluating potential business relationships
+d) Take reasonable precautions to protect the confidentiality of the Confidential Information
+
+3. TERM AND TERMINATION
+This Agreement shall remain in effect for a period of five (5) years from the date first written above.
+Either party may terminate this Agreement at any time with thirty (30) days written notice to the other party.
+Upon termination, all Confidential Information must be returned or destroyed.
+
+4. REMEDIES
+The Receiving Party acknowledges that any breach of this Agreement may cause irreparable harm 
+to the Disclosing Party, and that monetary damages may be inadequate to compensate for such breach.
+Therefore, the Disclosing Party shall be entitled to seek equitable relief, including injunction 
+and specific performance, in addition to all other remedies available at law or in equity.
+
+5. GOVERNING LAW
+This Agreement shall be governed by and construed in accordance with the laws of the State of California,
+without regard to its conflict of laws principles.
+
+6. ENTIRE AGREEMENT
+This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof
+and supersedes all prior and contemporaneous agreements and understandings, whether written or oral.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+TechCorp Inc.                    DataSoft LLC
+By: _________________           By: _________________
+Name: John Smith                Name: Jane Doe
+Title: CEO                      Title: CTO
+Date: January 1, 2024          Date: January 1, 2024
