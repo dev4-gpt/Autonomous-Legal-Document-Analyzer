@@ -1,30 +1,27 @@
-# Python virtual environment
-.venv/
-venv/
-ENV/
-
-# Python cache files
+# Python
 __pycache__/
 *.py[cod]
-*$py.class
-
-# Distribution / packaging
-dist/
-build/
 *.egg-info/
 
-# IDE specific files
-.idea/
-.vscode/
-*.swp
-*.swo
-.DS_Store
-.cursor/
+# Environment
+.venv/
+venv/
+.env
 
-# Project specific
-data/uploads/*
-!data/uploads/.gitkeep
-data/vectorstore/*
-!data/vectorstore/.gitkeep
+# Data, logs, and outputs
+data/
 logs/
-*.env 
+uploads/
+vectorstore/
+*.sqlite3
+*.db
+
+# OS files
+.DS_Store
+
+# VSCode or JetBrains
+.vscode/
+.idea/
+
+# Docker artifacts
+*.tar
